@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.yonghyun.myapplication.RegisterActivity">
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:layout_editor_absoluteY="8dp"
+    tools:layout_editor_absoluteX="8dp">
+    <EditText
+        android:id="@+id/idText"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:ems="10"
+        android:hint="ID"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="3dp" />
+
+    <EditText
+        android:id="@+id/passwordText"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="51dp" />
+
+    <EditText
+        android:id="@+id/nameText"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:ems="10"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="99dp" />
+
+    <EditText
+        android:id="@+id/ageText"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:ems="10"
+        android:hint="Age"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="147dp" />
+
+    <Button
+        android:id="@+id/registerButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SignUp"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="195dp" />
+
+</LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

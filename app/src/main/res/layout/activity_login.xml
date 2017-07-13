@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.yonghyun.myapplication.LoginActivity">
+
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    tools:layout_editor_absoluteY="8dp"
+    tools:layout_editor_absoluteX="8dp">
+
+    <EditText
+        android:id="@+id/idText"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:ems="10"
+        android:hint="ID"
+        android:inputType="textPersonName"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <EditText
+        android:id="@+id/passwordText"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginRight="8dp"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteY="76dp"
+        android:layout_marginEnd="8dp" />
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="136dp" />
+
+    <TextView
+        android:id="@+id/registerButton"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="15dp"
+        android:gravity="center_horizontal"
+        android:text="Sign up"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        tools:layout_editor_absoluteX="164dp"
+        tools:layout_editor_absoluteY="193dp" />
+</LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>
