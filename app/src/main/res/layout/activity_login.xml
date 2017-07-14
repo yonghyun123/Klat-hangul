@@ -10,7 +10,6 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_weight="1"
     tools:layout_editor_absoluteY="8dp"
     tools:layout_editor_absoluteX="8dp">
 
@@ -18,10 +17,6 @@
         android:id="@+id/idText"
         android:layout_width="match_parent"
         android:layout_height="60dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginLeft="8dp"
-        android:layout_marginRight="8dp"
-        android:layout_marginStart="8dp"
         android:ems="10"
         android:hint="ID"
         android:inputType="textPersonName"
@@ -34,13 +29,11 @@
         android:id="@+id/passwordText"
         android:layout_width="match_parent"
         android:layout_height="60dp"
-        android:layout_marginRight="8dp"
         android:ems="10"
         android:hint="Password"
         android:inputType="textPassword"
         app:layout_constraintRight_toRightOf="parent"
-        tools:layout_editor_absoluteY="76dp"
-        android:layout_marginEnd="8dp" />
+        tools:layout_editor_absoluteY="76dp" />
     <Button
         android:id="@+id/loginButton"
         android:layout_width="match_parent"

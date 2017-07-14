@@ -90,6 +90,8 @@ public class MainActivity extends AppCompatActivity
         } else if (id == R.id.nav_home) {
 
         } else if (id == R.id.nav_memorization) {
+            Intent choiceLevel = new Intent(MainActivity.this, ChoiceLevelActivity.class);
+            MainActivity.this.startActivity(choiceLevel);
 
         } else if (id == R.id.nav_quiz) {
 
