@@ -22,7 +22,8 @@
         <activity android:name=".LoginActivity" />
         <activity android:name=".RegisterActivity" />
         <activity android:name=".ChoiceLevelActivity" />
-        <activity android:name=".DayListActivity"></activity>
+        <activity android:name=".DayListActivity" />
+        <activity android:name=".WordListActivity"></activity>
     </application>
 
 </manifest>

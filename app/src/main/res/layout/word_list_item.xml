@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.daimajia.swipe.SwipeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+    <LinearLayout
+        android:id="@+id/bottomWrapper"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#66ddff00">
+            
+            <ImageView
+                android:id="@+id/editQuery"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:src="@mipmap/ic_launcher"/>
+        </RelativeLayout>
+        
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#66FF3300">
+
+            <ImageView
+                android:id="@+id/delete"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:src="@mipmap/ic_launcher_round"/>
+        </RelativeLayout>
+        
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:padding="10dp">
+        
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:minHeight="?android:attr/listPreferredItemHeightSmall"
+            android:paddingLeft="?android:attr/listPreferredItemPaddingLeft"
+            android:paddingRight="?android:attr/listPreferredItemPaddingRight"
+            android:textAppearance="?android:attr/textAppearanceListItemSmall" />
+    </LinearLayout>
+
+</com.daimajia.swipe.SwipeLayout>
