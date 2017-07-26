@@ -1,5 +1,6 @@
 package com.example.yonghyun.myapplication;
 
+import android.content.Intent;
 import android.graphics.drawable.Drawable;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
@@ -38,7 +39,8 @@ public class DayListActivity extends AppCompatActivity {
                 Drawable icon = item.getIcon();
                 Toast toast = Toast.makeText(getApplicationContext(),"ddd",Toast.LENGTH_SHORT);
                 toast.show();
-                Log.i("Item clicked","tushar:itemclicked");
+                Intent intent = new Intent(DayListActivity.this, WordListActivity.class);
+                DayListActivity.this.startActivity(intent);
 
             }
         });
