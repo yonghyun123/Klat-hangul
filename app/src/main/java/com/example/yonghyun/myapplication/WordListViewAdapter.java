@@ -22,24 +22,31 @@ import com.daimajia.swipe.SwipeLayout;
 
 import org.w3c.dom.Text;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
  * Created by yonghyun on 2017. 7. 25..
  */
 
-public class WordListViewAdapter extends ArrayAdapter<String> {
+public class WordListViewAdapter extends ArrayAdapter<WordPackageItem> {
 
     final private WordListActivity activity;
-    private List<String> koreanWord;
+    private List<WordPackageItem> koreanWord = new ArrayList<>();
 
-    public WordListViewAdapter(WordListActivity context, int resource, List<String> objects) {
+    public WordListViewAdapter(WordListActivity context, int resource, List<WordPackageItem> objects) {
         super(context, resource, objects);
         this.activity = context;
         this.koreanWord = objects;
     }
     @Override
+    public WordPackageItem getItem(int position){
+        return koreanWord.get(position);
+    }
+
+    @Override
     public View getView(int position, View convertView, ViewGroup parent){
+
         ViewHolder holder;
         LayoutInflater inflater = (LayoutInflater)activity
                 .getSystemService(Activity.LAYOUT_INFLATER_SERVICE);
@@ -52,13 +59,19 @@ public class WordListViewAdapter extends ArrayAdapter<String> {
         } else{
             holder = (ViewHolder)convertView.getTag();
         }
-        holder.name.setText(getItem(position));
-        holder.btnEdit.setOnClickListener(onEditListener(position,holder));
+
+        WordPackageItem item = koreanWord.get(position);
+        Log.i("tagKim",item.getEnglishWord()+"ddd"+item.getKoreanWord());
+
+        holder.name.setText(item.getKoreanWord());
+        holder.btnEdit.setText(item.getEnglishWord());
+//      holder.btnEdit.setOnClickListener(onEditListener(position,holder)); //edit Button temporary stopped
         holder.btnDelete.setOnClickListener(onDeleteListener(position,holder));
 
         return convertView;
     }
 
+    /* editButtoon click listener temporary stopped
     private View.OnClickListener onEditListener(final int position, final ViewHolder holder){
         return new View.OnClickListener(){
 
@@ -108,6 +121,7 @@ public class WordListViewAdapter extends ArrayAdapter<String> {
 
     }
 
+*/
     private View.OnClickListener onDeleteListener(final int position, final ViewHolder holder){
         return new View.OnClickListener(){
 
@@ -116,26 +130,23 @@ public class WordListViewAdapter extends ArrayAdapter<String> {
                 koreanWord.remove(position);
                 holder.swipeLayout.close();
                 activity.updateAdapter();
-
             }
         };
     }
 
     private class ViewHolder{
         private TextView name;
+        private TextView btnEdit;
         private View btnDelete;
-        private View btnEdit;
         private SwipeLayout swipeLayout;
 
         public ViewHolder(View v){
             swipeLayout = (SwipeLayout)v.findViewById(R.id.swipe_layout);
             btnDelete = v.findViewById(R.id.delete);
-            btnEdit = v.findViewById(R.id.editQuery);
+            btnEdit = (TextView)v.findViewById(R.id.editQuery);
             name = (TextView)v.findViewById(R.id.name);
 
-
             swipeLayout.setShowMode(SwipeLayout.ShowMode.LayDown);
-
 
         }
 

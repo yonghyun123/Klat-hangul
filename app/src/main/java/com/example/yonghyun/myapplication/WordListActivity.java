@@ -1,13 +1,16 @@
 package com.example.yonghyun.myapplication;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.daimajia.swipe.SwipeLayout;
 import com.opencsv.CSVReader;
@@ -17,14 +20,19 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
 public class WordListActivity extends AppCompatActivity {
 
     private ListView wordListView;
-    private ArrayAdapter<String> wordAdapter;
-    private ArrayList<String> wordList;
+    private ArrayAdapter<WordPackageItem> koreanWordAdapter;
+    private WordPackageItem packageItems;
+    private ArrayList<WordPackageItem> packageItemsList;
+
+    private ArrayList<String> koreanWordList; //korean word
+
     private TextView totalWordNumber;
     private SwipeLayout swipeLayout;
 
@@ -36,19 +44,49 @@ public class WordListActivity extends AppCompatActivity {
 
         wordListView = (ListView) findViewById(R.id.koreanWord);
 
-        wordList = new ArrayList<>();
+        koreanWordList = new ArrayList<>();
+
+        packageItemsList = new ArrayList<>();
+
         getDataFromFile();
-        setListViewHeader();
+//        setListViewHeader();
         setListViewAdapter();
+
+        wordListView.setOnItemClickListener(new AdapterView.OnItemClickListener(){
+
+            @Override
+            public void onItemClick(AdapterView parent, View v, int position, long id) {
+                Toast toast = Toast.makeText(getApplicationContext(),"몇번째?"+position,Toast.LENGTH_SHORT);
+                toast.show();
+                Intent fullWord = new Intent(WordListActivity.this, ShowFullWord.class);
+                fullWord.putExtra("ItemList",packageItemsList);
+                fullWord.putExtra("position",position);
+                WordListActivity.this.startActivity(fullWord);
+            }
+        });
     }
     private void getDataFromFile(){
+
         BufferedReader reader = null;
+        String[] splitStr = null;
         try{
-            reader = new BufferedReader(new InputStreamReader(getResources().openRawResource(R.raw.easy_korean),"UTF-8"));
-            String line = reader.readLine();
-            while(line != null && !line.equals(" ")){
-                line = reader.readLine();
-                wordList.add(line);
+            reader = new BufferedReader(new InputStreamReader(getResources().openRawResource(R.raw.easy_day1),"UTF-8"));
+            String line = null;
+
+            while((line = reader.readLine())!=null && !line.equals(" ")){
+                packageItems = new WordPackageItem();
+                splitStr = null;
+                splitStr = line.split("\t");
+
+                for(int i=0; i < splitStr.length; i++){
+                    splitStr[i] = splitStr[i].trim();
+                }
+                packageItems.setKoreanWord(splitStr[0]);
+                packageItems.setPartOfWord(splitStr[1]);
+                packageItems.setEnglishWord(splitStr[2]);
+                packageItems.setTranslateWord(splitStr[3]);
+                packageItemsList.add(packageItems);
+
             }
         }catch (IOException e){
             e.printStackTrace();
@@ -108,14 +146,20 @@ public class WordListActivity extends AppCompatActivity {
         });
     }
     private void setListViewAdapter(){
-        wordAdapter = new WordListViewAdapter(this, R.layout.word_list_item, wordList);
-        wordListView.setAdapter(wordAdapter);
+        koreanWordAdapter = new WordListViewAdapter(this, R.layout.word_list_item, packageItemsList);
+        Log.i("tagKims1",packageItemsList.get(0).getKoreanWord());
+        Log.i("tagKims2",packageItemsList.get(1).getKoreanWord());
+        Log.i("tagKims3",packageItemsList.get(2).getKoreanWord());
+        Log.i("tagKims4",packageItemsList.get(3).getKoreanWord());
+        Log.i("tagKims5",packageItemsList.get(4).getKoreanWord());
 
-        totalWordNumber.setText("("+wordList.size()+")");
+        wordListView.setAdapter(koreanWordAdapter);
+
+//        totalWordNumber.setText("("+packageItemsList.size()+")");
     }
     public void updateAdapter(){
-        wordAdapter.notifyDataSetChanged();
+        koreanWordAdapter.notifyDataSetChanged();
 
-        totalWordNumber.setText("("+wordList.size()+")");
+//        totalWordNumber.setText("("+packageItemsList.size()+")");
     }
 }

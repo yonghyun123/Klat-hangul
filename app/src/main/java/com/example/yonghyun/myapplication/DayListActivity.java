@@ -37,7 +37,7 @@ public class DayListActivity extends AppCompatActivity {
 
                 String day = item.getDay();
                 Drawable icon = item.getIcon();
-                Toast toast = Toast.makeText(getApplicationContext(),"ddd",Toast.LENGTH_SHORT);
+                Toast toast = Toast.makeText(getApplicationContext(),"ddd"+position,Toast.LENGTH_SHORT);
                 toast.show();
                 Intent intent = new Intent(DayListActivity.this, WordListActivity.class);
                 DayListActivity.this.startActivity(intent);

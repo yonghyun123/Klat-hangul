@@ -34,7 +34,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:gravity="center"
-            android:text="@string/appbar_scrolling_view_behavior"
+            android:text="Number of total word"
             android:textAllCaps="true"
             android:textColor="@android:color/white"
             android:textStyle="bold" />
