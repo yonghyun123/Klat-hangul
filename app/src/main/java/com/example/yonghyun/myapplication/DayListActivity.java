@@ -12,6 +12,8 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 import android.widget.Toast;
 
+import java.util.ArrayList;
+
 
 public class DayListActivity extends AppCompatActivity {
     int i = 0;
@@ -20,11 +22,16 @@ public class DayListActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_day_list);
+        ArrayList<WordPackageItem> b = new ArrayList<>();
+        WordListViewAdapter a = null;
+
 
         ListView listView = (ListView) findViewById(R.id.dayList);
         ListViewAdapter adapter = new ListViewAdapter();
 
         listView.setAdapter(adapter);
+
+
 
         for (i = 0; i < 30; i++) {
             adapter.addItem(ContextCompat.getDrawable(this, R.drawable.ic_menu_camera), "day " + (i + 1));

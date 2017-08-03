@@ -14,6 +14,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
@@ -33,6 +34,7 @@ public class WordListViewAdapter extends ArrayAdapter<WordPackageItem> {
 
     final private WordListActivity activity;
     private List<WordPackageItem> koreanWord = new ArrayList<>();
+    private List<WordPackageItem> selectedWord = new ArrayList<>();
 
     public WordListViewAdapter(WordListActivity context, int resource, List<WordPackageItem> objects) {
         super(context, resource, objects);
@@ -42,6 +44,9 @@ public class WordListViewAdapter extends ArrayAdapter<WordPackageItem> {
     @Override
     public WordPackageItem getItem(int position){
         return koreanWord.get(position);
+    }
+    List<WordPackageItem> getSelectedWord(){
+        return this.selectedWord;
     }
 
     @Override
@@ -61,8 +66,6 @@ public class WordListViewAdapter extends ArrayAdapter<WordPackageItem> {
         }
 
         WordPackageItem item = koreanWord.get(position);
-        Log.i("tagKim",item.getEnglishWord()+"ddd"+item.getKoreanWord());
-
         holder.name.setText(item.getKoreanWord());
         holder.btnEdit.setText(item.getEnglishWord());
 //      holder.btnEdit.setOnClickListener(onEditListener(position,holder)); //edit Button temporary stopped
@@ -127,9 +130,24 @@ public class WordListViewAdapter extends ArrayAdapter<WordPackageItem> {
 
             @Override
             public void onClick(View view) {
-                koreanWord.remove(position);
-                holder.swipeLayout.close();
-                activity.updateAdapter();
+
+                if(koreanWord.get(position).getSelectedWord() == false){
+                    koreanWord.get(position).setSeletedWord(true);
+                    selectedWord.add(koreanWord.get(position));
+                    holder.swipeLayout.close();
+                    activity.updateAdapter();
+                }
+                else{
+                    koreanWord.get(position).setSeletedWord(false);
+                    selectedWord.remove(koreanWord.get(position));
+                    holder.swipeLayout.close();
+                    activity.updateAdapter();
+                }
+
+                for(int i = 0; i < selectedWord.size(); i++){
+                    Log.i("clicked--",selectedWord.get(i).getKoreanWord());
+                }
+
             }
         };
     }
@@ -137,12 +155,12 @@ public class WordListViewAdapter extends ArrayAdapter<WordPackageItem> {
     private class ViewHolder{
         private TextView name;
         private TextView btnEdit;
-        private View btnDelete;
+        private CheckBox btnDelete;
         private SwipeLayout swipeLayout;
 
         public ViewHolder(View v){
             swipeLayout = (SwipeLayout)v.findViewById(R.id.swipe_layout);
-            btnDelete = v.findViewById(R.id.delete);
+            btnDelete = (CheckBox)v.findViewById(R.id.checkbox);
             btnEdit = (TextView)v.findViewById(R.id.editQuery);
             name = (TextView)v.findViewById(R.id.name);
 

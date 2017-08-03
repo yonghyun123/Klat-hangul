@@ -147,11 +147,6 @@ public class WordListActivity extends AppCompatActivity {
     }
     private void setListViewAdapter(){
         koreanWordAdapter = new WordListViewAdapter(this, R.layout.word_list_item, packageItemsList);
-        Log.i("tagKims1",packageItemsList.get(0).getKoreanWord());
-        Log.i("tagKims2",packageItemsList.get(1).getKoreanWord());
-        Log.i("tagKims3",packageItemsList.get(2).getKoreanWord());
-        Log.i("tagKims4",packageItemsList.get(3).getKoreanWord());
-        Log.i("tagKims5",packageItemsList.get(4).getKoreanWord());
 
         wordListView.setAdapter(koreanWordAdapter);
 

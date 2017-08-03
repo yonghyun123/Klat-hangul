@@ -12,6 +12,7 @@ public class WordPackageItem implements Serializable{
     private String partOfWord;
     private String englishWord;
     private String translateWord;
+    private boolean seletedWord = false;
 
     public String getKoreanWord(){
         return koreanWord;
@@ -25,6 +26,7 @@ public class WordPackageItem implements Serializable{
     public String getTranslateWord(){
         return translateWord;
     }
+    public boolean getSelectedWord() { return seletedWord; }
 
     public void setKoreanWord(String koreanWord){
         this.koreanWord = koreanWord;
@@ -38,5 +40,7 @@ public class WordPackageItem implements Serializable{
     public void setTranslateWord(String translateWord){
         this.translateWord = translateWord;
     }
-
+    public void setSeletedWord(Boolean seletedWord){
+        this.seletedWord = seletedWord;
+    }
 }
