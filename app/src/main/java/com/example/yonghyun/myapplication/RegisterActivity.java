@@ -1,23 +1,30 @@
 package com.example.yonghyun.myapplication;
 
-import android.support.v7.app.AppCompatActivity;
+import android.app.Fragment;
 import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 
-public class RegisterActivity extends AppCompatActivity {
-
+public class RegisterActivity extends Fragment {
+    public RegisterActivity() {
+        // Required empty public constructor
+    }
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_register);
+    }
+    @Override
+    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
+        final View v = inflater.inflate(R.layout.activity_register, container, false);
+        EditText idText = (EditText)v.findViewById(R.id.idText);
+        EditText passwordText = (EditText)v.findViewById(R.id.passwordText);
+        EditText nameText = (EditText)v.findViewById(R.id.nameText);
+        EditText ageText = (EditText)v.findViewById(R.id.ageText);
 
-
-        EditText idText = (EditText)findViewById(R.id.idText);
-        EditText passwordText = (EditText)findViewById(R.id.passwordText);
-        EditText nameText = (EditText)findViewById(R.id.nameText);
-        EditText ageText = (EditText)findViewById(R.id.ageText);
-
-        Button registerButton = (Button)findViewById(R.id.registerButton);
+        Button registerButton = (Button)v.findViewById(R.id.registerButton);
+        return v;
     }
 }

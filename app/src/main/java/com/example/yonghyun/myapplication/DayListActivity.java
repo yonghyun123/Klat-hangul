@@ -1,40 +1,43 @@
 package com.example.yonghyun.myapplication;
 
-import android.content.Intent;
+import android.app.Fragment;
+import android.app.FragmentTransaction;
 import android.graphics.drawable.Drawable;
-import android.support.v4.content.ContextCompat;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
+import android.support.v4.content.ContextCompat;
+import android.view.LayoutInflater;
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.AdapterView;
-import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import java.util.ArrayList;
-
-
-public class DayListActivity extends AppCompatActivity {
+public class DayListActivity extends Fragment {
     int i = 0;
 
+    public DayListActivity() {
+        // Required empty public constructor
+    }
+
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_day_list);
-        ArrayList<WordPackageItem> b = new ArrayList<>();
-        WordListViewAdapter a = null;
+    }
 
+    @Override
+    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
+        final View v = inflater.inflate(R.layout.activity_day_list, container, false);
+        final FragmentTransaction tr = getFragmentManager().beginTransaction();
+        final Fragment WordListActivityFragment = new WordListActivity();
+        final Fragment QuizActivityFragment = new QuizActivity();
 
-        ListView listView = (ListView) findViewById(R.id.dayList);
+        ListView listView = (ListView) v.findViewById(R.id.dayList);
         ListViewAdapter adapter = new ListViewAdapter();
 
         listView.setAdapter(adapter);
 
-
-
         for (i = 0; i < 30; i++) {
-            adapter.addItem(ContextCompat.getDrawable(this, R.drawable.ic_menu_camera), "day " + (i + 1));
+            adapter.addItem(ContextCompat.getDrawable(v.getContext(), R.drawable.ic_menu_camera), "day " + (i + 1));
         }
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
@@ -44,12 +47,18 @@ public class DayListActivity extends AppCompatActivity {
 
                 String day = item.getDay();
                 Drawable icon = item.getIcon();
-                Toast toast = Toast.makeText(getApplicationContext(),"ddd"+position,Toast.LENGTH_SHORT);
+                Toast toast = Toast.makeText(v.getContext(),"ddd",Toast.LENGTH_SHORT);
                 toast.show();
-                Intent intent = new Intent(DayListActivity.this, WordListActivity.class);
-                DayListActivity.this.startActivity(intent);
 
+                if(State_Field.getState()==true){
+                    tr.replace(R.id.contentPanel, WordListActivityFragment);
+                }
+                else{
+                    tr.replace(R.id.contentPanel, QuizActivityFragment);
+                }
+                tr.addToBackStack(null); tr.commit();
             }
         });
+        return v;
     }
 }

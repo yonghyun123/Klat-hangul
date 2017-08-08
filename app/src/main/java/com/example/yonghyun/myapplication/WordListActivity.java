@@ -1,74 +1,119 @@
 package com.example.yonghyun.myapplication;
 
+import android.app.Fragment;
+import android.content.Context;
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
+import android.content.SharedPreferences;
+import android.graphics.Rect;
+import android.icu.text.LocaleDisplayNames;
 import android.os.Bundle;
+import android.support.v4.content.ContextCompat;
+import android.text.Editable;
+import android.text.TextWatcher;
 import android.util.Log;
 import android.view.LayoutInflater;
+import android.view.MotionEvent;
 import android.view.View;
+import android.view.ViewGroup;
+import android.view.ViewTreeObserver;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import com.daimajia.swipe.SwipeLayout;
-import com.opencsv.CSVReader;
 
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 
-public class WordListActivity extends AppCompatActivity {
+public class WordListActivity extends Fragment {
 
     private ListView wordListView;
-    private ArrayAdapter<WordPackageItem> koreanWordAdapter;
+    private EditText searchWord;
+    private WordListViewAdapter koreanWordAdapter;
     private WordPackageItem packageItems;
+    private InputMethodManager imm;
+
     private ArrayList<WordPackageItem> packageItemsList;
+    private List<WordPackageItem> dbItemList;
 
     private ArrayList<String> koreanWordList; //korean word
 
     private TextView totalWordNumber;
     private SwipeLayout swipeLayout;
+    private DBWordHelper db;
 
+    public WordListActivity() {}
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_word_list);
+    }
 
-        wordListView = (ListView) findViewById(R.id.koreanWord);
+    @Override
+    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
+        imm = (InputMethodManager)getActivity().getSystemService(Context.INPUT_METHOD_SERVICE);
+
+        final View v = inflater.inflate(R.layout.activity_word_list, container, false);
+        wordListView = (ListView) v.findViewById(R.id.koreanWord);
+        searchWord = (EditText)v.findViewById(R.id.searchText);
 
         koreanWordList = new ArrayList<>();
-
         packageItemsList = new ArrayList<>();
+        dbItemList = new ArrayList<>();
+
+
+
+        SharedPreferences sharedPreferences = this.getActivity().getSharedPreferences("status", Context.MODE_PRIVATE);
 
         getDataFromFile();
-//        setListViewHeader();
-        setListViewAdapter();
+
+
+        boolean []checkedStatus = new boolean[packageItemsList.size()];
+        for(int i = 0; i < checkedStatus.length; i++){
+
+            checkedStatus[i] = sharedPreferences.getBoolean(Integer.toString(i), false);
+        }
+
+        setListViewAdapter(checkedStatus);
+
 
         wordListView.setOnItemClickListener(new AdapterView.OnItemClickListener(){
 
             @Override
             public void onItemClick(AdapterView parent, View v, int position, long id) {
-                Toast toast = Toast.makeText(getApplicationContext(),"몇번째?"+position,Toast.LENGTH_SHORT);
+                Toast toast = Toast.makeText(v.getContext(),"몇번째?"+position,Toast.LENGTH_SHORT);
                 toast.show();
-                Intent fullWord = new Intent(WordListActivity.this, ShowFullWord.class);
+
+                Intent fullWord = new Intent(getActivity(), ShowFullWord.class);
                 fullWord.putExtra("ItemList",packageItemsList);
                 fullWord.putExtra("position",position);
                 WordListActivity.this.startActivity(fullWord);
             }
         });
+        wordListView.setOnTouchListener(new View.OnTouchListener() {
+
+            @Override
+            public boolean onTouch(View view, MotionEvent motionEvent) {
+                hideKeyboard();
+                return false;
+            }
+        });
+        return v;
     }
+
     private void getDataFromFile(){
 
         BufferedReader reader = null;
         String[] splitStr = null;
+        db = new DBWordHelper(getActivity());
         try{
             reader = new BufferedReader(new InputStreamReader(getResources().openRawResource(R.raw.easy_day1),"UTF-8"));
             String line = null;
@@ -85,6 +130,7 @@ public class WordListActivity extends AppCompatActivity {
                 packageItems.setPartOfWord(splitStr[1]);
                 packageItems.setEnglishWord(splitStr[2]);
                 packageItems.setTranslateWord(splitStr[3]);
+                packageItems.setSeletedWord(db.selectedWord(packageItems));
                 packageItemsList.add(packageItems);
 
             }
@@ -100,61 +146,35 @@ public class WordListActivity extends AppCompatActivity {
             }
         }
     }
-    private void setListViewHeader(){
-        LayoutInflater inflater = getLayoutInflater();
-        View header = inflater.inflate(R.layout.hearder_word_list, wordListView, false);
-        totalWordNumber = (TextView)header.findViewById(R.id.total);
-        swipeLayout = (SwipeLayout)header.findViewById(R.id.swipe_layout);
-        setSwipeViewFeatures();
-        wordListView.addHeaderView(header);
-    }
-    private void setSwipeViewFeatures(){
-        swipeLayout.setShowMode(SwipeLayout.ShowMode.PullOut);
-        swipeLayout.addDrag(SwipeLayout.DragEdge.Left,findViewById(R.id.bottomWrapper));
 
-        swipeLayout.addSwipeListener(new SwipeLayout.SwipeListener(){
-
-            @Override
-            public void onStartOpen(SwipeLayout layout) {
-                Log.i("kimtag","on Start Open");
-            }
-
-            @Override
-            public void onOpen(SwipeLayout layout) {
-                Log.i("kimtag","the BottomView totally show");
-            }
-
-            @Override
-            public void onStartClose(SwipeLayout layout) {
-                Log.i("kimtag","the BottomView totally close");
-            }
-
-            @Override
-            public void onClose(SwipeLayout layout) {
-                Log.i("kimtag","onClose");
-            }
-
-            @Override
-            public void onUpdate(SwipeLayout layout, int leftOffset, int topOffset) {
-                Log.i("kimtag","on Swiping");
-            }
-
-            @Override
-            public void onHandRelease(SwipeLayout layout, float xvel, float yvel) {
-
-            }
-        });
-    }
-    private void setListViewAdapter(){
-        koreanWordAdapter = new WordListViewAdapter(this, R.layout.word_list_item, packageItemsList);
-
+    private void setListViewAdapter(boolean[] checkedStatus){
+        koreanWordAdapter = new WordListViewAdapter(this, R.layout.word_list_item, packageItemsList,checkedStatus);
         wordListView.setAdapter(koreanWordAdapter);
 
-//        totalWordNumber.setText("("+packageItemsList.size()+")");
+        searchWord.addTextChangedListener(new TextWatcher() {
+            @Override
+            public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
+
+            }
+
+            @Override
+            public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
+
+            }
+
+            @Override
+            public void afterTextChanged(Editable edit) {
+                String filterText = edit.toString().toLowerCase(Locale.getDefault());
+                koreanWordAdapter.filter(filterText);
+            }
+        });
+
     }
     public void updateAdapter(){
         koreanWordAdapter.notifyDataSetChanged();
 
-//        totalWordNumber.setText("("+packageItemsList.size()+")");
+    }
+    public void hideKeyboard(){
+        imm.hideSoftInputFromWindow(searchWord.getWindowToken(),0);
     }
 }

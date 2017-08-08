@@ -24,7 +24,12 @@
         <activity android:name=".ChoiceLevelActivity" />
         <activity android:name=".DayListActivity" />
         <activity android:name=".WordListActivity" />
-        <activity android:name=".ShowFullWord"></activity>
+        <activity android:name=".ShowFullWord" />
+        <activity android:name=".QuizActivity" />
+        <activity android:name=".ResultActivity" />
+        <activity android:name=".BookmarkActivity" />
+        <activity android:name=".MarkActivity" />
+        <activity android:name=".MainScreen"></activity>
     </application>
 
 </manifest>

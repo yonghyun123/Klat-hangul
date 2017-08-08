@@ -23,8 +23,6 @@ public class ShowFullWord extends AppCompatActivity{
         TextView englishWordView = (TextView)findViewById(R.id.english);
         TextView translateWordView = (TextView)findViewById(R.id.translate);
 
-
-
         packageItem = new WordPackageItem();
 
         Intent intent = getIntent();

@@ -1,12 +1,12 @@
 package com.example.yonghyun.myapplication;
 
-import android.content.Intent;
+import android.app.FragmentTransaction;
+import android.content.Context;
+import android.os.Build;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
-import android.util.Log;
-import android.view.View;
+import android.support.annotation.RequiresApi;
 import android.support.design.widget.NavigationView;
+import android.support.v4.app.FragmentManager;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
@@ -14,19 +14,26 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.MotionEvent;
+import android.view.View;
+import android.view.inputmethod.InputMethodManager;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
+    private InputMethodManager imm;
+
+    @RequiresApi(api = Build.VERSION_CODES.GINGERBREAD)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        imm = (InputMethodManager)getSystemService(Context.INPUT_METHOD_SERVICE);
+
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        /*
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        /*FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -34,8 +41,8 @@ public class MainActivity extends AppCompatActivity
                         .setAction("Action", null).show();
             }
         });
-
         */
+
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
@@ -44,10 +51,15 @@ public class MainActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+
+        FragmentTransaction tr = getFragmentManager().beginTransaction();
+        tr.add(R.id.contentPanel, new MainScreen());
+        tr.commit();
     }
 
     @Override
     public void onBackPressed() {
+        FragmentManager fm = getSupportFragmentManager();
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         if (drawer.isDrawerOpen(GravityCompat.START)) {
             drawer.closeDrawer(GravityCompat.START);
@@ -81,30 +93,37 @@ public class MainActivity extends AppCompatActivity
     @SuppressWarnings("StatementWithEmptyBody")
     @Override
     public boolean onNavigationItemSelected(MenuItem item) {
+        FragmentTransaction tr = getFragmentManager().beginTransaction();
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
         if (id == R.id.nav_login) {
-            Intent startLogin = new Intent(MainActivity.this, LoginActivity.class);
-            MainActivity.this.startActivity(startLogin);
-
-        } else if (id == R.id.nav_home) {
-
+            init_stack();
+            tr.replace(R.id.contentPanel, new LoginActivity());
+            // } else if (id == R.id.nav_home) {
         } else if (id == R.id.nav_memorization) {
-            Intent choiceLevel = new Intent(MainActivity.this, ChoiceLevelActivity.class);
-            MainActivity.this.startActivity(choiceLevel);
-
-
+            init_stack();
+            State_Field.setState(true); //if state = true then momorization
+            tr.replace(R.id.contentPanel, new ChoiceLevelActivity());
         } else if (id == R.id.nav_quiz) {
-
-        } else if (id == R.id.nav_test) {
-
-        } else if (id == R.id.nav_word_list) {
-
+            init_stack();
+            State_Field.setState(false);  //if state = false then quiz
+            tr.replace(R.id.contentPanel, new ChoiceLevelActivity());
+        } //else if (id == R.id.nav_test) {}
+        else if (id == R.id.nav_word_list) {
+            init_stack();
+            tr.replace(R.id.contentPanel, new BookmarkActivity());
         }
-
+        tr.addToBackStack(null);
+        tr.commit();
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
     }
+    public void init_stack() {
+        for(int i = 0;i <getFragmentManager().getBackStackEntryCount() ;i++){
+            getFragmentManager().popBackStack();
+        }
+    }
+
 }
