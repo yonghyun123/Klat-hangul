@@ -2,6 +2,7 @@ package com.example.yonghyun.myapplication;
 
 import android.app.Fragment;
 import android.app.FragmentTransaction;
+import android.content.Intent;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.support.v4.content.ContextCompat;
@@ -29,10 +30,10 @@ public class DayListActivity extends Fragment {
         final View v = inflater.inflate(R.layout.activity_day_list, container, false);
         final FragmentTransaction tr = getFragmentManager().beginTransaction();
         final Fragment WordListActivityFragment = new WordListActivity();
-        final Fragment QuizActivityFragment = new QuizActivity();
 
         ListView listView = (ListView) v.findViewById(R.id.dayList);
         ListViewAdapter adapter = new ListViewAdapter();
+
 
         listView.setAdapter(adapter);
 
@@ -54,7 +55,8 @@ public class DayListActivity extends Fragment {
                     tr.replace(R.id.contentPanel, WordListActivityFragment);
                 }
                 else{
-                    tr.replace(R.id.contentPanel, QuizActivityFragment);
+                    Intent intent = new Intent(getActivity(), QuizActivity.class);
+                    startActivity(intent);
                 }
                 tr.addToBackStack(null); tr.commit();
             }

@@ -5,21 +5,24 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.yonghyun.myapplication.ResultActivity"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="#ffffff">
 
     <TextView
         android:id="@+id/scoreText"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:layout_marginTop="10dp"
         android:gravity="center"
-        android:textSize="25dp"
+        android:textSize="30dp"
+        android:textColor="#000000"
         />
 
     <ListView
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="16dp"
+        android:layout_marginBottom="5dp"
         android:id="@+id/wrongItem"
-        android:layout_marginTop="10dp"
         android:layout_weight="8"
         android:layout_width="fill_parent"
         android:layout_height="0px"
@@ -31,8 +34,12 @@
         android:layout_height="0px"
         android:text="O.K."
         android:layout_gravity="center_horizontal"
-        android:layout_weight="1"
-        android:paddingBottom="10dp"
+        android:layout_weight="0.8"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:background="@drawable/button_shape"
         />
 
 </LinearLayout>

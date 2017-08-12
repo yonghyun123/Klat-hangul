@@ -1,7 +1,7 @@
 package com.example.yonghyun.myapplication;
 
 import android.app.Fragment;
-import android.content.Intent;
+import android.app.FragmentTransaction;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -21,6 +21,10 @@ public class LoginActivity extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
         final View v = inflater.inflate(R.layout.activity_login, container, false);
+
+        final FragmentTransaction tr = getFragmentManager().beginTransaction();
+        final Fragment RegisterActivityFragment = new RegisterActivity();
+
         EditText idText = (EditText)v.findViewById(R.id.idText);
         EditText passwordText = (EditText)v.findViewById(R.id.passwordText);
 
@@ -30,9 +34,9 @@ public class LoginActivity extends Fragment {
         registerButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                getFragmentManager()
-                        .beginTransaction()
-                        .replace(R.id.contentPanel, new RegisterActivity()).commit();
+                tr.replace(R.id.contentPanel, RegisterActivityFragment);
+                tr.addToBackStack(null);
+                tr.commit();
             }
         });
         return v;

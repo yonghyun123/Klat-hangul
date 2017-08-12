@@ -1,28 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.yonghyun.myapplication.ChoiceLevelActivity">
+    tools:context="com.example.yonghyun.myapplication.ChoiceLevelActivity"
+    android:background="#ffffff"
+    android:gravity="center">
 
-    <LinearLayout
-        android:layout_width="368dp"
-        android:layout_height="495dp"
-        android:orientation="vertical"
-        tools:layout_editor_absoluteX="8dp"
-        tools:layout_editor_absoluteY="8dp">
+    <Button
+        android:id="@+id/levelChoice1"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/level_button_shape"
+        android:text="EASY"
+        android:layout_marginTop="60dp"
+        android:layout_marginBottom="30dp"
+        android:textColor="#ffffff"
+        android:textSize="40dp" />
 
-        <Button
-            android:id="@+id/levelChoice1"
-            android:layout_width="match_parent"
-            android:layout_height="60dp"
-            android:text="easy" />
+    <Button
+        android:id="@+id/levelChoice2"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="60dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/level_button_shape"
+        android:text="NORMAL"
+        android:textColor="#ffffff"
+        android:textSize="40dp" />
 
-        <Button
-            android:id="@+id/levelChoice2"
-            android:layout_width="match_parent"
-            android:layout_height="60dp"
-            android:text="Nomal" />
-    </LinearLayout>
-</android.support.constraint.ConstraintLayout>
+</RelativeLayout>

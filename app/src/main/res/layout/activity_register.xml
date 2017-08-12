@@ -1,64 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.yonghyun.myapplication.RegisterActivity">
-<LinearLayout
-    android:orientation="vertical"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:layout_editor_absoluteY="8dp"
-    tools:layout_editor_absoluteX="8dp">
-    <EditText
-        android:id="@+id/idText"
-        android:layout_width="match_parent"
-        android:layout_height="60dp"
-        android:ems="10"
-        android:hint="ID"
-        android:inputType="textPersonName"
-        tools:layout_editor_absoluteX="4dp"
-        tools:layout_editor_absoluteY="3dp" />
+    tools:context="com.example.yonghyun.myapplication.RegisterActivity"
+    android:background="#ffffff"
+    android:gravity="center">
 
-    <EditText
-        android:id="@+id/passwordText"
+    <LinearLayout
+        android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="60dp"
-        android:ems="10"
-        android:hint="Password"
-        android:inputType="textPersonName"
-        tools:layout_editor_absoluteX="4dp"
-        tools:layout_editor_absoluteY="51dp" />
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        >
+        <EditText
+            android:id="@+id/idText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="ID"
+            android:inputType="textPersonName"/>
 
-    <EditText
-        android:id="@+id/nameText"
-        android:layout_width="match_parent"
-        android:layout_height="60dp"
-        android:ems="10"
-        android:hint="Name"
-        android:inputType="textPersonName"
-        tools:layout_editor_absoluteX="4dp"
-        tools:layout_editor_absoluteY="99dp" />
+        <EditText
+            android:id="@+id/passwordText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Password"
+            android:inputType="textPersonName"
+            android:layout_marginTop="16dp"/>
 
-    <EditText
-        android:id="@+id/ageText"
-        android:layout_width="match_parent"
-        android:layout_height="60dp"
-        android:ems="10"
-        android:hint="Age"
-        android:inputType="textPersonName"
-        tools:layout_editor_absoluteX="4dp"
-        tools:layout_editor_absoluteY="147dp" />
+        <EditText
+            android:id="@+id/nameText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Name"
+            android:inputType="textPersonName"
+            android:layout_marginTop="16dp"/>
+
+        <EditText
+            android:id="@+id/ageText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Age"
+            android:inputType="textPersonName"
+            android:layout_marginTop="16dp"/>
+
+    </LinearLayout>
 
     <Button
         android:id="@+id/registerButton"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="SignUp"
-        tools:layout_editor_absoluteX="4dp"
-        tools:layout_editor_absoluteY="195dp" />
+        android:text="Sign Up"
+        android:textSize="20dp"
+        android:textColor="#ffffff"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:background="@drawable/button_shape"/>
 
-</LinearLayout>
 
-</android.support.constraint.ConstraintLayout>
+</RelativeLayout>

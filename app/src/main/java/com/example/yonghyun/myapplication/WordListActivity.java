@@ -4,21 +4,15 @@ import android.app.Fragment;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.graphics.Rect;
-import android.icu.text.LocaleDisplayNames;
 import android.os.Bundle;
-import android.support.v4.content.ContextCompat;
 import android.text.Editable;
 import android.text.TextWatcher;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
-import android.view.ViewTreeObserver;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
@@ -50,7 +44,10 @@ public class WordListActivity extends Fragment {
     private SwipeLayout swipeLayout;
     private DBWordHelper db;
 
-    public WordListActivity() {}
+
+    public WordListActivity() {
+        // Required empty public constructor
+    }
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -59,9 +56,8 @@ public class WordListActivity extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
-        imm = (InputMethodManager)getActivity().getSystemService(Context.INPUT_METHOD_SERVICE);
-
         final View v = inflater.inflate(R.layout.activity_word_list, container, false);
+        imm = (InputMethodManager)getActivity().getSystemService(Context.INPUT_METHOD_SERVICE);
         wordListView = (ListView) v.findViewById(R.id.koreanWord);
         searchWord = (EditText)v.findViewById(R.id.searchText);
 
@@ -99,9 +95,8 @@ public class WordListActivity extends Fragment {
             }
         });
         wordListView.setOnTouchListener(new View.OnTouchListener() {
-
             @Override
-            public boolean onTouch(View view, MotionEvent motionEvent) {
+            public boolean onTouch(View view, MotionEvent motionEvent){
                 hideKeyboard();
                 return false;
             }
@@ -172,9 +167,6 @@ public class WordListActivity extends Fragment {
     }
     public void updateAdapter(){
         koreanWordAdapter.notifyDataSetChanged();
-
     }
-    public void hideKeyboard(){
-        imm.hideSoftInputFromWindow(searchWord.getWindowToken(),0);
-    }
+    public void hideKeyboard() {imm.hideSoftInputFromWindow(searchWord.getWindowToken(),0);}
 }

@@ -84,10 +84,6 @@ public class BookmarkAdapter extends ArrayAdapter<WordPackageItem> {
             name = (TextView)v.findViewById(R.id.name);
 
             swipeLayout.setShowMode(SwipeLayout.ShowMode.LayDown);
-
         }
-
     }
-
-
 }

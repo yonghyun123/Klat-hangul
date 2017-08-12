@@ -18,8 +18,6 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-import static android.widget.AdapterView.*;
-
 public class BookmarkActivity extends Fragment {
 
     private ListView bookmarkListView;
@@ -30,7 +28,6 @@ public class BookmarkActivity extends Fragment {
     private TextView totalWordNumber;
     private SwipeLayout swipeLayout;
 
-
     public BookmarkActivity(){}
 
     @Override
@@ -39,6 +36,7 @@ public class BookmarkActivity extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
         final View v = inflater.inflate(R.layout.activity_bookmark, container, false);
+
         bookmarkListView = (ListView)v.findViewById(R.id.bookmarkList);
         totalTextView = (TextView)v.findViewById(R.id.totalNumber);
 
@@ -61,9 +59,6 @@ public class BookmarkActivity extends Fragment {
                 BookmarkActivity.this.startActivity(fullWord);
             }
         });
-
-
-
         return v;
     }
 

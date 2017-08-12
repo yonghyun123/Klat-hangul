@@ -2,6 +2,9 @@ package com.example.yonghyun.myapplication;
 
 import android.app.FragmentTransaction;
 import android.content.Context;
+import android.content.Intent;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.annotation.RequiresApi;
@@ -12,27 +15,25 @@ import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.text.Spannable;
+import android.text.SpannableString;
+import android.text.style.ForegroundColorSpan;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.MotionEvent;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
-
-    private InputMethodManager imm;
-
     @RequiresApi(api = Build.VERSION_CODES.GINGERBREAD)
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        imm = (InputMethodManager)getSystemService(Context.INPUT_METHOD_SERVICE);
 
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
         /*FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -42,10 +43,20 @@ public class MainActivity extends AppCompatActivity
             }
         });
         */
+        SpannableString s = new SpannableString("Main");
+        s.setSpan(new ForegroundColorSpan(Color.parseColor("#ff9d00")), 0, "Main".length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
+        getSupportActionBar().setTitle(s);
+        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.rgb(255,255,255)));
 
-        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+        final DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
-                this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
+                this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close){
+            public void onDrawerOpened(View drawerView) {
+                super.onDrawerClosed(drawerView);
+                InputMethodManager imm = (InputMethodManager)getSystemService(Context.INPUT_METHOD_SERVICE);
+                imm.hideSoftInputFromWindow(drawerView.getWindowToken(),0);
+            }
+        };
         drawer.setDrawerListener(toggle);
         toggle.syncState();
 
@@ -71,6 +82,9 @@ public class MainActivity extends AppCompatActivity
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
+        View view = this.getCurrentFocus();
+        InputMethodManager imm = (InputMethodManager)getSystemService(Context.INPUT_METHOD_SERVICE);
+        imm.hideSoftInputFromWindow(view.getWindowToken(),0);
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
@@ -81,12 +95,10 @@ public class MainActivity extends AppCompatActivity
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
-
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
             return true;
         }
-
         return super.onOptionsItemSelected(item);
     }
 
@@ -95,12 +107,19 @@ public class MainActivity extends AppCompatActivity
     public boolean onNavigationItemSelected(MenuItem item) {
         FragmentTransaction tr = getFragmentManager().beginTransaction();
         // Handle navigation view item clicks here.
+
+        View view = this.getCurrentFocus();
+        InputMethodManager imm = (InputMethodManager)getSystemService(Context.INPUT_METHOD_SERVICE);
+        imm.hideSoftInputFromWindow(view.getWindowToken(),0);
+
         int id = item.getItemId();
 
         if (id == R.id.nav_login) {
             init_stack();
             tr.replace(R.id.contentPanel, new LoginActivity());
-            // } else if (id == R.id.nav_home) {
+        } else if (id == R.id.nav_home) {
+            init_stack();
+            tr.replace(R.id.contentPanel, new MainScreen());
         } else if (id == R.id.nav_memorization) {
             init_stack();
             State_Field.setState(true); //if state = true then momorization
@@ -109,7 +128,11 @@ public class MainActivity extends AppCompatActivity
             init_stack();
             State_Field.setState(false);  //if state = false then quiz
             tr.replace(R.id.contentPanel, new ChoiceLevelActivity());
-        } //else if (id == R.id.nav_test) {}
+        } else if (id == R.id.nav_test) {
+            init_stack();
+            Intent intent = new Intent(this, TestActivity.class);
+            this.startActivity(intent);
+        }
         else if (id == R.id.nav_word_list) {
             init_stack();
             tr.replace(R.id.contentPanel, new BookmarkActivity());
@@ -125,5 +148,4 @@ public class MainActivity extends AppCompatActivity
             getFragmentManager().popBackStack();
         }
     }
-
 }

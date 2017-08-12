@@ -67,7 +67,7 @@ public class WordListViewAdapter extends ArrayAdapter<WordPackageItem> implement
         holder.btnCheckbox.setTag(position);
 
         holder.btnCheckbox.setOnClickListener(onDeleteListener(position,holder));
-        holder.btnCheckbox.setOnCheckedChangeListener(this);
+//        holder.btnCheckbox.setOnCheckedChangeListener(this);
 
         holder.btnCheckbox.setChecked(item.getSelectedWord());
 

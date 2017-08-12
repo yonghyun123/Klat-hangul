@@ -29,7 +29,9 @@
         <activity android:name=".ResultActivity" />
         <activity android:name=".BookmarkActivity" />
         <activity android:name=".MarkActivity" />
-        <activity android:name=".MainScreen"></activity>
+        <activity android:name=".MainScreen" />
+        <activity android:name=".TestActivity" />
+        <activity android:name=".TestResultActivity"></activity>
     </application>
 
 </manifest>

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/app/src/main/res/raw/easy_day1.txt" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/easy_korean.csv" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/raw/easy_korean.txt" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/easy_korean3.txt" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/raw/one_sentence.txt" charset="UTF-8" />
   </component>
 </project>

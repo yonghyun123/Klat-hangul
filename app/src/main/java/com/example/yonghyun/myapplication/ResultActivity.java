@@ -1,8 +1,15 @@
 package com.example.yonghyun.myapplication;
 
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.text.Spannable;
+import android.text.SpannableString;
+import android.text.style.ForegroundColorSpan;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
@@ -19,21 +26,39 @@ public class ResultActivity extends AppCompatActivity {
     private ArrayAdapter<WordPackageItem> wrongWordAdapter;
     private ListView wrongListView;
 
+    private DBWordHelper db;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_result);
+
+        SpannableString s = new SpannableString("Main");
+        s.setSpan(new ForegroundColorSpan(Color.parseColor("#ff9d00")), 0, "Main".length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
+        getSupportActionBar().setTitle(s);
+        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.rgb(255,255,255)));
+
         TextView score = (TextView) findViewById(R.id.scoreText);
         Button btn = (Button) findViewById(R.id.ok_btn);
         wrongListView = (ListView) findViewById(R.id.wrongItem);
+        int pos = 0;
 
-        score.setText(QuizActivity.positive + " / " + 20);
         Intent intent = getIntent();
+        pos = intent.getExtras().getInt("positive");
+        score.setText(pos+ " / " + 20);
         wronglist = intent.getStringArrayListExtra("list");
 
         wrongItemList = new ArrayList<>();
         setWrongWords();
-        setListViewAdapter();
+
+
+        SharedPreferences sharedPreferences = this.getSharedPreferences("status", Context.MODE_PRIVATE);
+        boolean []checkedStatus = new boolean[wrongItemList.size()];
+        for(int i = 0; i < checkedStatus.length; i++){
+
+            checkedStatus[i] = sharedPreferences.getBoolean(Integer.toString(i), false);
+        }
+        setListViewAdapter(checkedStatus);
 
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -47,6 +72,7 @@ public class ResultActivity extends AppCompatActivity {
     private void setWrongWords(){
         int cnt = 0;
         wrongItem = new WordPackageItem();
+        db = new DBWordHelper(this);
         for(int i = 0; i<wronglist.size();i++){
             cnt++;
             if(i%2 == 0){
@@ -55,6 +81,7 @@ public class ResultActivity extends AppCompatActivity {
             else{
                 wrongItem.setEnglishWord(wronglist.get(i));
             }
+            wrongItem.setSeletedWord(db.selectedWord(wrongItem));
             if(cnt != 0 && cnt%2 == 0){
                 wrongItemList.add(wrongItem);
                 wrongItem = new WordPackageItem();
@@ -62,14 +89,18 @@ public class ResultActivity extends AppCompatActivity {
         }
     }
 
-    private void setListViewAdapter(){
-        wrongWordAdapter = new WrongListViewAdapter(this, R.layout.word_list_item, wrongItemList);
+    private void setListViewAdapter(boolean[] checkedStatus){
+        wrongWordAdapter = new WrongListViewAdapter(this, R.layout.word_list_item, wrongItemList,checkedStatus);
         wrongListView.setAdapter(wrongWordAdapter);
     }
+    public void updateAdapter(){
+        wrongWordAdapter.notifyDataSetChanged();
 
+    }
     @Override
     public void onBackPressed() {
         Intent intent = new Intent(this, MainActivity.class);
+        intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
         startActivity(intent);
     }
 }

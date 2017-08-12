@@ -5,38 +5,45 @@
     android:id="@+id/quizscreen"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    tools:context="com.example.yonghyun.myapplication.QuizActivity">
-
-    <ProgressBar
-        android:id="@+id/progressBar"
-        style="?android:attr/progressBarStyleHorizontal"
+    tools:context="com.example.yonghyun.myapplication.QuizActivity"
+    android:background="#ffffff">
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_marginTop="20dp"
-        android:max="20"
-        />
-    <TextView
-        android:id="@+id/statusText"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/progressBar"
-        android:textSize="20dp"
-        android:layout_marginTop="10dp"
-        android:text="status"
-        android:layout_centerHorizontal="true"
-        />
+        android:id="@+id/quizTopPanel"
+        android:orientation="vertical"
+        android:background="@drawable/button_shape">
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:progressTint="#FF4081"
+            android:max="20"
+            />
+        <TextView
+            android:id="@+id/statusText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="status"
+            android:textColor="#ffffff"
+            />
+    </LinearLayout>
 
     <TextView
         android:id="@+id/quizText"
         android:layout_width="match_parent"
         android:layout_height="150dp"
-        android:layout_below="@+id/statusText"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/quizTopPanel"
         android:gravity="center"
-        android:textSize="32dp"
-        android:layout_marginTop="20dp"
+        android:textSize="40dp"
+        android:textColor="#000000"
         />
-
     <EditText
         android:id="@+id/editText"
         android:layout_width="match_parent"
@@ -46,15 +53,42 @@
         android:layout_marginTop="20dp"
         android:layout_below="@id/quizText"
         android:imeOptions="actionDone"
-        tools:layout_editor_absoluteX="8dp"
-        tools:layout_editor_absoluteY="324dp" />
+        android:hint="Input Answer"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textCursorDrawable="@null"/>
 
-    <Button
-        android:id="@+id/submitButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="submit"
-        android:layout_alignParentBottom="true"
-        android:paddingBottom="10dp"
-        android:layout_centerHorizontal="true" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:gravity="bottom"
+        android:layout_below="@+id/editText">
+        <Button
+            android:id="@+id/exitButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Exit"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/button_shape"/>
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/submitButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Submit"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:background="@drawable/button_shape"/>
+    </LinearLayout>
 </RelativeLayout>

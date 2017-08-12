@@ -24,6 +24,7 @@ public class ChoiceLevelActivity extends Fragment {
         Button easyButton = (Button)v.findViewById(R.id.levelChoice1); //if easybutton clicked level is 0
         Button nomalButton = (Button)v.findViewById(R.id.levelChoice2);// if nomalbutton clicked level is 1
 
+
         //case 1 : easy mode
         easyButton.setOnClickListener(new View.OnClickListener() {
             @Override
