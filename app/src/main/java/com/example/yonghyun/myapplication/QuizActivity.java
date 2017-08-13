@@ -13,8 +13,8 @@ import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.LinearLayout;
 import android.widget.ProgressBar;
-import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -40,8 +40,8 @@ public class QuizActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_quiz);
 
-        SpannableString s = new SpannableString("Main");
-        s.setSpan(new ForegroundColorSpan(Color.parseColor("#ff9d00")), 0, "Main".length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
+        SpannableString s = new SpannableString("App Name");
+        s.setSpan(new ForegroundColorSpan(Color.parseColor("#ff9d00")), 0, "App Name".length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
         getSupportActionBar().setTitle(s);
         getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.rgb(255,255,255)));
 
@@ -51,7 +51,7 @@ public class QuizActivity extends AppCompatActivity {
         final Button exitBtn = (Button) findViewById(R.id.exitButton);
         final EditText edit = (EditText) findViewById(R.id.editText);
         final ProgressBar progressBar = (ProgressBar) findViewById(R.id.progressBar);
-        final RelativeLayout layout = (RelativeLayout) findViewById(R.id.quizscreen);
+        final LinearLayout layout = (LinearLayout) findViewById(R.id.quizscreen);
 
         long seed = System.nanoTime();
         imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
@@ -179,4 +179,13 @@ public class QuizActivity extends AppCompatActivity {
         }
         return false;
     }
+
+    /*
+    public static void setCustomToast(Context context, String msg){
+        TextView view = new TextView(context);
+        view.setText(msg);
+        view.setBackgroundColor(context.getResources().getColorStateList(android.R.color.white));
+        final Toast toast = Toast.makeText(context, "", Toast.LENGTH_SHORT);
+        toast.show();
+    }*/
 }

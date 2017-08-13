@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <item>
+    <item android:state_pressed="true">
         <layer-list>
             <item android:top = "5dp" android:left = "5dp">
                 <shape android:shape="oval">
-                    <solid android:color="#1f000000"/>
+                    <gradient android:angle="270" android:endColor="#eeeeee" android:startColor="#1f000000" />
+                </shape>
+            </item>
+            <item android:bottom="5dp" android:right="5dp">
+                <shape android:shape="oval">
+                    <gradient
+                        android:angle="135"
+                        android:centerColor="#ff8800"
+                        android:endColor="#ff9d00"
+                        android:startColor="#ffd500"
+                        android:type="linear" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+    <item android:state_pressed="false">
+        <layer-list>
+            <item android:top = "5dp" android:left = "5dp">
+                <shape android:shape="oval">
+                    <solid android:color="#1f000000" />
                 </shape>
             </item>
             <item android:bottom="5dp" android:right="5dp">

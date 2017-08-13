@@ -56,7 +56,6 @@ public class MainHorizontalViewAdapter extends RecyclerView.Adapter<MainHorizont
             super(v);
             mainKorean = (TextView)v.findViewById(R.id.mainBookmarkKorean);
             mainEnglish = (TextView)v.findViewById(R.id.mainBookmarkEnglish);
-
         }
     }
 

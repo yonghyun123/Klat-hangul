@@ -5,6 +5,11 @@
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="SplashTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
     </style>
 
     <style name="AppTheme.NoActionBar">
@@ -15,15 +20,6 @@
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
-    <style name="buttonBarButtonStyle" parent="Widget.AppCompat.Button.Borderless.Colored"/>
-
-
-    <style name="MyAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog">
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
-        <item name="android:alertDialogTheme">@style/MyAlertDialogStyle</item>
-    </style>
 
     <style name="ToolBarStyle" parent="Theme.AppCompat">
         <item name="android:textColorPrimary">#ff9d00</item>

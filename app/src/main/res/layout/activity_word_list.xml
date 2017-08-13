@@ -27,7 +27,11 @@
             android:hint="Search"
             android:textColorHint="#ffffff"
             android:background="@drawable/list_shape"
-            android:textSize="20dp" />
+            android:textSize="20dp"
+            android:textCursorDrawable="@null"
+            android:imeOptions="actionDone"
+            android:inputType="none|text"
+            />
 
         <ListView
             android:layout_width="match_parent"

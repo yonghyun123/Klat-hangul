@@ -1,23 +1,19 @@
 package com.example.yonghyun.myapplication;
 
+import android.app.Activity;
 import android.app.FragmentTransaction;
 import android.content.Context;
 import android.content.Intent;
-import android.graphics.Color;
-import android.graphics.drawable.ColorDrawable;
 import android.os.Build;
 import android.os.Bundle;
+import android.os.Handler;
 import android.support.annotation.RequiresApi;
 import android.support.design.widget.NavigationView;
-import android.support.v4.app.FragmentManager;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.text.Spannable;
-import android.text.SpannableString;
-import android.text.style.ForegroundColorSpan;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -32,6 +28,7 @@ public class MainActivity extends AppCompatActivity
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_main);
+
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         /*FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
@@ -43,10 +40,11 @@ public class MainActivity extends AppCompatActivity
             }
         });
         */
-        SpannableString s = new SpannableString("Main");
-        s.setSpan(new ForegroundColorSpan(Color.parseColor("#ff9d00")), 0, "Main".length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
-        getSupportActionBar().setTitle(s);
-        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.rgb(255,255,255)));
+        //SpannableString s = new SpannableString("Main");
+        //s.setSpan(new ForegroundColorSpan(Color.parseColor("#ff9d00")), 0, "Main".length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
+        //getSupportActionBar().setTitle(s);
+        //getSupportActionBar().setTitle(Color.parseColor("#ffd900"));
+        //getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.rgb(255,255,255)));
 
         final DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
@@ -66,11 +64,12 @@ public class MainActivity extends AppCompatActivity
         FragmentTransaction tr = getFragmentManager().beginTransaction();
         tr.add(R.id.contentPanel, new MainScreen());
         tr.commit();
+
+
     }
 
     @Override
     public void onBackPressed() {
-        FragmentManager fm = getSupportFragmentManager();
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         if (drawer.isDrawerOpen(GravityCompat.START)) {
             drawer.closeDrawer(GravityCompat.START);
@@ -106,6 +105,7 @@ public class MainActivity extends AppCompatActivity
     @Override
     public boolean onNavigationItemSelected(MenuItem item) {
         FragmentTransaction tr = getFragmentManager().beginTransaction();
+        tr.setCustomAnimations(R.animator.enter_anim, R.animator.exit_anim);
         // Handle navigation view item clicks here.
 
         View view = this.getCurrentFocus();

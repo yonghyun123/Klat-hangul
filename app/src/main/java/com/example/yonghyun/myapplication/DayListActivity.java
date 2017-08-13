@@ -29,6 +29,7 @@ public class DayListActivity extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
         final View v = inflater.inflate(R.layout.activity_day_list, container, false);
         final FragmentTransaction tr = getFragmentManager().beginTransaction();
+        tr.setCustomAnimations(R.animator.enter_anim, R.animator.exit_anim);
         final Fragment WordListActivityFragment = new WordListActivity();
 
         ListView listView = (ListView) v.findViewById(R.id.dayList);
@@ -58,7 +59,9 @@ public class DayListActivity extends Fragment {
                     Intent intent = new Intent(getActivity(), QuizActivity.class);
                     startActivity(intent);
                 }
-                tr.addToBackStack(null); tr.commit();
+                tr.addToBackStack(null);
+                tr.commit();
+
             }
         });
         return v;
