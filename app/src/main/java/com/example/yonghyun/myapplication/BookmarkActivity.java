@@ -51,8 +51,6 @@ public class BookmarkActivity extends Fragment {
 
             @Override
             public void onItemClick(AdapterView parent, View v, int position, long id) {
-                Toast toast = Toast.makeText(v.getContext(),"몇번째?"+position,Toast.LENGTH_SHORT);
-                toast.show();
                 Intent fullWord = new Intent(getActivity(), ShowFullWord.class);
                 fullWord.putExtra("ItemList", (Serializable) bookmarkItemList);
                 fullWord.putExtra("position",position);

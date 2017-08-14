@@ -7,6 +7,7 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextWatcher;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.MotionEvent;
 import android.view.View;
@@ -70,6 +71,7 @@ public class WordListActivity extends Fragment {
         SharedPreferences sharedPreferences = this.getActivity().getSharedPreferences("status", Context.MODE_PRIVATE);
 
         getDataFromFile();
+        Log.i("in wordListActivity","what is it = "+State_Field.getDate());
 
 
         boolean []checkedStatus = new boolean[packageItemsList.size()];

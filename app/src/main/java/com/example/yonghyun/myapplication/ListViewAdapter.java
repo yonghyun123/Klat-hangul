@@ -47,12 +47,11 @@ public class ListViewAdapter extends BaseAdapter{
             convertView = inflater.inflate(R.layout.activity_day, parent, false);
         }
 
-        ImageView iconImageView = (ImageView)convertView.findViewById(R.id.dayImage);
         TextView dayTextView = (TextView)convertView.findViewById(R.id.dayText);
 
         ListViewItem listViewDay = listViewDayList.get(position);
 
-        iconImageView.setImageDrawable(listViewDay.getIcon());
+
         dayTextView.setText(listViewDay.getDay());
 
 

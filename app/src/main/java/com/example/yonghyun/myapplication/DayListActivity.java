@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.support.v4.content.ContextCompat;
+import android.util.Log;
+import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -31,7 +33,6 @@ public class DayListActivity extends Fragment {
         final FragmentTransaction tr = getFragmentManager().beginTransaction();
         tr.setCustomAnimations(R.animator.enter_anim, R.animator.exit_anim);
         final Fragment WordListActivityFragment = new WordListActivity();
-
         ListView listView = (ListView) v.findViewById(R.id.dayList);
         ListViewAdapter adapter = new ListViewAdapter();
 
@@ -42,6 +43,7 @@ public class DayListActivity extends Fragment {
             adapter.addItem(ContextCompat.getDrawable(v.getContext(), R.drawable.ic_menu_camera), "day " + (i + 1));
         }
 
+
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView parent, View v, int position, long id) {
@@ -49,10 +51,10 @@ public class DayListActivity extends Fragment {
 
                 String day = item.getDay();
                 Drawable icon = item.getIcon();
-                Toast toast = Toast.makeText(v.getContext(),"ddd",Toast.LENGTH_SHORT);
-                toast.show();
+
 
                 if(State_Field.getState()==true){
+                    State_Field.setDate(position+1);
                     tr.replace(R.id.contentPanel, WordListActivityFragment);
                 }
                 else{

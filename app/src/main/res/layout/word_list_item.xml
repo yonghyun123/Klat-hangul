@@ -14,7 +14,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="3"
-            android:background="#ffd500">
+            android:background="#fffffa">
 
             <TextView
                 android:id="@+id/editQuery"
@@ -29,7 +29,8 @@
         <RelativeLayout
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="1">
+            android:layout_weight="1"
+            android:background="#fffffa">
 
             <CheckBox
                 android:id="@+id/selectWordCheckBox"

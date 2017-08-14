@@ -1,6 +1,8 @@
 package com.example.yonghyun.myapplication;
 
 
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -13,6 +15,8 @@ import android.widget.ImageView;
  * A simple {@link Fragment} subclass.
  */
 public class WebViewFragment2 extends Fragment {
+
+    private static final String baseURL = "http://stdweb2.korean.go.kr/main.jsp";
 
     private ImageView imageView;
 
@@ -32,6 +36,17 @@ public class WebViewFragment2 extends Fragment {
         final View v = inflater.inflate(R.layout.fragment_web_view2, container, false);
         imageView = (ImageView)v.findViewById(R.id.imageWebView2);
         imageView.setImageResource(R.drawable.klat_logo2);
+
+        imageView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(Intent.ACTION_VIEW);
+                Uri u = Uri.parse(baseURL);
+                intent.setData(u);
+                startActivity(intent);
+            }
+        });
+
         return v;
     }
 

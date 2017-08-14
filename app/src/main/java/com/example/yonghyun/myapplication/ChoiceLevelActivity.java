@@ -7,6 +7,7 @@ import android.app.FragmentTransaction;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -26,6 +27,7 @@ public class ChoiceLevelActivity extends Fragment{
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
         v = inflater.inflate(R.layout.activity_choice_level, container, false);
+
         final FragmentTransaction tr = getFragmentManager().beginTransaction();
         tr.setCustomAnimations(R.animator.enter_anim, R.animator.exit_anim);
         final Fragment DayListActivityFragment = new DayListActivity();

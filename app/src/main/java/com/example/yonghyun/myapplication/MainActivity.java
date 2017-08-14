@@ -119,7 +119,8 @@ public class MainActivity extends AppCompatActivity
             tr.replace(R.id.contentPanel, new LoginActivity());
         } else if (id == R.id.nav_home) {
             init_stack();
-            tr.replace(R.id.contentPanel, new MainScreen());
+            this.startActivity(new Intent(this, MainActivity.class));
+            finish();
         } else if (id == R.id.nav_memorization) {
             init_stack();
             State_Field.setState(true); //if state = true then momorization

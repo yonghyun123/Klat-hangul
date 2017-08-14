@@ -7,6 +7,7 @@ package com.example.yonghyun.myapplication;
 public class State_Field {
     static private boolean state;       //qize or memorization
     static private int level;
+    static private int date;
 
     static public void setState(boolean s){
         state = s;
@@ -17,4 +18,8 @@ public class State_Field {
         level = l;
     }
     static public int getLevel() {return level;    }
+
+    static public void setDate(int date){ date = date;}
+    static public int getDate(){ return date; }
+
 }

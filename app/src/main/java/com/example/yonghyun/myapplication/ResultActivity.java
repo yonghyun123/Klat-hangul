@@ -83,6 +83,8 @@ public class ResultActivity extends AppCompatActivity {
             }
             wrongItem.setSeletedWord(db.selectedWord(wrongItem));
             if(cnt != 0 && cnt%2 == 0){
+                wrongItem.setPartOfWord(wronglist.get(i));
+                wrongItem.setTranslateWord(wronglist.get(i));
                 wrongItemList.add(wrongItem);
                 wrongItem = new WordPackageItem();
             }

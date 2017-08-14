@@ -147,7 +147,9 @@ public class QuizActivity extends AppCompatActivity {
                     splitstr[i] = splitstr[i].trim();
                 }
                 packageItems.setKoreanWord(splitstr[0]);
+                packageItems.setPartOfWord(splitstr[1]);
                 packageItems.setEnglishWord(splitstr[2]);
+                packageItems.setTranslateWord(splitstr[3]);
                 packageItemsList.add(packageItems);
             }
         }catch (IOException e){
