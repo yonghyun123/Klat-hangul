@@ -1,0 +1,60 @@
+잘생기다	Adjective 	good-looking; handsome; comely	Having a pleasing and attractive appearance.
+잘하다	Verb 	do well	To do something in an excellent and successful way.
+잠	Noun	sleep	The state of taking a rest for a period of time with one's eyes closed and mental activities suspended.
+잠깐	Adverb	for a moment; for an instant; for a while	For a very short time.
+잠시	Adverb	for a while; for a moment; for some time	For a short time.
+잠옷	Noun	nightclothes; sleepwear	Comfortable garments that one wears in bed.
+잠자다	Verb	sleep; have a sleep	To stop the activities of one's body and mind and rest for a while.
+잡다	Verb	hold; grab; seize	To hold something in one's hand and not let it go.
+잡수시다	Verb	eat; have	(honorific) To eat.
+잡지	Noun	magazine	"A periodically published book that puts together a variety of articles, photographs, advertisements, etc."
+잡채	Noun	japchae	"A Korean dish made by mixing sweet potato noodles with thin slices of stir-fried various vegetables, meat, etc."
+장	Bound Noun	piece; sheet	"A bound noun that serves as a unit for counting thin, wide objects such as a sheet of paper or glass."
+장갑	Noun	glove	"An item made of cloth, thread, leather, etc., worn on the hand to protect it from cold, etc."
+장난감	Noun	toy	Various objects which children play with.
+장래	Noun	future	The time to come.
+장마	Noun	monsoon; monsoon season	"A phenomenon or weather where it keeps raining for consecutive days in summer, or such rainfall."
+장마철	Noun	monsoon season	The period in the summer when it rains for days on end.
+장미	Noun	rose	"A fragrant flower with thorns on the stem that blooms in red, white, yellow, etc., in May or June."
+장소	Noun	place; venue; space	A space where something happens or is done.
+장점	Noun	strength	"An aspect that is good, one is good at, or is desirable."
+재료	Noun	material; ingredient	Something that is used to produce an item.
+재미없다	Adjective	not interesting	Lacking feelings of joy and pleasantness.
+재미있다	Adjective 	interesting	Feelings of joy and pleasantness being present.
+저	Pronoun	I; me	The humble form used by the speaker to refer to himself/herself for the purpose of showing humility to the listener.
+저기	Pronoun	that place	A word used to describe a place that is far away from the speaker or the listener.
+저녁	Noun	evening	The hours between the time when the sun starts setting and the time when the night falls.
+저축하다	Verb	save	"To save money, wealth, etc., by spending it frugally."
+저희	Pronoun	our	A word used by the speaker to refer to a group of people including himself/herself.
+적다(quantity)	Adjective	little; a little	"Not meeting a certain standard in terms of number, quantity or degree."
+적당하다	Adjective	adequate	"Meeting requirements or conditions, or being appropriate in terms of degree."
+전(time)	Noun	past	A point in time in the past.
+전공	Noun	major; specialty	"The act of researching or studying a certain field in a professional manner, or such a field."
+전공하다	Verb	major in; specialize in	To research or study a certain field in a professional manner.
+전부	Noun	everything	The entire sum of all parts.
+전시회	Noun	exhibition	A gathering or event where a variety of items are set up for visitors to look at.
+전자레인지	Noun	microwave oven	A cooking device used to heat food with high-frequency waves.
+전자사전	Noun	electronic dictionary	A dictionary whose content is derived from a paper dictionary and in turn is stored in electronic storage.
+전자제품	Noun	electronics; electrical goods	"Electronics is the technology of using transistors and silicon chips, especially in devices such as radios, telebisions, and computers."
+전체	Noun	whole	"Something considered as an entirety, which is composed of elements or parts."
+전혀	Adverb	(not) at all; completely	By any possibility or wholly.
+전화	Noun	call; phone call	"The act of exchanging words between people via telephone, or such conversation."
+전화기	Noun	telephone	A device that turns voice into electric waves or currents to allow people far away from each other to have a conversation.
+전화번호	Noun	phone number	A number unique to a phone.
+절	Noun	Buddhist temple	A place where Buddhist monks enshrine a statue of the Buddha and discipline their minds by teaching and learning their religious doctrine.
+젊다	Adjective	young	Being in one's youthful years.
+젊은이	Noun	young man; young woman	A person of a young age.
+점	Noun	point; dot	"A small, round mark."
+점수	Noun	score	A number representing one's performance.
+점심(time)	Noun	afternoon	The time between morning and evening when the sun is at its highest during the day.
+점심(meal)	Noun	lunch	A meal eaten in the afternoon between breakfast and dinner.
+점심시간	Noun	lunchtime	A time allotted for having lunch.
+점원	Noun	clerk	A person who is paid to work at a store.
+점점	Adverb	gradually	Little by little as times goes by.
+접시	Noun	plate	"A flat, plane-surfaced container to keep food in."
+젓가락	Noun	chopsticks	"A pair of long, slender sticks used to pick up things or food to eat."
+정각	Noun	being exact	An exact hour.
+정거장	Noun	stop; station	"A place where buses, trains, etc., stop so people can get on and off the vehicle."
+정도	Noun	degree	A quantity or level that represents the nature or value of something in terms of the degree of goodness or intensity.
+정류장	Noun	stop	"A place where buses, taxis etc., stop so people can get on and off the vehicle."
+정리	Noun	organizing	The act of gathering or clearing away dispersed or unorganized items.

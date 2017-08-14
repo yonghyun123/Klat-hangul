@@ -1,0 +1,60 @@
+가게	Noun	shop; store	A place where products are displayed and sold on a small scale.
+가격	Noun	price	A value amount for something that is for sale.
+가구	Noun	furniture	"Objects used in a house such as a bed, chest, table, etc."
+가깝다	Adjective	near; close; adjacent	Not far from a certain location.
+가끔	Adverb	sometimes	Once in a while.
+가난하다	Adjective	poor; indigent; destitute	Hard to make a living due to a lack of money.
+가늘다	Adjective	thin	An object having a narrow width or being thin and long.
+가능하다	Adjective	possible; able	Being able to be something or to do something.
+가다	Verb	go; travel	To move from one place to another place.
+가르치다	Verb	teach; instruct	To explain knowledge or skills to help someone understand it.
+가리키다	Verb	point; gesture; indicate	To point a finger or some other thing in a certain direction or toward a certain object to let others recognize it.
+가방	Noun	bag	"A container for storing a person's belongings, which can be held with a hand or hung on a shoulder."
+가볍다	Adjective	light	Weighing little.
+가수	Noun	singer	A person whose job it is to sing.
+가슴	Noun	chest	"The front part of a human or animal's body, between the neck and the abdomen."
+가요	Noun	Korean popular song	Songs many Koreans enjoy singing.
+가운데	Noun	center; middle	A point that is almost equally distant from all ends of an object or within a space.
+가위	Noun	scissors	"A tool for cutting paper, fabric, hair, etc."
+가을	Noun	fall	One of four seasons which comes between summer and winter.
+가장	Adverb	best	In a way that is better than any other.
+가져가다	Verb	bring	To move an object from one place to another place.
+가져오다	Verb	bring	To bring an object from one place to another place.
+가족	Noun	family	"A group of people who mainly live together in the same house and are related by marriage or as parents, children, siblings, etc."
+가지	Bound Noun	kind; sort	A bound noun used to indicate the type of a thing.
+가지다	Verb	have; hold	"To carry or keep something, or hold it in one's hands."
+각	Determiner	each; every	Each and every one of multiple things or people.
+각자	Noun	each; individual	Each person or an individual's own self.
+간단하다	Adjective	simple	Not too lengthy or complex.
+간식	Noun	snack	Food that one eats between meals.
+간장	Noun	soy sauce	"Salty, black liquid used to flavor food."
+간호사	Noun	nurse	A person whose job it is to assist doctors in taking care of patients at hospitals.
+갈비	Noun	ribs	"Breastbones of cows, pigs, chickens, etc., and the flesh attached to these bones, used as an ingredient for food."
+갈비탕	Noun	galbitang	"Beef rib soup, made by boiling short beef ribs for long hours."
+갈색	Noun	brown	"The color of a fallen leaf, similar to dark yellow."
+갈아입다	Verb	change one's clothes	To take off one's clothes and put on other clothes.
+갈아타다	Verb	transfer; transship	To get off from a vehicle and get on another.
+감기	Noun	cold	"A contagious disease that generally comes with symptoms such as coughing, runny nose, headache and chills."
+감다	Verb	close; shut eyes	To cover one's eyes with one's eyelids.
+감동	Noun	strong feelings; strong impression; deep emotion	"The state of feeling of being touched by something very deeply, or such an emotional state."
+감사하다	Verb	appreciate	To feel thankful for something.
+감자	Noun 	potato	A ball-shaped stem growing underground with pale yellow flesh and light brown skin.
+갑자기	Adverb	suddenly; all of a sudden	"Quickly, not allowing someone to think."
+값	Noun	price	"The amount of money for which an item was sold, indicating its value in the marketplace."
+강	Noun	river	"A wide, long stream reaching the sea."
+강아지	Noun	puppy	The pup of a dog.
+강하다	Adjective	strong; powerful	Having strength.
+같다	Adjective	same; identical; equal	Not different from each other.
+같이	Adverb	together	With each other.
+개(Bound Noun)	Bound Noun	gae	A bound noun that serves as a unit for counting the number of objects that are available as a single piece.
+개(Animal)	Noun	dog	An animal raised as a pet or hunting companion.
+개월	Bound Noun	month	A bound noun that serves as a unit for counting the number of months.
+개인	Noun	each person; individual	Each person.
+거기	Pronoun	there	A pronoun used to indicate a place close to the listener.
+거실	Noun	living room	"The central room in a western house, where family members spend time together or talk with visitors."
+거울	Noun	mirror	"A thin, flat object reflecting the appearance of an object or person"
+거의	Noun 	most; almost	A little less than all.
+거짓말	Noun 	lie; falsehood	"A remark which is not true, intended to make someone believe it is true."
+걱정	Noun 	worry; concern; care	"The state of feeling afraid and uneasy, in fear of the possible occurrence of something bad."
+걱정하다	Verb	worry; be worried; be concerned	To feel fearful and anxious that something bad might happen.
+건강	Noun 	health; wellbeing	A state of body and mind that is robust with no illness.

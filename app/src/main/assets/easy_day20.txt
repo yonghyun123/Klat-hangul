@@ -1,0 +1,60 @@
+여행	Noun	travel; trip	"The act of going away from home, and visiting other places or foreign countries and doing sightseeing."
+여행사	Noun	travel agency	"A company that offers an array of services for travel, including transportation, accomodaton, tour guide, etc."
+여행하다	Verb 	travel; trip	"To go away from home, and visit other places or foreign countries and do sightseeing."
+역	Noun	station; stop 	A place where a train departs and arrives.
+역사	Noun	history	"The process of a human society where it flourishes and collapses with time, or the records of such process."
+역시	Adverb	also; as well	Likewise.
+역할	Noun	role; part	Activities assigned to someone or that he/she has to do.
+연결하다	Verb 	connect	"To connect or relate two or more things or phenomena, etc., to each other."
+연극	Noun	play; drama; theater	An act in which an actor or actress acts on a stage according to a script for the audience.
+연기	Noun	smoke	A gas created when something burns.
+연락	Noun	communication	The act of delivering a fact.
+연락처	Noun	contact information	A telephone number or address via which one can contact someone else.
+연락하다	Verb 	notify; communicate; speak to	To deliver a fact in order to inform someone of it.
+연세	Noun	age	(honorific) One's age.
+연습	Noun	practice	The act of doing something repeatedly in order to be good at it.
+연습하다	Verb	practice	To do something repeatedly in order to be good at it.
+연예인	Noun	entertainer	"A person who acts, sings, or dances professionally."
+연주회	Noun	concert; recital	A performance of music in front of an audience.
+연필	Noun	pencil	An implement used to write or draw by putting thin and long black lead in a wooden stick.
+연하장	Noun	New Year's card	A card or letter that contains a simple message or picture for celebrating the new year or asking after someone.
+열(state)	Noun	fever	A hot sensation that occurs when one is sick.
+열다	Verb	open; unlock	To open or unlock something closed or locked.
+열쇠	Noun	key	A device for locking or opening a lock.
+열심히	Adverb	hard; diligently; zealously	With all one's heart.
+열차	Noun	train	A railroad or subway train made of a series of cars linked serially.
+엽서	Noun	postcard	A card which can be sent without an envelope by mail.
+영국	Noun	England; the United Kingdom	England; the United Kingdom
+영상(temperature )	Noun	temperature above zero	A temperature above zero degrees Celsius.
+영하	Noun	temperature below zero	A temperature below zero degrees Celsius.
+영화	Noun	film; movie	A composite art which captures moving objects on film with a certain message and then shows it on a screen by using a projector.
+영화관	Noun	movie theater	"A place for showing a movie, which is equipped with facilities that enable a lot of people to watch a movie all together."
+영화배우	Noun	film actor; movie actress	A person who performs in a movie.
+옆	Noun	side	The right or left side of something.
+예	Interjection	yes sir; yes ma'am	An exclamation uttered when the speaker answers the call of his/her elder.
+예쁘다	Adjective	pretty; beautiful; comely	The appearance of someone or something looking good and beautiful.
+예약	Noun	reservation; booking	"The act of arranging a place, room, object, etc., in advance for future use, or such an arrangement."
+예약하다	Verb 	make a reservation; book	"To arrange a place, room, object, etc., in advance for future use."
+예절	Noun	courtesy; manners	A polite way of talking or behaving which one should respect while living as a member of society.
+예정	Noun	plan; expectation	The act of deciding or expecting what to do in the future.
+옛날	Noun	past; ancient times	A time that is far back from the present.
+오늘	Noun	today	The day that is passing at the present time.
+오다	Verb	come	For something to move from another place to here.
+오래	Adverb	long	For a long time.
+오래되다	Adjective	old; ancient	Marked by a long duration of time since the start or formation of something.
+오랜만	Noun	being after a long time 	A state in which a long time has passed since something happened.
+오랫동안	Noun	for ages	For a very long time.
+오렌지	Noun	orange	"An orange-colored, round fruit which is juicy and has thick skin."
+오른쪽	Noun	right	The east-facing side from the vantage point of someone who is facing north.
+오리	Noun	duck	"An animal with a large beak, which can swim well due to its webbed feet."
+오빠	Noun	elder brother	A word used only by a girl to refer to or address endearingly another male who is older than she.
+오이	Noun	cucumber	"A plant which has yellow flowers and long, oval-shaped, green fruits in summer, or its fruit."
+오전	Noun	morning	The time from morning to noon.
+오징어	Noun	squid	"A sea animal which has a long, pliable body with ten long legs and no bones."
+오후	Noun	afternoon	The duration from noon to the time when the sun goes down.
+온도계	Noun	thermometer	An instrument for measuring the temperature of something.
+온통	Adverb	entirely; wholly	All of everything.
+올라가다	Verb	go up; rise; ascend	"To move from the bottom to the top, or from a lower place to a higher one."
+올라오다	Verb 	come up; rise; ascend	To move from a lower place to a higher one.
+올림	Noun	Sincerely yours; Yours very truly	A term written next to the name of the sender as a sign of respect when he/she sends a letter or gift to someone older.
+올해	Noun	this year	The current year.

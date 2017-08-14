@@ -1,0 +1,60 @@
+사람	Noun	human; man	"A being that is capable of thinking, makes and uses languages and tools and lives by forming a society with others."
+사랑	Noun	love	The attitude of sincerely caring about someone out of affection.
+사랑하다	Verb	love; care	"To cherish, value, and care for someone with all one's heart."
+사모님	Noun	another person's wife	(polite form) Another person's wife.
+사무실	Noun	office; place of business; workplace	"A room at work for working on a given task, usually doing paperwork, etc."
+사업가	Noun	businessperson; entrepreneur	A person who runs a business professionally
+사용하다	Verb	use	To use something for a certain job or function.
+사이	Noun	space; distance; gap	"The distance or space between one object and another, or between one place and another."
+사이다	Noun	soda pop	A soft drink made by mixing soda with sweetened water.
+사이즈	Noun	size; measurement	"A size or measurement of clothing, shoes, etc."
+사이트	Noun	site	A place where information is stored so as to allow users to look for them by accessing the Internet.
+사인하다	Verb	sign	To write down one's name uniquely so that others cannot imitate it.
+사자	Noun	lion	"A large, ferocius animal whose males have a mane around its face and neck."
+사장	Noun	president; chief executive	A person who represents a company and is responsible for corporate affairs.
+사전	Noun	dictionary	"A book that lists a number of words in a certain order, and explains their pronunciation, meaning, origin, usage, etc."
+사진	Noun	picture; photo	"An image of a certain object recorded by a camera, and then produced in a print format, in a file on the computer, etc. to preserve it for a long period of time."
+사진기	Noun	camera	A machine for taking photographs.
+사촌	Noun	cousin	A child of one's parent's sibling; one's relation with that child.
+사탕	Noun	candy	"A bite-sized, hard and sweet confection made by boiling Korean liquid sweetener, yeot or sugar."
+사회	Noun	society	"A group formed by people who belong to a similar class, or who hold similar occupations, positions, etc."
+사흘	Noun	three days	Three days.
+산	Noun	mountain	"A land mass that rises much higher above a plane and usually has trees, grass, rocks, etc."
+산책하다	Verb	walk; stroll	To walk slowly around a nearby place for rest or health.
+살(body)	Noun	flesh; weight	The tender part of the human or animal body that covers the bones.
+살(unit)	Bound Noun	years old	A bound noun that serves as a unit for counting years of age.
+살다	Verb	live; be alive	To be alive.
+삶다	Verb	boil	To put in water and boil.
+삼거리	Noun	three-way crossing; intersection of three streets	A place where a road is divided into three ways.
+삼겹살	Noun	samgyeopsal	"pork belly meat: A fleshy part of a pork belly, featuring three layers of fat and flesh, grilled pork belly, a Korea dish made from the meat."
+삼계탕	Noun	samgyetang	"ginseng chicken soup: A dish made by boiling down a young chicken stuffed with ginseng, sticky rice, jujubes, etc."
+삼촌	Noun	uncle; paternal uncle	A word used to refer to or address a brother of one's father or mother.
+상	Noun	prize; reward	A thing given for doing something well or showing an excellent academic record.
+상가	Noun	shopping complex; shopping mall	A building densely populated by shops.
+상상하다	Verb 	imagine	To picture something in mind that does not exist or one has never experienced.
+상영하다	Verb 	play; show; run	"To play a movie on a screen in a place such as a movie theater, etc., for an audience."
+상자	Noun	box	"A square container made of wood or paper, etc., designed to hold things."
+상점	Noun	store; shop	A store that sells goods.
+상쾌하다	Adjective	refreshing	Feeling cool and fresh.
+상품	Noun	product; goods	Goods to sell and buy.
+상하다	Verb 	be hurt; be injured	To be wounded or become unhealthy.
+새(animal)	Noun	bird	A two-legged flying animal with feathers and wings on its body.
+새(Determiner)	Noun	new	"Having not existed already, but having just been created."
+새로	Adverb 	newly	"Newly, not existing before."
+새롭다	Adjective	new; fresh	Being different from existing ones or never having existed.
+새벽	Noun	dawn 	The time around sunrise.
+색	Noun	color; tint; hue	"An object's color such as red, yellow, blue, etc., or brightness or darkness, which are decided by light."
+색깔	Noun	color; hue; tint	A sheen or color an object takes on when exposed to light.
+샌드위치	Noun	sandwich	"Food made by putting vegetables, meat, egg, cheese, etc., between two pieces of bread."
+샐러드	Noun	salad	"A dish made by pouring sauce such as mayonnaise, oil, vinegar, etc., on vegetables or fruit."
+생각	Noun	thought	The act of a human being using his/her brains to judge or perceive something.
+생각나다	Verb	occur	For a new idea to come to one's head.
+생각하다	Verb	think	To judge or perceive something by using one's brain.
+생년월일	Noun	date of birth; birth date	"The year, month and day of birth."
+생선	Noun	raw fish	Fresh fish that has just been caught for food.
+생선회	Noun	saengseon-hoe	"Thin slices of fresh fish eaten by dipping them in soy sauce or chogochujang, red chilli pepper paste with vinegar."
+생신	Noun	birthday	(polite form) A person's day of birth.
+생일	Noun	birthday	The day a person was born.
+생활	Noun	life	The act of a person or animal living in a place
+생활비	Noun	living expenses; cost of living	The money necessary for living.
+샤워하다	Verb	shower	To wash the body with a nozzle that sprays water like rain.

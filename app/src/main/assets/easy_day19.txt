@@ -1,0 +1,60 @@
+야	Interjection	hey	"An exclamation used when an adult calls out to a child, or when persons of similar age call out to each other."
+야구	Noun	baseball	"A game played by two opposing teams of nine people, taking turns batting and fielding."
+약(Determiner)	Determiner	about; approximately; around	An unconjugation adjective used to indicate that a quantity is close to a certain number.
+약(eat)	Noun	medicine; medication; pill; drug	"A substance orally administered, applied or injected to treat or prevent an illness, wound, etc."
+약국	Noun	pharmacy	A place where pharmacists prepare or sell medicine.
+약사	Noun	pharmacist	A person who prepares and sells medicine as an occupation.
+약속	Noun	promise; appointment; pledge	"An act of agreeing with someone to do a certain thing, or details of such an agreement."
+약하다	Adjective	weak	Having small power.
+얇다	Adjective	thin	Not thick.
+양	Noun	sheep	A meek animal with white hair all over its body.
+양말	Noun	sock	"A thing made of thread or cloth, worn on the foot to cover it or protect it from cold."
+양보하다	Verb 	offer; yield; give way to	"To give up one's seat, possession, etc., for another person."
+양복	Noun	suit	A man's western-style formal dress.
+양산	Noun	parasol	A type of umbrella usually used by women as a sunshade.
+양식	Noun	mode; form	A certain form or manner needed in doing something.
+양파	Noun	onion	A round-shaped and pungent vegetable with distinctive smell.
+얕다	Adjective	shallow	Having a short distance from top to bottom or from outside to inside.
+어깨	Noun	shoulder	The body part between the lower end of the neck and the upper end of the arm.
+어느	Determiner	which	Asking for particular something or someone within a number of things.
+어둡다	Verb 	dark; dim	Not bright due to the lack of light.
+어디	Pronoun	where	The word that means a place which one does not know.
+어떠하다	Adjective	such	"Being such in one's thoughts, feelings, state, situation, etc."
+어떻게	Adverb	how	You use how to ask about the way in which something happens or is done.
+어떻다	Adjective	such	"Being such in one's thoughts, feelings, state, situation, etc."
+어렵다	Adjective	difficult; challenging	Very complicated or hard to do.
+어른	Noun	adult	A fully-grown person.
+어리다	Adjective	young	Low in age.
+어린이	Noun	children; kids	A young boy and girl from those aged four or five to elementary school students.
+어머	Interjection 	oh my goodness; why	An exclamation used when mainly women are suddenly surprised at or admire an unexpected matter.
+어머니	Noun	ther	A word used to refer to or address the woman who has given birth to you.
+어서	Adverb	quickly; without hesitation; without delay	A word used to hurry someone to work or do something quickly.
+어울리다	Verb 	harmonize	For several things to be in harmony and unite as one.
+어제	Noun	yesterday	The day before the present day.
+억	Numeral	hundred million	The number that is the product of ten thousand times ten thousand.
+언니	Noun	older sister	A word used only by a female to refer to or address another female older than herself endearingly.
+언어	Noun	language	"The means of communication, such as sounds, letters, etc. for expressing or conveying one's thoughts or feelings."
+언제	Pronoun	when; what time	Some time that one does not know.
+언제나	Adverb	always; all the time	Every time; invariably without changing with time.
+언제든지	Adverb	anytime	You use anytime to mean a point in time which is not fixed or set.
+얼굴	Noun	face	"The front part of the head that has the eyes, nose and mouth."
+얼른 	Adverb	quickly; immediately; promptly	Right away without lingering over something.
+얼마	Noun	what amount; what number; what price	"A number, amount, price, and degree that one does not know exactly."
+얼마나	Adverb	how	How much.
+얼음	Noun	ice	Frozen and hardened water.
+엄마	Noun	mom	A word used to refer to or address one's mother in an informal situation.
+없다	Adjective 	non-existent	(for a person or thing to be) Not existent in reality.
+에어컨	Noun	air conditioner 	A device that generates cool air and controls humidity.
+엘리베이터	Noun	evator	A device that transports people or freight between floors by using motive power.
+여권	Noun	passport	An official document that proves a traveler's nationality or identity in a foreign country.
+여기	Pronoun	here; this	A pronoun used to indicate a place close to the speaker.
+여기저기	Noun 	being here and there; being place to place; everywhere	A variety of places or locations that are not clearly specified.
+여덟	Numeral 	eight	The number that is the sum of seven and one.
+여동생	Noun	younger sister	A sister who is younger than oneself.
+여러	Determiner	several; many; a lot of	A large number of.
+여러분	Pronoun	everyone; everybody	A pronoun used to respectfully address multiple listerners.
+여름	Noun	summer	One of four seasons which is hot and comes between spring and fall.
+여보	Interjection	honey; darling; sweetheart	A word used by a husband or wife to address each other.
+여자	Noun	woman	A person who was born a female.
+여쭈다/여쭙다	Verb 	ask politely	To ask one's elders something.
+여학생	Noun	female student 	A student who is female.

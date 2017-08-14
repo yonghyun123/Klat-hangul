@@ -1,0 +1,59 @@
+먹다	Verb	eat; have; consume; take	To put food into one's mouth and swallow it.
+먼저	Noun	being early	The state of being in advance in time or order.
+멀다	Adjective	distant; far-off	The distance between two places being long.
+멋있다	Adjective	nice; stylish; elegant	Very good or great.
+멋지다	Adjective	fine; nice; lovely	Very good or stylish.
+메뉴	Noun	menu	A board on which the kinds of food and their prices that a restaurant offers are written.
+메모	Noun	memo	"The act of writing down in simple words something that one should not forget or deliver to another person, or such a writing."
+메모하다	Verb	take note; take a memo; jot down	To write down in simple words something that one should not forget or deliver to another person.
+메시지	Noun	message	"One's special words delivered to announce, assert, or warn of a certain thing."
+멕시코	Noun	Mexico	Mexico
+며칠	Noun	date	A certain date of the month.
+면도	Noun	shave	The act of cutting off the beard or hair on one's face or body.
+면접	Noun	interview; oral test	"A test usually given after a written test to evaluate the applicant's personality, words, act, etc by meeting him/her in person."
+명	Bound Noun	person	A bound noun that serves as a unit for counting the number of persons.
+명랑하다	Adjective	bright; cheerful; merry	Being pleasant and full of life.
+명절	Noun	national holiday	"A day of commemoration or tradition which is celebrated annually such as Seollal, Lunar New Year's, etc."
+몇	Numeral	some; several	An unknown number that is not big.
+모델	Noun	model	"A preliminary work made prior to a final product, or one serving as a representative of a final product."
+모두	Noun	all	Everything without anything missing or remaining.
+모든	Determiner	every 	All without exception or without anything or anyone left.
+모레	Noun	day after tomorrow	The day following tomorrow.
+모르다	Verb	not know	"To have no knowledge or understanding of a person, object or fact."
+모습	Noun	appearance; look	The appearance of a person or thing.
+모시다	Verb	serve; attend; wait on	"To serve one's elder or someone respected near him/her, or live with him/her."
+모양	Noun	shape	The outer appearance or aspect.
+모으다	Verb	gather; collect; get together	To gather things placed here and there in one place.
+모임	Noun	meeting; gathering	A meeting of many people to do something.
+모자	Noun	hat	"An object worn on the head in order to be polite or to keep out the cold or heat, etc."
+목	Noun	neck	The narrow part of the human or animal body that connects the head and the torso.
+목걸이	Noun	necklace	"A piece of jewelry with a string of jewels, etc., worn around the neck."
+목도리	Noun	scarf	An article of clothing worn around the neck to keep out the cold.
+목소리	Noun	voice	The sound that comes out of the human throat.
+목요일	Noun	Thursday	The fourth day of a week starting from Monday.
+목욕탕	Noun	bathhouse	A facility or room for washing the whole body with water.
+목욕하다	Verb	take a bath; bathe	To wash one's whole body with water.
+몸	Noun	body	"The entire length of the human or animal body from the head to the feet, or its state."
+몸무게	Noun	weight	The weight of one's body.
+몸살	Noun	body aching all over	A condition caused by extreme fatigue where one's body aches all over and he/she suffers from exhaustion and fever.
+못	Noun	nail	A thin metallic item with a pointed end that is used to fasten two objects together or driven into the wall to hang something on it.
+못하다	Verb	be incapable; fail to	To fail to make a certain work reach a certain level or to not own the ability to do so.
+몽골	Noun	Mongolia	Mongolia
+무겁다	Adjective 	heavy; weighty	Weighing a lot.
+무궁화	Noun	mugunghwa	"hibiscus syriacus: A flower that is in bloom from summer through autumn with white, purple or red broad bell-shaped petals."
+무늬	Noun	pattern	The shape appearing on the surface of an object.
+무료	Noun	free; no charge; complimentary	free; no charge; complimentary
+무릎	Noun	knee	"The round, protruded part between the thigh and the calf."
+무섭다	Adjective	fearful; scared of	"Feeling scared of something, or feeling afraid something might happen."
+무슨	Determiner	what	"An expression used to ask about a business, subject or object that one is not sure of or does not exactly know."
+무엇(뭐/뭘)	Pronoun	what	A word indicating an unknown fact or thing.
+무역	Noun	trade; commerce	The business of buying and selling goods among countries.
+무역회사	Noun	trading company	A trading company
+문	Noun	door	An openable structure through which people go in and come out of a place; or put in or take out things.
+문구점	Noun	stationery store	"A store that sells objects necessary for studying or working, such as paper, pencils, erasers, etc."
+문법	Noun	grammar	"A set of certain rules for denoting the sounds of speech, words, sentences, etc., or an academic field that studies such things."
+문의	Noun	inquiry	The act of asking about something that one is curious about and discussing the matter.
+메시지	Noun	message; lesson	"Ideas or lessons expressed in literary or art works,"
+문장	Noun	sentence	"A basic unit that comprises a speech and writing, which indicates one complete meaning through a form of description, question, imperative, exclamation, etc."
+문제	Noun	problem; question	A question that demands an answer.
+문화	Noun	culture	"The physical and mental activities made, learned, shared, and delivered by a social community in order to realize a certain goal or ideal life."

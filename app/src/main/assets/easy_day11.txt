@@ -1,0 +1,61 @@
+묻다	Verb 	ask; inquire; interrogate	"To say something, demanding an answer or explanation."
+물	Noun	water	"A liquid that constitutes rivers, lakes, oceans, underground reservoirs, etc., a pure form of which is colorless, orderless, tasteless and transparent."
+물가	Noun	riverside; waterside	The edge of the water like the sea or river.
+물건	Noun	article; thing; item; goods	A certain substance in a specific form.
+물냉면	Noun	mulnaengmyeon	"A dish made by mixing noodles in naengguk, cold soup, gimchi/kimchi liquid, etc."
+물어보다	Verb	ask; inquire; interrogate	To ask a question to find out something.
+미국	Noun	the United States	the United States
+미끄러지다	Verb	slip; skid	To slip over to one side or fall on a slippery surface.
+미래	Noun	future; days ahead	Time to come.
+미리	Adverb 	in advance; ahead of time 	Before something happens.
+미술	Noun	art; fine art	The visual expression of beauty like a painting or sculpture.
+미술관	Noun	art museum; art gallery	A facility exhibiting works of art for people to see.
+미안하다	Adjective	regrettable; sorry 	Feeling rather uncomfortable and ashamed because one did something bad to someone.
+미용실	Noun	beauty parlor; beauty salon	"A shop that people go to have their hair cut, dyed, or permed, or to receive makeup service."
+미터	Bound Noun	meter	A bound noun used as a unit of length.
+민박	Noun	temporary lodging; temporary lodging house	"The act of paying to stay in an ordinary private home when traveling, or a facility that provides temporary lodging for travelers."
+믿다	Verb	believe; trust	To think of something as being right or true.
+밀가루	Noun	wheat flour	Powder made by grinding wheat.
+밀리미터	Bound Noun	millimeter	A bound noun used as a unit of length.
+밑	Noun	bottom	The lower part of something.
+바꾸다	Verb	change; exchange; replace; turn into	To remove something and replace it with another.
+바나나	Noun	banana	"A long, curved tropical fruit which has yellow skin and soft, sweet white flesh, and peels easily."
+바늘	Noun	needle	"A thin, long metallic item with a pointed end that is used to sew or make clothes."
+바다	Noun	sea	The part of the earth that is differentiated from the land and filled with salty water.
+바닥	Noun	bottom; floor	"A broad, flat part that comprises the bottom of a space."
+바닷가	Noun	beach; coast; seaside; seashore	"A place where sea and land meet, or an area near that place."
+바라다	Verb 	want; hope; wish	To expect that something could be done as one's thought or hope.
+바람	Noun	wind	The movement of air that is caused by changes in atmospheric pressure or by a human or machine.
+바로	Adverb 	straight; upright	In a straight line without being curved or crooked.
+바르다	Verb	apply; spread	"To apply glue to paper, etc., and attach that to the surface of another object."
+바쁘다	Adjective	busy; hectic	Having no time to do other things because one has many things to do or has little time.
+바이올린	Noun	violin	"A musical instrument with an oval-shaped body, a slim middle and four strings attached to it that makes a sound when one rubs a bow against the strings."
+바지	Noun	pants	Clothes worn over the lower part of one's body with the upper part in one whole and the lower part divided into two so that one can put one's legs in each.
+박(date)	Bound Noun 	night	A bound noun that serves as a unit for counting the number of nights a person stays away from home.
+박물관	Noun	museum	"A facility in which relics or pieces of art are collected, stored, exhibited so that people can see or study."
+박수	Noun	applause; clapping	"The act of clapping one's hands to show happiness, celebration, welcome, compliment, etc., or to keep a rhythm."
+밖	Noun	outside	The side beyond a line or boundary.
+반(quantity)	Noun	half	One of two things split equally.
+반(group)	Noun	class 	"A group of students in the same school year, divided by section."
+반갑다	Adjective	glad; joyful	Joyful and happy as one meets a person that one missed.
+반대	Noun	opposite; contrary	"A state in which something is completely different from another thing in its shape, position, direction, quality, etc."
+반드시	Adverb	without fail; certainly	Surely.
+반바지	Noun	short pants; shorts	Short trousers that end at the knee or above.
+반장	Noun	head; chief	A person who represents a small group organized for a specific purpose.
+반지	Noun	ring	A round accessory for wearing on one's finger.
+반찬	Noun	side dish	Food to eat with rice when having a meal.
+받다	Verb 	receive; get	To take something that someone else has given or sent.
+발	Noun	foot	The bottom most part of a human's or animal's leg.
+발가락	Noun	toe	The front end part of one's foot that is divided into five sections.
+발견하다	Verb 	discover; find	To find out for the first time a thing that has not been discovered yet or was unknown to the world.
+발표	Noun	announcement; presentation; release; roll out	"The act of revealing and announcing a certain fact, result, work of art, etc., to the world."
+발표하다	Verb	publish; release; roll out	"To reveal and announce a certain fact, result, work of art, etc., to the world."
+밝다	Adjective 	light; brilliant; luminous	The light emanating from something being bright.
+밟다	Verb	step on	To put one's foot or feet on someone or something and press him/her/it.
+밤	Noun	night; evening	The period of dark hours from sunset to sunrise the next day.
+밥	Noun	steamed rice; rice	A dish made by boiling rice and other grains until the water has cooked away.
+밥그릇	Noun	rice bowl	A bowl for holding rice.
+방	Noun	room	A space enclosed by walls for residential or business purposes.
+방문	Noun	visit	The act of going to a certain place in order to meet a person or see something.
+방법	Noun	way; means; manner	A method or way of doing something.
+방학	Noun	vacation	"A fixed period of suspension of classes after one semester of school, or such a period."

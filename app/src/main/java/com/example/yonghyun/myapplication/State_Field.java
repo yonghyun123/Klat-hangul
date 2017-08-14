@@ -19,7 +19,7 @@ public class State_Field {
     }
     static public int getLevel() {return level;    }
 
-    static public void setDate(int date){ date = date;}
+    static public void setDate(int d){ date = d;}
     static public int getDate(){ return date; }
 
 }

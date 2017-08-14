@@ -1,0 +1,72 @@
+할인	Noun	discount; reduction	The act of subtracting a certain amount of money from the original price.
+함께	Adverb	together; along with	In the state of several people being all together.
+합격	Noun	pass; success	"The act of passing a test, inspection, screening, etc."
+합격하다	Verb	pass; get through	"To pass a test, inspection, screening, etc."
+항상	Adverb 	always; all the time	Invariably at any time.
+해	Noun	sun	The star at the center of a solar system which is extremely hot and emits light.
+해결하다	Verb	solve; settle; resolve; fix	"To handle and finish an event, problem, or task, etc., successfully."
+해수욕장	Noun	beach	A beach equipped with facilities to swim and play in the sea.
+해외	Noun	foreign country; overseas	A country other than one's own.
+해외여행	Noun	overseas travel; trip abroad	"A trip to overseas destinations, or such a trip."
+핸드백	Noun	handbag; purse	A small bag carried by a woman in one hand or over the shoulder.
+핸드폰	Noun	mobile phone; cellular phone	"A small, portable, wireless phone."
+햄버거	Noun	hamburger	"Food made by putting meat, vegetables, cheese, etc., between two round buns."
+행동	Noun	action; movement behavior; deed	An act of moving one's body to do a certain task or action.
+행동하다	Verb	act; behave	To move one's body to do a certain task or action.
+행복	Noun	happiness; pleasure; contentment	A feeling of delight coming from enough satisfaction or enjoyment in life; or such a state.
+행복하다	Adjective	happy; content; joyful	Being delighted as one feels enough satisfaction or enjoyment in life.
+허리	Noun	waist	The part between the ribs and hip bones in the human or animal body.
+헤어지다	Verb	part; bid farewell; say good-bye	To part with another one has been with.
+현관	Noun	entrance; porch	The entrance where there is a door to a building.
+현금	Noun	cash	"The currency excluding bills, checks, and bonds, issued by a government or a central bank."
+현재	Noun	now; present; today	The present time.
+형	Noun	older brother	A word used only by a male to refer to or address another male older than himself endearingly.
+형부	Noun	brother-in-law	A word used to refer to or address one's elder sister's husband.
+형제	Noun	brothers	A compound noun for older and younger brothers.
+호	Bound Noun	ho	A bound noun that serves as a unit for counting the number of houses.
+호랑이	Noun	tiger	"A big, carnivorous animal that has yellowish brown coat and black stripes."
+호수	Noun	lake	A large pond surrounded by land.
+호주	Noun	Australia	Australia
+호텔	Noun	hotel	A decent accommodation which is usually large-sized and well-equipped with facilities.
+혼자	Noun	being alone; being by oneself	"A state of being the only person, with no one around."
+홈페이지	Noun	homepage	A document that can be viewed by others through the Internet.
+화	Noun	anger; fury	A feeling of strong frustration or anger.
+화가	Noun	painter; artist	A person who paints or draws a picture professionally.
+화내다	Verb 	get angry with; be mad at	"To show anger toward another, being upset with him/her."
+화분	Noun	flower pot; plant pot	A container filled with soil for growing a flower or plant.
+화요일	Noun	Tuesday	The second day of a week that starts from Monday.
+화장	Noun	make-up; putting on cosmetics	The act of making oneself look more beautiful by applying cosmetics over the face.
+화장실	Noun	toilet; restroom; bathroom	A place equipped with a facility where people can urinate or defecate.
+화장품	Noun	cosmetics; makeup	A substance applied over the face to make oneself look more beautiful or to pamper the skin.
+화장하다	Verb 	put on make-up; adorn oneself	To make oneself up by applying cosmetics over the face.
+확인	Noun	check; affirmation; confirmation; verification	An act of finding out if something is true or admitting that it is true.
+확인하다	Verb 	check; affirm; confirm; verify	To find out if something is true or admit that it is true.
+환경	Noun	environment	The state of nature affecting the life of living creatures.
+환영하다	Verb	welcome; greet	To receive someone arriving gladly and cordially.
+환자	Noun	patient; sick person	A person who is ill due to a disease or injury.
+환전하다	Verb	change; exchange	To exchange the currency of a country for another country's currency.
+활발하다	Adjective	lively; cheerful; outgoing; vigorous	Being full of life and energy.
+회	Bound Noun	hoe	A bound noun that serves as a unit for counting the number of times.
+회사	Noun	company; corporation	A legal entity created together by many people to earn profits by running a certain business.
+회사원	Noun	employee; office worker; staff	A person who works at a company.
+회색	Noun	gray	"A mixed color of black and white, like that of ash."
+회원	Noun	member	A person who is part of a certain meeting.
+회의	Noun	meeting; conference	"A state in which people gather and discuss a topic, issue, etc.; or such a meeting."
+횡단보도	Noun	crosswalk; crossing 	"A route marked on a road, where people can cross."
+후	Noun	later time	A point of time following a certain passage of time.
+후배	Noun	junior	A person who started a career in the same field later than oneself.
+후회	Noun	regret; remorse; repentance	An act of realizing that what one did was wrong and reprimanding oneself for having done it.
+후회하다	Verb	regret; feel remorse; repent	To realize that what one did was wrong and reprimand oneself for having done it.
+휴가	Noun	leave; break; vacation	A state in which a person belonging to an organization such as a company or an army leaves his/her workplace.
+휴게실	Noun	lounge; waiting room	A room arranged for taking a brief rest.
+휴대전화	Noun	mobile phone; cellular phone	"A portable, wireless phone with which one can make or receive phone calls."
+휴일	Noun	holiday	"A day of rest free from work such as Sunday or public holidays, etc."
+휴지	Noun	toilet paper; toilet tissue	A thin sheet of paper used for wiping off something dirty.
+휴지통	Noun	garbage can; litter box; trash can	A container used to throw away waste paper or garbage.
+흐르다	Verb	flow; run	"For a liquid like water, etc., to move to a lower place or pass a certain location."
+흐리다	Adjective	dim; vague; blurred	One's memory or thought not being clear.
+흔들다	Verb	wave; sway; flap; wag; shake	"To make something move from side to side and back and forth, repeatedly."
+흰색	Noun	white	The bright color of snow or milk.
+힘	Noun	strength; power	The force of muscles with which a person or an animal moves or which makes something move.
+힘들다	Adjective	strenuous; laborious	Requiring much power or effort.
+회비	Noun	membership fee; dues	Money paid by members of an association to be spent on its activities.

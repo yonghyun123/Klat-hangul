@@ -1,0 +1,59 @@
+치다	Noun	hit; strike	To cause the hand or an object to bump hard against something.
+치료	Noun	cure; treatment	An act of treating a disease or wound.
+치료하다	Verb	treat; cure	"To heal a disease, wound, etc."
+치마	Noun	skirt	"An outer lower garment that doesn't have pant legs, usually worn by women."
+치약	Noun	toothpaste	Substance that is used to brush one's teeth.
+친구	Noun	friend	A person that one is close to and in an amicable relationship with.
+친절하다	Adjective 	kind; hospitable	Treating someone gently and softly.
+친척	Noun	relative	A person who is related by blood to one's parents or spouse.
+친하다	Adjective	close	Being on good terms with someone one knows well and feels close to.
+칠판	Noun	blackboard	"A board, usually dark green or black, on which one writes with chalk."
+침대	Noun	bed	A piece of furniture that is made for someone to lie down and sleep on.
+칫솔	Noun	toothbrush	A brush that is used to clean one's teeth.
+칭찬하다	Verb 	praise; compliment	"To express one’s appreciation of someone’s strength or achievement, etc."
+카드	Noun	card	"A thick piece of paper or plastic cut out in a fixed size and form, to prove or record something."
+카메라	Noun	camera	A device used to take photographs.
+카페	Noun	cafe; coffee shop	"A shop where coffee, tea, light snacks, etc., are sold."
+칼	Noun	knife	"A tool that is used to cut, peel or chop something."
+커튼	Noun	curtain; drapes	"A long, draped cloth, hanging over a window or door, to hide it."
+커피	Noun	coffee	"Thick, brown, aromatic brew, tasting a little bitter and containing caffeine, which is made of the fruits of a coffee tree."
+커피숍	Noun	coffee shop	"A shop designed for customers to talk or rest, usually while drinking coffee or tea."
+컵	Noun	cup	A glass to pour water or a beverage into.
+케이크	Noun	cake	"Bread made by mixing flour, eggs, butter, milk, sugar, etc."
+켜다	Verb	light; ignite; set	"To light an oil lamp or candle, or to set a flame using a matchstick or lighter."
+코	Noun	nose	The body part that is used for breathing and smelling.
+코끼리	Noun	elephant	The largest animal living on land that has a very long nose and two large tusks.
+코미디	Noun	comedy	A funny play or soap opera.
+코트	Noun	overcoat; coat	An outer garment that one wears over other clothes to protect oneself from the cold.
+코피	Noun	nosebleed	Blood that flows from the nostrils.
+콘서트	Noun	music concert	A gathering organized so that people can listen to songs or music being sung or played live.
+콜라	Noun	cola; Coke	"Blackish soda, with a sweet flavor and unique scent."
+콧물	Noun	nasal discharge	"The sticky liquid, or snot, excreted from the nostrils."
+콩	Noun	bean	"A round grain with a thin, yellow or black skin that is used as an ingredient in tofu, soy bean paste, etc."
+크기	Noun	size	"A degree of how big a volume, area, length, height, etc., of an object is."
+크다	Adjective	big; large	"A length, width, height, volume, etc., exceeding an ordinary degree."
+크리스마스	Noun	Christmas Day	"The day to commemorate the birth of Jesus, the founder of Christianity, December 25."
+큰아버지	Noun	uncle	A word used to refer to or address a brother of one's father.
+큰어머니	Noun	aunt	A word used to refer to or address the wife of one's father's elder brother.
+큰일나다	Verb 	become serious	become[grow] serious.
+키	Noun	height	The length of a person or animal in an upright position that is measured from the feet to the head.
+킬로그램	Bound Noun	kilogram	A bound noun that serves as a unit of weight.
+킬로미터	Bound Noun	kilometer	A bound noun that serves as a unit of length.
+타다	Verb 	ride; get on; board	To mount a vehicle or the body of an animal used as a vehicle.
+탁구	Noun	table tennis; ping-pong	An indoor sport in which players hit a ball with paddles over a net installed in the middle of a rectangular table.
+탕수육	Noun	sweet and sour pork	"A Chinese dish made by frying flour-coated meat, and pouring a boiled mixture of vinegar, soybean sauce, sugar, vegetables, etc."
+태국	Noun	Thailand	Thailand
+태권도	Noun	taegwondo	Sport based on a traditional Korean martial arts.
+태어나다	Verb	be born	"For a person, animal, etc., to take form and come out of the mother’s body."
+태풍	Noun	typhoon	The fierce wind accompanying a rainstorm.
+택배	Noun	parcel delivery service; home-delivery service	"An act of delivering a mail, package, goods, etc., to a requested destination, in person."
+택시	Noun	taxi; cab	A car that takes a passenger to a requested destination for money.
+탤런트	Noun	TV actor; TV actress	An actor or actress appearing on a television show.
+터미널	Noun	terminal	"A place, usually the first or last stop, where the many routes of airplanes, trains, buses, etc., start or end."
+테니스	Noun	tennis	"A sports game in which players compete as they send and receive a ball over a net installed in the center, using rackets."
+테이블	Noun	table	A table is a piece of furniture with a flat top that you put things on or sit at.
+텔레비전	Noun	TV; television	A machine that delivers the images and sound that were sent in waves by a broadcasting station.
+토끼	Noun	rabbit	An animal with long ears and a short tail whose hind legs are more developed than its front legs.
+토마토	Noun	tomato	"A round, fist-sized fruit that turns from green to red when ripe."
+토요일	Noun	Saturday	The sixth day of a week starting from Monday.
+통일	Noun	unification	An act of combining what has been divided or split into one.

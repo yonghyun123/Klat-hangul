@@ -1,0 +1,60 @@
+쌀	Noun	rice	The peeled grains of rice that are cooked for a meal.
+쌀쌀하다	Adjective	chilly; rather cold	The weather being cold to a degree that one feels a bit cold.
+쓰기	Noun	writing	An act of expressing one's thought or feeling in the written language.
+쓰다(text)	Verb	write	"To write some letters by drawing strokes on paper with a writing instrument such as a pencil, pen, etc."
+쓰다(thing)	Verb	use; work with; make use of	"To take a certain material, tool, method, etc., to do something."
+쓰다(taste)	Adjective	bitter	Tasting like medicine.
+쓰레기	Noun	rubbish; trash; garbage	"Dust swept away, or something that has been thrown away or to discarded."
+씨(Bound Noun)	Bound Noun	Mr.; Ms.; Mrs.	A bound noun used to address or call out to a certain person deferentially.
+씻다	Verb 	wash	To clean something by removing dirt or grime.
+아(Interjection)	Interjection	oh; ah	"An exclamation uttered when the speaker expresses his/her surprise, embarrassment, impatience, or urgency."
+아가씨	Noun	young lady; Miss	A single young woman.
+아기	Noun	baby	An infant that feeds on breast milk.
+아까	Adverb 	a little while ago; a moment ago	A minute ago.
+아깝다	Adjective	regrettable	A little sad because one has lost something valuable.
+아내	Noun	wife	The man's female partner in marriage.
+아니	Interjection	no; nope; no way	An exclamation uttered when the speaker gives a negative answer to the question.
+아니다	Adjective	not	Used to negate a fact or statement.
+아니요	Interjection	no; no sir; no ma'am	An exclamation uttered when the speaker gives a negative answer to the question of his/her elder or superior.
+아들	Noun	son	One's male child.
+아래	Noun	bottom; lower part	A lower position than a certain standard.
+아르바이트	Noun	part-time job; side job; student job; moonlighting	"A temporary job one has to make money or to make more money, besides one's main job or role."
+아름답다	Adjective	beautiful; pretty	"A color, appearance, or voice, etc., pleasing and satisfying one's eyes and ears."
+아마	Adverb	maybe; likely	An adverb used to indicate that something is possible but not sure or certain.
+아무	Pronoun	anybody; anyone	A pronoun referring to an unspecified person.
+아버지	Noun	father; male parent	A word used to refer to or address the man who has procreated as the male parent.
+아빠	Noun	dad; daddy	A word used to refer to or address a father in an informal situation.
+아시아	Noun	Asia	Asia
+아이(애)	Noun	child; kid	A young person.
+아이스크림	Noun	ice cream	"A smooth ice snack, made by freezing the mixture of sugar, milk, fruit juice, etc."
+아저씨	Noun	man	A word used to refer to or address a male adult who is not old and is not related.
+아주	Adverb	very; so; extremely	To a degree much greater than normal.
+아주머니(아줌마)	Noun	lady; madam	A word used to refer to or address a woman who is married and not related.
+아직	Adverb	yet; still	An adverb used to indicate that more time is needed to reach a certain state.
+아침	Noun	morning	The hours between dawn and the time when the sun is up and daily activities start.
+아파트	Noun	apartment; apartment building	"A residential building made for many households to live independently in one tall, large building."
+아프다	Adjective 	hurting; aching	Feeling pain or suffering due to an injury or illness.
+아프리카	Noun	Africa	Africa
+악기	Noun	musical instrument	An instrument used to play music.
+악수하다	Verb 	shake hands; shake one's hand	"To extend a hand to hold the hand of another person, to greet, thank or reconcile."
+안(Adverb)	Adverb	not	An adverb that has the meaning of negation or opposite.
+안(place)	Noun	inside	The side that faces the center from the circumference of an object or space; such a part.
+안개	Noun	fog; mist; haze	"The phenomenon where water vapor comes together to form tiny, misty droplets that float close to the ground."
+안경	Noun	glasses; spectacles	An instrument that one wears over the eyes to proctect them or to supplement his/her eyesight for better vision.
+안과	Noun	ophthalmology; department of ophthalmology	"A field of medical science that treats diseases of the eye, or the department of the hospital that is in charge of the field."
+안내	Noun	introduction	The act of making someone know something by introducing it to him/her; such a job.
+안내하다	Verb 	make known 	"To introduce something to someone, helping him/her know it."
+안녕하다	Verb 	peaceful; calm	Comfortable without any problems or worries.
+안녕히	Adverb	in peace	Comfortably without any problems or worries.
+안색	Noun	complexion	A facial expression or color of one's face.
+안전하다	Adjective	safe	Having no worry of falling into danger or becoming the victim of an accident.
+앉다	Verb	sit; be seated	To place one's weight on the bottocks and put his/her body on an object or on the floor with his/her upper body in an upright position.
+알다	Verb	know; understand	"To have information or knowledge about an object or situation through education, experience, thoughts, etc."
+알리다	Verb 	inform; tell; notify	To let someone realize or know what he/she did not know or forgot.
+알맞다	Adjective 	appropriate; proper; suitable 	"Satisfying a certain standard, condition, or degree without being excessive or insufficient."
+알아듣다	Verb 	catch; get; comprehend	To hear what someone says and understand what it means.
+알아보다	Verb 	investigate; examine; look into	To make an investigation into or inquire into something in order to know what one does not know.
+앞	Noun	front	The direction or place one is facing.
+애인	Noun	lover; one's beloved	A person who loves or is loved in a romantic relationship between a man and woman.
+액세서리	Noun	accessories	A variety of things worn on clothes or the part of body for decoration.
+액션영화	Noun	acion movie	Action movie is a film which include action.

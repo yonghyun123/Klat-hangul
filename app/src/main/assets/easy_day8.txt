@@ -1,0 +1,61 @@
+독일	Noun	Germany	Germany
+독일어	Noun	German	The language that most Germans and Austrians speak.
+돈	Noun	money	A coin or bill that is exchanged when trading goods or labor.
+돌	Noun	stone	"A hard mass formed when dirt, sand, etc., is solidified."
+돌다	Verb	go round; rotate	For an object to move in a circle around a point or line.
+돌려주다	Verb	give back; return	"To give back or pay back something borrowed, taken, or received from the owner."
+돌보다	Verb	take care of	To protect and take care of someone or something with interest.
+돌아가다	Verb	become	For a job or situation to reach a certain state.
+돌아가시다	Verb	pass away; decease	(honorific) To lose one's life.
+돌아오다	Verb	come back; return	To come again to where one was before or to be in such a state.
+돕다	Verb	help; assist	To help someone with his/her work or do something that supports him/her.
+동료	Noun	coworker; colleague	A person with whom one works at one's workplace.
+동물	Noun	animal	"Among two categories of living things, those that get nutrients by eating their prey and move their bodies freely."
+동물원	Noun	zoo	A place that cages and raises all kinds of animals and allows people to look at them.
+동생	Noun	brother; sister	A word used to refer to or address a younger person than oneself in a friendly manner.
+동아리	Noun	club	A group of people who have the same hobby or purpose.
+동양	Noun	Orient	"Asia's eastern and southern region including Korea, Japan and China."
+동전	Noun	coin	"Round money made of copper, etc."
+동쪽	Noun	east	"One of the four points of the compass, the direction in which the sun rises."
+돼지	Noun	pig	"An animal with a fat body, short legs and tail and small eyes."
+돼지고기	Noun	pork	The meat of pigs eaten as food.
+되다	Verb 	become	To change or transform into something or someone else.
+된장	Noun	doenjang	"Soybean paste, made by fermenting soybeans after the beans are first used to make soy sauce."
+된장찌개	Noun	doenjangjjigae	"Soybean paste stew, made by boiling fermented soybean paste with scallions, zucchini, bean curd, etc., added to water."
+두껍다	Adjective	thick	The measured distance between one side of an object and the other side being long.
+두다	Verb 	put; place; lay	To put something in a certain place.
+두부	Noun	tofu	"A white, soft food made by grinding beans."
+뒤	Noun	back	The direction that is opposite of the one that someone or something is facing.
+드디어	Adverb 	at last; finally	In the state of something that one has eagerly waited for being achieved eventually ; in the end.
+드라마	Noun	drama	A play performed in a theater or broadcast on television.
+드리다	Verb	give; offer	(honorific) To give; to hand something over to someone or allow someone to use it.
+드시다	Verb	eat	(honorific) Eat something.
+듣기	Noun	listening	The ability to listen to another person's words and understanding them.
+듣다	Verb	hear	To sense a sound with ears.
+들다	Verb	raise; lift	To lift something from below in an upward motion.
+들어가다	Verb	enter; go into	To go inside from outside.
+들어오다	Verb	come in; get in; enter	To move inside from outside within a certain range.
+등	Noun	back	The part that is opposite the chest and belly on the body of a human or animal.
+등록금	Noun	tuition	The money paid upon the registration of a student at educational institutions such as a school or institute.
+등록하다	Verb	register; enroll	"To put one's name on the list of regular students of an educational institute or school, or on the list of members of a group."
+등산	Noun	hike; mountain climbing	"Mountain climbing with the purpose of exercising, amusement, etc."
+등산복	Noun	hiking clothes	Clothes to wear when hiking.
+등산하다	Verb	hike; climb	"To climb a mountain with the purpose of exercising, amusement, etc."
+등산화	Noun	hiking boots	Shoes made to hike safely and comfortably.
+디자인	Noun	design	"The plan or sketch of a work with a practical purpose in fashion, industrial goods, architecture, etc."
+따다	Verb	pick	To take or tear off something clinging or attached to something.
+따뜻하다	Adjective 	warm	"Being an appropriate, pleasant temperature, which is not too high."
+따라가다	Verb	follow; go after	To follow someone or something ahead on the same track.
+따라오다	Verb	follow	To trace someone or something that moves exactly in the same route.
+따로	Adverb	separately	In such a manner that something is not together with or is not mixed with other things.
+딱	Adverb	precisely	"In the state of being correct in number, amount, size, situation, etc."
+딱딱하다	Adjective	hard	Very stiff and solid.
+딸	Noun	daughter	A female child in relation to her parents.
+딸기	Noun	strawberry	"A perennial plant that stretches its stems on the ground and bears a red fruit with seeds stuck on the outside, or the fruit."
+땀	Noun	sweat	"A clear salty liquid that is excreted through the skin when one is hot, sick or nervous."
+때	Noun	time	A certain moment or part of time.
+때문	Bound Noun	because; because of	A cause or reason for a certain incident.
+떠나다	Verb	leave; depart	To move from a place where one has been to another place.
+떠들다	Verb	clamor; make a noise	To speak noisily in a loud voice.
+떡	Noun	tteok	rice cake: A dish made by steaming or boiling grain powder such as injeolm.
+떡국	Noun	tteokguk	"sliced rice cake soup: A dish made by cutting garaetteok, into thin slices and boiling them in clear broth."

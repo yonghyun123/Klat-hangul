@@ -1,0 +1,60 @@
+월요일	Noun	Monday	The first day of a week.
+위(position)	Noun	top; higher part	A higher position than a certain standard; a higher position than the middle.
+위(organ)	Noun	stomach	An organ responsible for digesting food inside the body of an animal or person.
+위치	Noun	location; situation	The state of having taken up space in a place; such space.
+위하다	Verb 	do in favor of; do for the benefit of	To try to benefit or help someone or something.
+위험하다	Verb 	dangerous; risky 	Not safe due to the possibility of being harmed or injured.
+유럽	Noun	Europe	Europe
+유리	Noun	glass	"The material used to make windows, mirrors, etc., that is transparent, hard, and easily broken."
+유명하다	Adjective	famous; popular	For one's name to be widely known.
+유학	Noun	studying abroad	The state of staying abroad and studying.
+유학생	Noun	international student; student studying abroad	A student who stays abroad and studies.
+유행	Noun	fashion; trend	The state of something gaining popularity among people and being widely spread to an entire society.
+유행가	Noun	popular song	"A very popular song in a specific period, as many people listen to and sing it a lot."
+유행하다	Verb	be in fashion; be in	For something to gain popularity among people and to be spread to an entire society.
+은행	Noun	bank	An institute that keeps and manages the money people have deposited and lends it to those who need it.
+은행원	Noun	bank teller 	An employee of a bank.
+음력	Noun	lunar calendar	A calendar used to count days based on the time that the moon takes to orbit around the earth.
+음료수	Noun	soda; soft drink	Liquid that one drinks because of one's thirst or its good flavor.
+음식	Noun	food	Everything that humans eat or drink.
+음식물	Noun	food	Something eaten or drunk by people.
+음악	Noun	music	"A field of art, a musical instrument to make sounds with beats and melody."
+음악가	Noun	musician	"A person who does music professionally such as a composer, instrumentalist, vocalist, etc."
+음악회	Noun	music concert	A gathering organized so that people can listen to music being played live.
+응	Interjection	yes	An exclamation uttered when the speaker answers someone's call.
+의견	Noun	opinion	A thought one has after making one's own judgment on a certain object or phenomenon.
+의논하다	Verb 	discuss	To share opinions about a certain topic.
+의미	Noun	meaning; sense	"What a word, sentence, sign, etc., means."
+의사	Noun	doctor; physician	A person with the relevant qualifications whose job it is to examine and cure patients.
+의자	Noun	chair; stool	An apparatus made for a person to sit with his/her hip and thighs placed on it.
+이(Pronoun)	Pronoun	this	A pronoun used to indicate something near the speaker or what the speaker is thinking.
+이(body)	Noun	tooth	A part in the human or animal mouth that is used to bite something or chew food.
+이기다	Verb	win; beat; defeat	"To beat and perform better than one's opponent in a bet, match, fight, etc."
+이따가	Adverb 	a little later; a short time later	After a while.
+이렇게	Adverb 	like this	"(for a state, appearance, nature to be) Like this."
+이렇다	Adjective	so; like this	"(for a state, appearance, nature to be) Like this."
+이름	Noun	name	"A word used to refer to or address an animal, object, phenomenon, etc., to distinguish it from others."
+이마	Noun	forehead	The part of the face from the hairline to the eyebrows.
+이메일	Noun	e-mail; electronic mail	Letters exchanged through the Internet or a communications network.
+이모	Noun	aunt	A word used to refer to or address one's mother's sister.
+이모부	Noun	uncle	A word used to refer to or address one's aunt's husband.
+이미	Adverb 	already	In a state in which something was done before the present.
+이발소	Noun	barbershop	A place that mainly cuts and grooms men's hair.
+이비인후과	Noun	otorhinolaryngology; department of otorhinolaryngology	"A field of medical science that treats diseases of the ears, nose, throat, bronchus, and gullet."
+이사	Noun	house-moving; removal	"The act of leaving the place where one has lived, and moving into another place."
+이사하다	Verb	move; change one's abode	"To leave the place where one has lived, and move into another place."
+이상	Noun	or more; and over	A state in which something equals to or is larger or better than a certain point of reference in quantity or degree.
+이상하다	Adjective	strange; unusual	Not normal.
+이야기	Noun	story	"Words or a piece of writing that is intended to tell others about a fact, state, phenomenon, experience, thought, etc."
+이야기하다	Verb	tell; say; speak	"To talk to someone about a certain fact, state, phenomenon, experience, thought, etc."
+이용하다	Verb	use; utilize	To use something as occasion demands in a way that is helpful or beneficial to one.
+이유	Noun	reason	The cause or reason of a certain result.
+이제	Noun 	now	This moment being spoken of.
+이틀	Noun	Two days.	Two days.
+이해하다	Verb	understand; comprehend; figure out	To realize and know something; to know something well and accept it.
+이후	Noun	later time; the future	The time after the present time.
+익숙하다	Adjective 	trained; experienced; skilled	Not bad at doing something because one did it several times before.
+인구	Noun	population	The number of people who live in a given place.
+인기	Noun	popularity	Great interest or favor shown by many people to a certain person or thing.
+인사	Noun	greetings	"That act of showing courtesy when meeting or saying goodbye to someone, or such words or actions."
+인사하다	Verb	greet; salute	To show courtesy when meeting or saying goodbye to someone.

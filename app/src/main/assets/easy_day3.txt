@@ -1,0 +1,60 @@
+공	Noun	ball	"A round object about the size just right for holding, passing or kicking, used for play or sports games."
+공과금	Noun	utility bills	Tax imposed on people by the government or public organizations.
+공부	Noun	study	The act of gaining knowledge by learning studies or techniques.
+공부하다	Verb 	study	To gain knowledge by learning studies or techniques.
+공연	Noun	performance; show	"Performing music, dance or a play in front of many people."
+공연하다	Verb 	perform	"To show or play music, dance or a play in front of many people."
+공원	Noun	park	"A large place with grass, trees and flowers where people can play and rest."
+공장	Noun	factory; plant	A place where products are manufactured by processing raw materials and other materials.
+공중전화	Noun	pay phone	A phone installed in a certain place or street in order for people to make calls by inserting coins or using a card.
+공짜	Noun	something gained free of charge	"Something gained for free, in exchange for no power, effort, or money."
+공책	Noun	notebook	A book of blank or lined paper to write or draw on.
+공포영화	Noun	horror movie	A motion picture which entertains by horrifying or frightening the audience.
+공항	Noun	airport	A place for airplanes to land and take off.
+공휴일	Noun	public holiday	A day of rest such as a national holiday as determined by a nation.
+과	Noun	department; section	A division unit in an organization which is divided by the characteristics of duties in a company.
+과거	Noun	past	A time that has passed
+과일	Noun	fruit	"Edible fruit that grows on the stem or branch of a tree, such as apples, pears, grapes, chestnuts, etc."
+과자	Noun	snack	"Snacks baked or fried by mixing milk, sugar, etc., into flour or rice powder."
+과학	Noun	science	A discipline which researches phenomena occurring in nature.
+관계	Noun	relationship	"A state in which two or more people, things, phenomena, etc., become interrelated; or such a relation."
+관광	Noun	tourism	"The act of going to a place to see or observe its scenery, environment, customs, etc."
+관광객	Noun	tourist	A person who goes on a tour.
+관광지	Noun	tourist attraction	"A place worthy of traveling to due to its great scenery, historical sites, hot springs, etc."
+관광하다	Verb 	go on a tour; see the sights	"To go to a place to see or observe its scenery, environment, custom, etc."
+관리	Noun	management	The act of taking charge of and handling something.
+관리비	Noun	management expenses; maintenance cost	Expenses needed for managing facilities or objects.
+관리하다	Verb 	manage	To take charge of and handle something.
+관심	Noun	interest; attention	A feeling of attraction towards or positive thoughts about something.
+광고	Noun	advertisement; publicity	The act of promoting something to people.
+괜찮다	Adjective	nice; fine	Fairly good.
+괴롭다	Adjective	suffering	Feeling pain in one's body or mind.
+굉장히	Adverb	hugely	Very grandly and greatly.
+교과서	Noun	textbook	A book made to teach a certain subject in school.
+교사	Noun	teacher	"A person with teaching qualifications who teaches students in a elementary school, middle school, etc."
+교수	Noun	professor	A person who researches and teaches in colleges; or such a position.
+교실	Noun	classroom	"In a kindergarten, elementary school, and secondary school, a room where a teacher teaches students."
+교통	Noun	transportation; traffic	"The act of carrying passengers or cargo by using vehicles such as cars, trains, ships, airplanes, etc."
+교통사고	Noun	traffic accident; car crash	An accident between a car or train crashing into another vehicle or with a pedestrian.
+교통편	Noun	means of transportation	"The means of transit, such as cars, trains, ships, airplanes, etc., used when one moves from one place to another place."
+교환하다	Verb 	change	To change one thing for another.
+교회	Noun	church	"A community of believers of Jesus Christ, or a place where they gather for religious activities."
+구경	Noun	sightseeing	An act of watching something or someone with curiosity or interest.
+구경하다	Verb	watch	To see something with interest.
+구두	Noun	shoes	"Dress shoes made of leather or synthetic leather, worn with a suit."
+구름	Noun	cloud	A mass of liquid droplets or tiny ice pieces floating in the sky.
+구입하다	Verb	purchase	"To buy goods, etc."
+국가	Noun	state; nation; country	"An entity consisting of land and the people living there, resulting in a group ruled by sovereignty."
+국내	Noun	interior of a country; domestic territory	Area within a country.
+국물	Noun	soup	"Liquid of guk, soup, or jjigae, stew, left after all ingredients have been taken out."
+국민	Noun	people; national; citizen	People that compose a country or a person with the nationality of a country.
+국수	Noun	noodle	"Food made by kneading wheat flour, buckwheat, potatoes, etc."
+국어	Noun	official language; native language	The language used by the people of a country.
+국적	Noun	nationality; citizenship	A status which qualifies someone to come under the official jurisdiction of a country.
+국제	Noun	being international; being global	A state in which several countries are interrelated or do something together.
+군인	Noun	soldier	"A person belonging to the military, who is trained to handle weapons and is given missions."
+굵다	Adjective	thick	An object being long in circumference or wide in width.
+궁금하다	Adjective	curious	Having a strong desire to know about something.
+권	Bound Noun 	volume; book	A bound noun that serves as a unit for counting the number of books or notebooks.
+귀	Noun	ear	"The part of a human or animal's body that hears sounds, located on both sides of the head."
+귀걸이	Noun	earrings	Accessories for the ears.

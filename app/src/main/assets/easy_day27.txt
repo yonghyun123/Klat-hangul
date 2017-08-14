@@ -1,0 +1,60 @@
+착하다	Adjective 	kind; generous	"One's heart, behavior, etc., being honest, nice, and friendly."
+참	Noun	truth	Something that is not contrary to a fact or reason.
+참기름	Noun	sesame oil	The oil extracted from sesame seeds.
+창	Noun	spear; javelin	"A weapon made by attaching a sharply pointed piece of iron at the end of a long wooden stick, used to throw or stab."
+창구	Noun	counter	"A place or department in an office where one can exchange documents, money, goods, etc., or interact with an outsider."
+창문	Noun	window	An opening in the wall or roof made to let in air or light.
+찾다	Verb	find; look for	"To look here and there in order to gain something or find someone, or to gain something or find someone."
+찾아가다	Verb	go visiting	To go to a place to meet someone or do something.
+찾아오다	Verb	come visiting	To go to a place to meet someone or do something.
+채소	Noun	vegetable	"A plant grown in a field, of which the leaves, stems, or fruits are edible."
+책	Noun	books; publications	"Pieces of writing, pictures, etc., that are printed and bound."
+책꽂이	Noun	bookshelf	A piece of furniture for holding books.
+책상	Noun	desk	"A table at which one reads a book, writes, or handles office work."
+책임	Noun	duty; responsibility; obligation	A task or duty that one is responsible for.
+책장	Noun	bookshelf; bookcase	A piece of furniture for holding books.
+처방전	Noun	prescription	Written instructions stating a formula for preparing medication to treat an illness.
+처음	Noun	first; forefront	The first in order or chronology.
+천둥	Noun	thunder	An atmospheric phenomenon that is characterized by a very loud noise and lightning.
+천주교	Noun	Catholicism	A religious faith that follows the teachings of the Roman Catholic Church and recognizes its authority.
+천천히	Adverb 	slowly	In the manner of moving or acting slowly.
+첫	Determiner	first	Of the very first.
+첫째	Noun	first	"The thing preceding all other things, the topmost"
+청바지	Noun	jeans	A pair of blue pants made of strong cotton.
+청소	Noun	cleaning	An act of cleaning something dirty and messy.
+청소기	Noun	vacuum cleaner	An electrical appliance used for cleaning that sucks in dust or small pieces of trash.
+청소하다	Verb	clean	To clean something dirty and messy.
+쳐다보다	Verb	look up	To look upwards from below.
+초대	Noun	invitation	"An act of asking someone to come to a certain place, gathering, event, etc."
+초대장	Noun	invitation; invitation card	"A written request to be present in a certain place, gathering, event, etc."
+초대하다	Verb	invite	"To ask someone to come to a certain place, gathering, event, etc."
+초등학교	Noun	elementary school; primary school	"A six-year school which accepts six-year-old children, as the first level of school education, to teach them the basic curriculum."
+초등학생	Noun	elementary school student	A student who goes to primary school.
+초록색	Noun	green	"The color of dark grass, between blue and yellow."
+초콜릿	Noun	chocolate	"Sweet, mostly dark-colored food, that is made by mixing cocoa powder, milk, sugar, etc."
+촛불	Noun	candlelight	The flame of a candle.
+촬영하다	Verb 	shoot	"To film people, objects, scenes, etc., as a photograph or movie."
+최고	Noun 	the highest; top	The degree of something being the highest.
+추다	Verb 	dance	To perform the movements of a dance.
+추석	Noun	Chuseok	One of traditional Korean holiday; it falls on August 15th by the lunar calendar; 
+추억	Noun	memory	"An act of looking back on a past incident, or such a thought or the incident itself."
+추천하다	Verb	recommend	To responsibly introduce someone or something that meets a certain condition.
+축구	Noun	soccer	"A sport in which eleven players form a team, who can win the game by shooting more goals into the other team's net, using mostly their feet or heads."
+축제	Noun	festival	A large-scale event to commemorate or celebrate something.
+축하하다	Verb	congratulate; celebrate	"To greet someone with pleasure, commenting on his/her happy occasion, achievement, etc."
+출근	Noun	going to work; arriving at work	"An act of leaving home for a workplace or arriving at a workplace, to work."
+출근하다	Verb	go to work; arrive at work	"To leave home for a workplace or to arrive at a workplace, to work."
+출발하다	Verb	depart; leave	"To leave a place, heading for another place."
+출장	Noun	business trip	An act of temporarily going to another site to work.
+출판사	Noun	publisher; publishing company	"A company that makes pieces of writing, painting, music, etc., into books or collections and releases them in public."
+춤	Noun	dance	An act of moving one's body to music or a regular beat.
+춥다	Adjective 	cold; chilly	For one's body to feel that the air is cold and the temperature low.
+충분하다	Adjective 	sufficient; enough	"Being ample, without shortage."
+충분히	Adverb 	enough; sufficiently; fully	"In an ample quantity, without shortage."
+취미	Noun	hobby	Something one likes and enjoys doing for fun.
+취소하다	Verb	cancel	"To take back what has been announced, or revoke what has been promised or planned."
+취직	Noun	getting a job	The state of obtaining a job and going to work.
+취직하다	Verb	get a job; be hired; be employed	To obtain a job and go to work.
+취하다	Verb	be drunk; be intoxicated	"To be unable to think or move properly, due to the effect of alcoholic drinks, medicine, etc."
+층	Noun	layer	"One of several layers of different substances or objects stacked horizontally, or the state of things being stacked that way."
+치과	Noun	dental surgery; dentistry; dentist’s office; dental clinic	"A field of medical science that treats diseases of teeth, supporting tissue such as gum, mouth, etc."

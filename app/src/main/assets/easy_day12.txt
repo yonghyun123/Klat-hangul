@@ -1,0 +1,60 @@
+배(body)	Noun	abdomen; belly	The part between the chest and legs on the human or animal body.
+배(conveyance )	Noun	boat; ship; vessel	"A means of transportation that travels on the water, carrying people or goods."
+배(fruit)	Noun	pear	"A round sweet juicy fruit with yellow skin and white insides, which is produced in the fall."
+배구	Noun	volleyball	A game in which there is a net in the middle of a rectangular court and players hit the ball with their hands while keeping the ball from hitting ground in an attempt to pass it to the opponent's side of the net.
+배낭	Noun	backpack; knapsack	"A bag for putting in objects, made to carry on one's shoulders."
+배달	Noun	delivery	"The act of delivering mail, goods, food, etc."
+배달하다	Verb	deliver	"To deliver mail, goods, food, etc."
+배우	Noun	actor; actress	"A person who acts the part of a character in a movie, play, drama, etc."
+배우다	Verb	learn	To obtain new knowledge.
+배추	Noun	Chinese cabbage; napa cabbage	"A long, green vegetable with yellowish white insides, of which the round leaves are grown overlapping each other, mainly used to make kimchi."
+배탈	Noun	stomachache; upset stomach; stomach upset	"A disorder of indigestive function, characterized by diarrhea or pain in the stomach."
+백화점	Noun	department store	A large retail store divided into departments selling a great many kinds of goods in one building.
+버리다	Verb	throw away; dump	To throw or pour out unnecessary things that one has had.
+버스	Noun	bus	A large vehicle designed to carry passengers along a fixed route for a fare.
+번	Bound Noun	beon	A bound noun used to indicate the sequence of a task.
+번개	Noun	lightning	"A strong light flashing for a split second in the sky, along with the sound of thunder when it rains."
+번째	Bound Noun	beonjjae	A bound noun indicating the order or frequency of something.
+번호	Noun	number	A numeral given to distinguish something from another or show a fixed order.
+벌	Noun	bee	"A flying insect with a venomous sting at the end of its body, which gathers nectar and pollen from flowers and stores them."
+벌다	Verb	make; earn	To obtain or save money by doing some work.
+벌레	Noun	worm; bug	"An animal whose body has a simple structure, such as an insect or parasite."
+벌써	Adverb 	so soon	More quickly than one thought.
+법	Noun	law; act	A set of regulations and rules that the state institutes for all citizens to comply with.
+벗다	Verb	take off	"To have an object, clothes, etc., taken off one's body."
+베트남	Noun	Vietnam	Vietnam
+벽	Noun	wall	Any of the parts that enclose a room or house.
+변비	Noun	constipation	A symptom in which feces are not excreted well as they have become hard after remaining in the large intestine too long.
+변하다	Verb	change; turn; become different	For something to become something else or become different in nature.
+변호사	Noun	lawyer	A person who is legally qualified to defend a defendant or plaintiff and to professionally deal with law-related matters.
+별	Noun	star	A celestial body other than the moon that shines at night.
+별로	Adverb	specially; particularly	Separately in particular; differently to such a degree.
+별명	Noun	nickname	"A name given to someone, which shows his/her characteristics unlike his/her real name."
+병	Noun	disease	The abnormal state of a living organism's body that hinders normal activities and causes pain.
+병(thing)	Noun	bottle	"A container with a long, narrow neck, used mainly for holding liquid or powder."
+병문안	Noun	visit to a sick person	The act of visiting and consoling a sick person.
+병원	Noun	hospital; clinic	A place equipped with facilities where doctors and nurses care for the sick.
+보고서	Noun	report	A document or article that provides the details or results of research or a survey.
+보관하다	Verb	keep; store	To have a thing in one's keeping.
+보내다	Verb	send	"To make a person, goods, etc., go somewhere else."
+보다	Verb	see; look at; notice	To perceive with eyes the existence or appearance of an object.
+보라색	Noun	violet; purple	A mixed color of red and blue.
+보여주다	Verb	show	"If something shows that a state of affairs exists, it ives information that proves it or makes it clear to people."
+보통	Adverb	usually; in general	"Generally, or normally"
+복도	Noun	corridor; hallway	"A passage in a building, into which the doors of rooms open."
+복사하다	Verb	copy	To transfer an exact copy of an original thing onto another place.
+복숭아	Noun	peach	"A round summer fruit that has a pink or white color, sweet taste, and a large stone in the middle."
+복잡하다	Adjective	complex; complicated	"Things, emotions, etc., being too entangled to sort out."
+볶다	Verb	stir-fry	"To drain most of water from ingredients, put them in a frying pan, and cook them over heat while stirring continuously."
+볶음밥	Noun	fried rice	A dish made by stir-frying rice with sliced vegetables or meat in oil.
+볼일	Noun	business; things to do	Things to do.
+볼펜	Noun	ballpoint pen	A writing instrument which disperses ink by using the rotation of a small metal ball at its point when it moves.
+봄	Noun	spring	The season between winter and summer.
+봉지	Noun	bag; pouch	A container made of paper or plastic to put things in.
+봉투	Noun	envelope	"A bag made of paper, into which a letter, document, etc., are put."
+뵙다	Verb	see; meet; meet with	To see a person who is elder.
+부끄럽다	Adjective	shy	Bashful or coy.
+부동산	Noun	property; real estate	Immovable property such as land or buildings.
+부드럽다	Adjective	soft; smooth	"Silky, not rough or stiff, to the touch."
+부딪치다	Verb	hit; bump; crash	(emphasizing form) For something to hit hard against another thing; to make this situation happen.
+부러지다	Verb	break; be broken; fracture	For a hard thing to snap and be folded or break into two.

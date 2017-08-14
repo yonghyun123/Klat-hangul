@@ -1,0 +1,60 @@
+내리다	Verb	get off; come out	"To touch a certain spot, after coming outside from a vehicle."
+내용	Noun	content; substance	"What is contained in a bowl, box, etc."
+내일	Noun	tomorrow	On the day after today.
+냄비	Noun	sauce pan	"A container, smaller than a caldron. which has a lid and two handles and is used in the kitchen to cook food."
+냄새	Noun	smell; scent; odor	The trait of something the nose can sense.
+냉면	Noun	naengmyeon	"A dish made by mixing noodles in naengguk, cold soup, gimchi/kimchi liquid, gochujang seasoning, etc."
+냉장고	Noun	refrigerator; fridge	A box-shaped machine used to store food at a low temperature in order to keep it cold.
+너	Pronoun	you	A pronoun used to indicate the listener when he/she is the same age or younger.
+너무	Adverb 	too 	To an excessive degree.
+넓다	Adjective	broad	"The size of the surface, floor, etc., being large."
+넘어지다	Verb	fall down; trip over; tumble over	For a standing person or object to lose balance and fall down.
+넣다	Verb	put; insert	To cause to go into a certain space.
+네	Pronoun	ne	"A format of '너' (you), when the postpositional particle '가' is attached to it."
+넥타이	Noun	necktie	"A long, narrow cloth tied around the collar of a dress shirt, when a man puts on a suit."
+년	Bound Noun	nyeon	A bound noun that serves as a unit for counting the number of years.
+노란색	Noun	yellow	The color of a chick or banana.
+노랗다	Adjective	yellow	Having color like that of a banana or lemon.
+노래	Noun	song; music; singing	A composition created by setting rhythmical lyrics to music; or the act of singing such a piece of music.
+노래방	Noun	noraebang	karaoke; singing room: A place furnished with a karaoke machine so that people can sing to lyrics.
+노래하다	Verb	sing	To sing a piece of composition created by setting rhythmical lyrics to music.
+노력	Noun	effort; endeavor; hard work	Making an effort and working hard to achieve something.
+노력하다	Verb	make effort; endeavor; work hard	To make an effort and work hard to achieve something.
+노트	Noun	notebook	A book made by binding pieces of white or lined paper for writing or drawing pictures.
+녹다	Verb	melt; thaw	For ice or snow to become water after being heated.
+녹색	Noun	green	The color of grass or tree leaves.
+녹차	Noun	green tea	"A tea plant's green leaves picked and dried in the sun, or tea made of the leaves."
+놀다	Verb	play; have fun	To have a good time while playing.
+놀이공원	Noun	amusement park	A park with various facilities or rides that people can see or use.
+농구	Noun	basketball	"A sport played by two teams of five players each, in which the winner is the team putting more balls into the other team's basket."
+농담	Noun	joke	A remark intended to make fun of someone or to make people laugh.
+농사	Noun	farming	"The act of planting, growing, and harvesting crops, vegetables, etc."
+높다	Adjective	high; lofty	The length from bottom to top being long.
+놓다	Verb	let go; let loose	To let something that one is either holding in one's hand or pushing be released by opening or relaxing one's hand.
+누가	Pronoun	somebody	Somebody means the same as someone.
+누구	Pronoun	who	A pronoun used to indicate a person that one does not know.
+누나	Noun	elder sister	A word used by a male to refer to or address his female siblings or cousins older than himself.
+눈(weather)	Noun	snow	Tiny white cotton-like pieces of ice forming and falling as the moisture in the atmosphere becomes frozen.
+눈(body)	Noun	eye	The sensory organ on the face of a person or animal that can see an object when stimulated by the light.
+눈물	Noun	tear	Clear liquid running from the eyes of a person or animal.
+눈사람	Noun	snowman	Snow packed in the shape of a person
+눕다	Verb	lie down; lay oneself down; lie	For a person or animal to lie with the back or flank horizontally to touch a certain place.
+뉴스	Noun	news 	A broadcast program that delivers new reports.
+느끼다	Verb	feel	"To perceive a certain stimulus through a sensory organ such as the nose, skin, etc."
+느낌	Noun	feeling; sense; impression	"A sense, mood, emotion, etc. felt in one's body and mind."
+느리다	Adjective	slow; sluggish	Taking a long time to do something.
+늘	Adverb 	always	"Invariably, all the time."
+늘다	Verb	be extended	"For the length, area, volume, etc., of something to become longer or bigger than before."
+능력	Noun	ability; capability; competence	The ability to do something.
+늦게	Adjective	late	"Late means near the end of a day, week, year, or other peroid of time."
+늦다	Verb	be late	To be later than the set time.
+늦잠	Noun	oversleeping; late rising	Sleeping late into the morning.
+님	Bound Noun	nim	A bound noun to address a certain person deferentially.
+다	Noun	all; everything	Everything without anything left out or missing.
+다가오다	Verb	approach; come near	To come closer to a subject.
+다녀오다	Verb	go and come back	To go to a certain place and then return from it.
+다니다	Verb	go continuously	To constantly go to a place.
+다르다	Adjective	different; other	Not the same as each other.
+다리(body)	Noun	leg	A body part attached to the bottom of the torso of a person or animal that is used to walk or run.
+다리(facility)	Noun	bridge	"A facility that connects both sides to allow a person or animal to cross a river, a sea, a road, a valley, etc."
+다시	Adverb	again	Repeatedly with the same words or behavior.

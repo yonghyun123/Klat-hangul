@@ -1,0 +1,60 @@
+샴푸	Noun	shampoo	Liquid soap used for washing one's hair.
+서다	Verb	stand	For a human or animal to place his/her feet on the ground and assume an upright position.
+서랍	Noun	drawer	"A box that keeps objects made to slide in and out of a desk, closet, etc."
+서로	Adverb 	each other; one another	Toward each person who is one of two or more people who are related.
+서류	Noun	document; papers	A written document.
+서비스	Noun	service	"One of such activities as sale, tourism, finance, medical care, etc., not related to production."
+서양	Noun	Occident	The countries of Europe and America.
+서점	Noun	bookstore	A store that sells books.
+서쪽	Noun	west	One of the four geographic directions in which the sun sets.
+선	Noun	line	A border or line drawn horizontally or vertically.
+선물	Noun 	gift; present	"The act of giving an object to another person in order to show thanks or celebrate something, or the object itself."
+선물하다	Verb	give a gift	To give an object to another person in order to show thanks or celebrate something.
+선배	Noun 	senior; veteran	A person who is more experienced and holds a higher position than oneself because he/she started his/her career in the same field earlier.
+선생님	Noun 	teacher; master	(polite form) A person who teaches students.
+선수	Noun 	athlete; player; representative player	"A person chosen as a representative in a sports game, or a person whose job is to play a sports game."
+선택하다	Verb	choose; make a choice; select	To choose what one needs among many.
+선풍기	Noun 	fan	A device used to beat the heat by making wind with electric power.
+설거지	Noun 	dishwashing; doing the dishes	The act of washing and putting away the dishes after eating.
+설거지하다	Verb	wash the dishes; do the dishes	To wash and put away the dishes after eating.
+설날	Noun 	Seollal	One of the national holidays in Korea; on January 1st by the lunar calendar.
+설렁탕	Noun 	seolleongtang	"A soup made by boiling cow heads, intestines, bones, feet, etc., thoroughly, or the soup with rice in it."
+설명하다	Verb	explain; account for	To describe something to another person in a way that he/she could understand easily.
+설탕	Noun 	sugar	White powder that dissolves easily in water and is used to sweeten food.
+섭섭하다	Adjective	sorry; regrettable	Sorry and feeling the lack of someone or something.
+성격	Noun 	personality; character	A person's innate quality or character.
+성공	Noun 	success	The act of achieving something that one wanted or aimed for.
+성공하다	Verb	succeed	To achieve something that one wanted or aimed for.
+성명	Noun 	full name	One's given name and last name.
+성별	Noun 	sex; gender	"The distinction between man and woman, or male and female."
+성적	Noun 	record; results	"A record of performance. showing the results of a task or sports game, etc."
+성함	Noun 	name	(honorific) One's name.
+세계	Noun 	world; universe	All the countries on the earth.
+세다(strength)	Adjective 	strong; powerful	Having great power.
+세로	Noun 	height; length	"The direction from the top to bottom, or the length."
+세배	Noun 	sebae	"new year's bow: The act of performing a traditional bow to pay respect to one's elders on Seol, New Year's Day."
+세뱃돈	Noun 	sebaedon; sebaetdon	new year's money: Money received after new year's bows.
+세수	Noun 	washing up	The act of washing one's hands or face with water.
+세수하다	Verb	wash up	To wash one's hands or face with water.
+세우다	Verb	pick up; raise up; make something stand	"To make a person or animal put his/her or its feet on the ground, stretch his/her or its legs, and straighten his/her or its body; "
+세월	Noun 	time	The passage of time.
+세일하다	Verb	have a sale	To sell something cheaper than the original price.
+세제	Noun	detergent; cleanser	"A substance used to wash dirt off when doing the laundry, washing dishes, cleaning, etc."
+세탁	Noun	washing; laundry	"An act of washing dirty clothes, etc."
+세탁기	Noun	washing machine	A machine that does the laundry.
+세탁소	Noun	laundry	"A shop that does the laundry, ironing, etc., for money."
+센터	Noun	center	"The center of an arena or field in soccer, volleyball, basketball, etc., or a player positioned in the center."
+센티미터	Bound Noun 	centimeter	A length unit.
+셔츠	Noun	shirt	A western upper garment worn inside a suit or as an outer clothing.
+소	Noun	cow	A big domestic animal with a brown or black-and-white coat that is raised to produce milk or for its meat.
+소개	Noun	explanation	An explanation to teach unfamiliar or unknown truth or content.
+소개하다	Verb	explain	To explain to teach unfamiliar or unknown truth or content.
+소고기	Noun	beef	"Meat from cow, bull or ox"
+소금	Noun	salt	A white powder that tastes saline.
+소나기	Noun	shower	"Rain that pours down violently and suddenly, and then lets up soon."
+소리	Noun	sound; noise	Sound wave heard by the ear that is created when an object vibrates.
+소방관	Noun	firefighter	A civil servant who is responsible for fighting or putting out fires.
+소방서	Noun	fire station	An institution that fights or puts out fires.
+소설	Noun	novel	A literary work that an author writes in the form of storytelling.
+소설가	Noun	novelist	A person who writes novels professionally.
+소설책	Noun	novel	A book containing a novel.

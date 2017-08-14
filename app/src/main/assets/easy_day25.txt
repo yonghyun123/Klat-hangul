@@ -1,0 +1,60 @@
+정리하다	Verb	organize	To gather or clear away dispersed or unorganized items.
+정말	Noun	fact	"A truth without falsehood, or words without any lack of conformity to truth."
+정문	Noun	main gate	A gate at the front of a building through which people and cars go in and come out.
+정상	Noun	normality; normalcy	The state of being adequate with no noticeable changes or problems.
+정식	Noun	being full; being official	Proper protocol or ceremony with adequate formalities.
+정장	Noun	formal wear; suit	Formal clothes worn primarily on official occasions.
+정하다	Verb 	decide	To choose one among many.
+정확하다	Adjective	accurate	Right and certain
+젖다	Verb 	get wet	To become wet by absorbing liquid.
+제목	Noun	title	"A name used to represent the main idea of a text, film, performance, etc."
+제일	Noun	first	The one coming first among many.
+제출하다	Verb 	submit	"To present an opinion, document, etc."
+제품	Noun	product	"The act of making an item by using materials, or such an item."
+조건	Noun	condition	A state or element that is needed in advance to accomplish something.
+조금	Noun	a little; little	A small quantity or degree.
+조사	Noun	poll; survey; investigation	The act of examining or searching to understand the details of an affair or thing.
+조심하다	Verb 	practice caution	"To be careful in speech, behavior, etc., not to get in trouble."
+조용하다	Adjective	quiet	No sound being heard
+조용히	Adverb 	quietly	With no sound being heard.
+조카	Noun	nephew; niece	A child of one's sibling.
+졸다	Verb	nod; doze off	To enter a state where one has not fallen asleep but gets close to falling asleep repeatedly.
+졸업	Noun	graduation	The act of a student completing all the curriculum determined by school authorities.
+졸업식	Noun	graduation ceremony	A ritual to celebrate completion of all the courses required by the school.
+졸업하다	Verb 	graduate	For a student to complete all the courses required by a school.
+좀	Adverb	a little	In a small quantity or to a small degree.
+좁다	Adjective	narrow	A road or the distance between two objects being narrow.
+종교	Noun	religion	"A cultural system that believes in and obeys a god or supernatural being, serving as a guidance in life or philosophy."
+종류	Noun	kind; sort	One of many classes into which something is divided according to certain criteria.
+종업원	Noun	employee; staff	"A person who engages in a certain business at a workplace, etc."
+종이	Noun	paper	"A thin material made of wood pulp that is used for multiple purposes such as writing, painting, priniting, etc."
+종일	Adverb 	all day long	Continuously from morning till evening.
+좋다	Adjective	good; great; excellent	Excellent and satisfactory in features and content.
+좋아하다	Verb 	like	To have good feelings toward something.
+좌석	Noun	seat	A seat prepared for someone to sit down on.
+좌회전	Noun	turning left	"The act of a car, etc., making a left turn."
+죄송하다	Adjective	sorry	Very sorry as if one committed a wrongdoing.
+주(date)	Noun	week	The seven-day period from Monday to Sunday.
+주다	Verb	give	"To give an item, etc., to someone else so he/she can have or use it."
+주말	Noun	weekend	The end of a week.
+주머니	Noun	pocket	"A part made of cloth, etc., that is attached to a piece of garment for keeping money, things, etc., in."
+주무시다	Verb 	sleep	(honorific) To sleep.
+주문	Noun	order	The act of directing a manufacturer or seller to make or deliver an item.
+주문하다	Verb 	order	"To direct a manufacturer or seller to make or deliver an item by specifying the type, quantity, shape, size, etc."
+주변	Noun	being around	"The surroundings that encompass someone or something, or being within a close range."
+주부	Noun	homemaker	A person who mainly does household chores in a family.
+주사	Noun	injection	The act of directly introducing a liquid drug into the human or animal body through a syringe.
+주소	Noun	address	"The administrative name of a place where a house, workplace, organization, etc., is located."
+주스	Noun	juice	"A liquid extracted from fruits or vegetables, or a drink made of such liquid."
+주위	Noun	surrounding area	An area surrounding a certain place.
+주유소	Noun	gas station	"An establishment where cars, etc., are refueled with oil."
+주의하다	Verb 	practice caution	To keep something in mind and be careful about it.
+주인	Noun	owner	A person who has an object or item as his/her own.
+주인공	Noun	main character	"A character who plays a central role in the story of a play, film, novel, etc."
+주차장	Noun	parking lot	A place where one can park his/her car.
+주차하다	Verb 	park	To keep a car at a certain space.
+주황색	Noun	orange color	A mixed color of red and yellow.
+죽	Noun	juk	"porridge: A dish made from grains such as rice, glutinous rice, etc., that is cooked really soft by boiling for a long time."
+죽다	Verb 	die	"For a living plant, animal, or insect to lose its life."
+준비	Noun	preparation	The act of having something in place with advance preparations.
+준비하다	Verb 	prepare	To have something in place with advance preparations.

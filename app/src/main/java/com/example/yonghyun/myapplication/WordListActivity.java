@@ -23,6 +23,7 @@ import com.daimajia.swipe.SwipeLayout;
 
 import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
@@ -35,14 +36,9 @@ public class WordListActivity extends Fragment {
     private WordListViewAdapter koreanWordAdapter;
     private WordPackageItem packageItems;
     private InputMethodManager imm;
+    private InputStream inputData;
 
     private ArrayList<WordPackageItem> packageItemsList;
-    private List<WordPackageItem> dbItemList;
-
-    private ArrayList<String> koreanWordList; //korean word
-
-    private TextView totalWordNumber;
-    private SwipeLayout swipeLayout;
     private DBWordHelper db;
 
 
@@ -62,34 +58,28 @@ public class WordListActivity extends Fragment {
         wordListView = (ListView) v.findViewById(R.id.koreanWord);
         searchWord = (EditText)v.findViewById(R.id.searchText);
 
-        koreanWordList = new ArrayList<>();
         packageItemsList = new ArrayList<>();
-        dbItemList = new ArrayList<>();
 
 
+        try {
+            inputData = getActivity().getAssets().open("easy_day"+State_Field.getDate()+".txt");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
         SharedPreferences sharedPreferences = this.getActivity().getSharedPreferences("status", Context.MODE_PRIVATE);
-
-        getDataFromFile();
-        Log.i("in wordListActivity","what is it = "+State_Field.getDate());
-
-
         boolean []checkedStatus = new boolean[packageItemsList.size()];
         for(int i = 0; i < checkedStatus.length; i++){
 
             checkedStatus[i] = sharedPreferences.getBoolean(Integer.toString(i), false);
         }
-
+        getDataFromFile();
         setListViewAdapter(checkedStatus);
-
 
         wordListView.setOnItemClickListener(new AdapterView.OnItemClickListener(){
 
             @Override
             public void onItemClick(AdapterView parent, View v, int position, long id) {
-                Toast toast = Toast.makeText(v.getContext(),"몇번째?"+position,Toast.LENGTH_SHORT);
-                toast.show();
-
                 Intent fullWord = new Intent(getActivity(), ShowFullWord.class);
                 fullWord.putExtra("ItemList",packageItemsList);
                 fullWord.putExtra("position",position);
@@ -112,7 +102,7 @@ public class WordListActivity extends Fragment {
         String[] splitStr = null;
         db = new DBWordHelper(getActivity());
         try{
-            reader = new BufferedReader(new InputStreamReader(getResources().openRawResource(R.raw.easy_day1),"UTF-8"));
+            reader = new BufferedReader(new InputStreamReader(inputData,"UTF-8"));
             String line = null;
 
             while((line = reader.readLine())!=null && !line.equals(" ")){

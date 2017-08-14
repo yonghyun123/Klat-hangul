@@ -1,0 +1,60 @@
+s	Verb	call for; call out for; gesture	To ask someone to come or draw his/her attention through words or actions.
+부모(부모님)	Noun	parents	Father and mother.
+부부	Noun	couple; married couple	Husband and wife.
+부엌	Noun	kitchen	"An area in a house where meal-related work such as cooking, dishwashing, etc., is done."
+부인	Noun	wife	(polite form) Another man's wife.
+부자	Noun	the rich; the wealthy	"A person who has a large amount of property, enough to live comfortably."
+부족하다	Adjective	insufficient 	Not enough or less than what is needed.
+부지런하다	Adjective 	diligent; industrious	Tending to work steadily without being idle.
+부채	Noun	fan	An object that creates a current of air when it is waved.
+부치다	Verb 	send	"To forward a letter, object, etc."
+부탁하다	Verb 	request	To ask someone to do something or entrust someone with something.
+북	Noun	north	"One of the four cardinal directions, namely north, south, east, and west, which is the direction indicated by the needle of the compass."
+북쪽	Noun	north	"One of the four points of the compass, the direction that N points to."
+분(person)	Bound Noun	bun	A bound noun that is an honorific term of addressing another person.
+분(time)	Bound Noun	minute	"A bound noun indicating a unit of time, which is one-sixtieth of an hour."
+분위기	Noun	mood	The atmosphere that is felt on an occasion or in a situation.
+분홍색	Noun	pink	A mixed color of white and red.
+불	Noun	fire	The act of a substance burning while emitting light and heat.
+불고기	Noun	bulgogi	barbequed beef: Traditional Korean food made by roasting seasoned slices of pork or beef.
+불교	Noun	Buddhism	"A religion created by Sakyamuni in India, which is founded on the ideal of relieving oneself of all pains in this world to become a Buddha."
+불다	Verb 	blow	For a wind to form and move in a certain direction.
+불쌍하다	Adjective	pitiful; pathetic	Feeling sorry and sad because someone is in a bad situation.
+불안하다	Adjective	uneasy; anxious	Being anxious without feeling at ease.
+불편하다	Adjective	inconvenient	Inconvenient to use something.
+붙다	Verb 	stick to; cling to	For something to adhere to something else and not come off easily.
+블라우스	Noun	blouse	A billowy shirt worn by women with a smooth texture.
+비	Noun	rain	"Water drops generated from cloud-forming vapors high in the sky that get cold, condense, and fall."
+비교하다	Verb 	compare	To put more than two things together and observe their similarities and differences.
+비누	Noun	soap	A substance that one uses for removing dirt on the body or clothing by lathering with water.
+비다	Verb 	be empty; be vacant	For a space to contain nothing or no one.
+비밀	Noun	secret; covertness	A hidden thing unknown to others.
+비밀번호	Noun	password; PIN number	"A series of numbers or phrases unknown to others that a person creates to secure his/her bank account, computer, etc."
+비빔밥	Noun	bibimbap	"Rice topped with sliced meat, mushrooms, eggs, seasoned vegetables, some seasonings, etc., of which all the ingredients are stirred before eating."
+비서	Noun	secretary; personal assistant	"A person who takes care of office work, schedule, etc. for someone in an important position."
+비슷하다	Adjective	similar	"Two or more sizes, shapes, states, qualities, etc., being not the same, but being alike in many ways."
+비싸다	Adjective	expensive; costly	The price of an object or the cost to do something being higher than the average.
+비자	Noun	visa	A document that authorizes the entry and departure of a foreigner.
+비행기	Noun	plane; airplane	A flying vehicle that carries passengers and cargo.
+빌다	Verb	beg	To eagerly ask for forgiveness for one's mistake.
+빌딩	Noun	building	A western high-rise structure usually filled with offices.
+빌려주다	Verb 	lend	"To lend goods, money, etc., to someone for a certain period of time on the condition of taking them back or receiving a price later."
+빌리다	Verb	borrow; rent	"To borrow goods, money, etc., from someone for a certain period of time on the condition of returning them or paying a price later."
+빗다	Verb	comb	"To arrange hair, fur, etc., with a comb, hand, etc."
+빠르다	Adjective	fast; quick	Taking a short time to accomplish certain actions.
+빨간색	Noun	red color	"A red color like that of blood, or a ripe apple or red pepper."
+빨갛다	Adjective 	crimson	Brightly deep red like the color of blood or a ripe chili pepper.
+빨다	Verb 	wash; clean	"To put clothes, etc., in water and rub them with one's hands, or remove dirt on them by using a washing machine."
+빨래	Noun	washing; laundry	"An act of washing dirty clothes, cloths, etc., in water."
+빨래하다	Verb	wash clothes	"To wash dirty clothes, cloths, etc., in water."
+빨리	Adverb 	quickly	In a short duration of time.
+빵	Noun	bread	Food made by baking or steaming fermented dough.
+빵집	Noun	bakery	A shop that bakes and sells bread.
+사거리	Noun	crossroads; intersection; street corner	A place where four roads meet.
+사건	Noun	incident; event; affair; accident; case	A matter that is worthy of interest or attention.
+사계절	Noun	four seasons	"Four seasons that are spring, summer, fall, and winter."
+사고	Noun	accident	An unfortunate affair that happens unexpectedly.
+사과	Noun	apology	An act of admitting one's own mistakes and begging for forgiveness.
+사과하다	Verb 	apologize	To admit one's own mistakes and beg for forgiveness.
+사귀다	Verb 	get along with; go around with; go out with	To come to know and keep each other's company.
+사다	Verb	buy; purchase; get	"To get ownership of an item, right, etc., by paying for it."

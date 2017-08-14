@@ -1,0 +1,59 @@
+떡볶이	Noun	tteokbokki	"Boiled rice cake with seasoning, made by boiling garaetteok."
+떨리다	Verb	tremble	For a part of one's body or whole body to be shaken fast and repeatedly.
+떨어뜨리다	Verb	drop	To let something at the top fall to the bottom.
+떨어지다	Verb	fall; drop	To move downwardly.
+또	Adverb	once more	In the manner of happening or behaving again.
+또는	Adverb	or	If it is not.
+똑같다	Adjective	exactly the same; equivalent to	"Not a bit different from each other in shape, amount, quality, etc."
+똑똑하다	Adjective	clever; bright; sensible	Intelligent and wise.
+똑바로	Adverb	straight; upright	"Straight, not tilting to any side."
+뚱뚱하다	Adjective 	fat; corpulent	A person's body being wide as a result of putting on weight.
+뛰다	Verb 	run; race; dash	To move forward in quick steps.
+뛰어가다	Verb	run; go running	To run and go to a certain place very fast.
+뜨겁다	Adjective	hot	(temperature) High.
+뜻	Noun	intention; opinion; wish; cause	A thought or opinion in one's mind.
+라디오	Noun	radio	the act of sending sounds through a radio wave to enable a person with a receiving device to listen to them.
+라면	Noun	ramen; instant noodles	An easy-to-cook instant noodle dish made by just boiling previously-fried dry noodles and adding powdered soup to them.
+러시아	Noun	Russia	Russia
+로션	Noun	lotion	A thick liquid cosmetic which is applied to make the skin soft and moist.
+리포트	Noun	report	"A report on the outcomes of a survey, research, experiment, etc."
+마늘	Noun	garlic	"A vegetable with round cloves clustered in a circle, which has a unique smell and used widely for seasoning or side dishes."
+마라톤	Noun	marathon	A race in athletics in which one runs 42.195km in one go.
+마루	Noun	maru	"floor: In hanok, a traditional Korean house, a place built above the ground, covered with flat boards so as to allow one to sit or walk on."
+마르다	Verb	dry up	For moisture to evaporate and disappear.
+마리	Bound Noun	mari	"A bound noun that serves as a unit for counting the number of animals, fish, bugs, etc."
+마시다	Verb 	drink	"To make liquid such as water, etc., pass down one's throat."
+마을	Noun	town	A place where many houses are gathered.
+마음	Noun	personality	A trait that a person was born with.
+마음대로	Adverb	at will	As and when one likes.
+마지막	Noun	last	The very end of a time or order.
+마치다	Verb 	complete; finish	For a task or process in progress to complete or to complete it.
+마침	Adverb	opportunely; just at the time	"By chance, in the manner of being perfectly good for a certain opportunity or moment."
+마침내	Adverb	finally; after all	"Eventually, in the end."
+만나다	Verb 	meet; meet with; join	For one of two to go or come and be face to face with the other.
+만두	Noun	dumpling	"Dumplings, made by kneading and pressing flour and wrapping minced meat, vegetables, etc., with the dough."
+만들다	Verb 	make; create; produce; manufacture	"To create something that did not exist, using one's power or skill."
+만약	Noun	supposing	An unexpected case or situation that one thinks might happen.
+만지다	Verb 	touch	To put one's hand on something and move it.
+만화	Noun	comics	"A picture that expresses comically a person's life, tells stories of a society or is based on imagination."
+많다	Adjective	plentiful; many; a lot of	"A number, amount, etc., exceeding a certain standard."
+많이	Adverb	much; in large numbers; in large amounts	"In a state in which a number, amount, degree, etc., are larger than a certain standard."
+말	Noun	speech; words	Human voice through which thoughts or feelings are expressed and conveyed.
+말리다	Verb 	stop; keep	To keep someone from doing a certain act.
+말씀	Noun	words	(polite form) Words of another person.
+말하기	Noun 	speaking	"The act of expressing one's ideas, feelings, opinions, etc., in words."
+말하다	Verb 	say; tell; speak; talk	To verbally present a fact or one's thoughts or feelings.
+맑다	Adjective	clean; clear	Clean and free of something dirty and filthy.
+맛	Noun	taste	"A sensation that is felt when touching one's tongue to food, etc."
+맛없다	Adjective	ill-tasting; unsavory	The taste of food being not good.
+맛있다	Adjective	tasty; delicious	Tasting good.
+맞다	Verb	be correct	For the answer to a problem to be correct.
+맞은편	Noun	other side	The opposite side.
+매우	Adverb 	very; very much; greatly	Much more than average.
+매일	Noun	everyday	Every single day.
+매점	Noun	snack bar; shop	A small shop or a vendor stall selling goods within facilities or an organization.
+매주	Noun	every week	Each week.
+맥주	Noun	beer	"A foamy alcoholic beverage made by adding water, bitter taste, and yeast to, most commonly, malted barley."
+맵다	Adjective	spicy; hot	"Having a tangy taste like red peppers or mustard, which causes a sharp sensation at the tip of the tongue."
+머리	Noun	head	A part of the human or animal body above the neck that includes the face and hair.
+머리카락	Noun	hair	Each and every hair.

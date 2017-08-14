@@ -1,0 +1,60 @@
+옮기다	Verb	move; take; shift	To make something move from one place to another.
+옷	Noun	clothes; garment	"An item that one wears to cover his/her body, protect himself/herself from cold, heat, etc., and look fashionable."
+옷장	Noun	wardrobe	A piece of furniture for storing clothes.
+와(Interjection)	Interjection	wow; ooh	An exclamation uttered when something pleasant happens unexpectedly.
+와이셔츠	Noun	dress shirt	"A shirt with a collar and sleeves, which is worn under a suit jacket."
+와인	Noun	wine	Western liquor made by fermenting the juice of grapes.
+완성하다	Verb	complete	To finish doing something thoroughly.
+완전	Noun	completeness	The state of having everything in place without shortcomings.
+왕	Noun	king	A king who is a ruler of a country where the crown is passed down from one to another member of the royal family.
+왕복	Noun	going and returning; round trip	The act of going and returning.
+왕비	Noun	queen	The wife of the king.
+왜냐하면	Adverb	because; since; by reason of	For the reason that.
+외국	Noun	foreign country	A country other than one's own.
+외국어	Noun	foreign language	The language of a foreign country.
+외국인	Noun	foreigner	A person from other country.
+외롭다	Adjective	lonely; solitary	Being lonesome because one is alone or has nobody to depend on.
+외삼촌	Noun	one's maternal uncle	A word used to refer to or address a brother of one's mother.
+외숙모	Noun	wife of one's maternal uncle	The wife of one's mother's brother.
+외식하다	Verb	eat out	To go out to eat.
+외출	Noun	going out; outing	"An act of going outside of your home, company, etc. to do something else."
+외출하다	Verb	go out	"To go outside one's home, company, etc., to do something."
+외할머니	Noun	maternal grandmother	A word used to refer to or address one's mother's mother.
+외할아버지	Noun	maternal grandfather	A word used to refer to or address one's mother's father.
+왼쪽	Noun	left; left side	The side of someone facing west when he/she turns toward the north.
+요금	Noun	fare; fee; charge	A sum of money paid for using a facility or watching something at a facility.
+요리	Noun	cooking	An act of making food.
+요리법	Noun	recipe; formula	A method of making food.
+요리사	Noun	cook; chef	A person who cooks as an occupation.
+요리책	Noun	"recipe book, cookbook"	A cookbook is a book that contains recipes for preparing food.
+요리하다	Verb	cook	To make food.
+요일	Noun	day of the week	Each of the seven days that constitute one week.
+요즘	Noun	nowadays; these days	A period from a while ago to the present.
+욕심	Noun	desire; greed	An excessive longing to get or have something.
+용돈	Noun	pocket money; allowance	Money that a person can use freely for various purposes
+우리	Pronoun 	we	A pronoun used when the speaker refers to himself/herself and the listener or listeners.
+우리나라	Noun	our country	A term used by Korean people to refer to Korea.
+우산	Noun	umbrella; parasol	"An implement that folds out like a canopy on a rod, which one holds over one's head as a cover from rain."
+우선	Adverb	first of all; to begin with; before everything	Before doing something.
+우습다	Adjective	funny	Funny enough to cause laughter.
+우유	Noun	milk	"The milk of a cow; a white liquid used to produce ice cream, butter, cheese, etc."
+우체국	Noun	post office	"A public institution whose work involves delivering letters and packages, or managing monetary deposits, etc."
+우표	Noun	postage stamp	A small piece of paper attached to postal mail as a sign that its postal charge has been paid.
+운동	Noun	exercise	The act of moving one's body in order to train it or improve one's health.
+운동복	Noun	sportswear; sweat suit	The clothes worn when doing an exercise.
+운동선수	Noun	sportsman; athlete	A person who is good at sports or does it as a profession.
+운동장	Noun	playground; sports field	A wide yard equipped with a variety of apparatus and facilities for sports or play.
+운동하다	Verb	exercise; take exercise	To move one's body in order to train it or improve one's health.
+운동화	Noun	running shoes; sneakers	Shoes worn when doing an exercise.
+운전기사	Noun	driver	(polite form) A driver.
+운전하다	Verb	drive; operate	To move and handle a machine or car.
+울다	Verb	cry	"To shed tears out of unbearable joy, pain, or delight, or to make sounds while shedding tears."
+움직이다	Verb	move; budge; be in motion	For a position or posture to change; to change a position or posture.
+웃다	Verb	smile	To smile big or make a sound when one is happy or satisfied.
+웃어른	Noun	elders; senior	"A person who is older, or senior in status or position and thus should be treated with respect."
+원(monetary)	Bound Noun	won	A Korean monetary unit.
+원피스	Noun	one-piece dress	A woman's outer garment made of one piece.
+원하다	Verb	want; wish; hope	To hope for something or desire to do something.
+월	Noun	month; being monthly	A period of a month.
+월급	Noun	salary; monthly wage	Money paid for one's labor on a monthly basis.
+월세	Noun	monthly rent; monthly rental fee	The act of renting a house or room on a monthly basis; money spent on renting a house or room on a monthly basis.

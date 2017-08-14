@@ -1,0 +1,60 @@
+귀엽다	Adjective	cute; adorable; sweet	Pretty and adorable.
+규칙	Noun	rule	A law enacted so that many people will follow it.
+귤	Noun	tangerine; mandarin orange	"A sweet-and-sour, orange-colored, round fruit of a tangerine tree, whose skin is peeled before eating."
+그	Determiner	that	A term referring to something near the listener or what the listener is thinking.
+그냥	Adverb	as it is; as it stands	In the manner of leaving something as it is.
+그대로	Adverb	as it is; as it stands	Exactly as the original shape or state.
+그동안	Noun	meantime; meanwhile	"The previously-mentioned period, or a certain period of time before one sees or contacts someone again."
+그래	Interjection	okay; sure	"An exclamation used when giving a positive answer that means 'I'll do so', 'Yes, it is', or 'I see.'"
+그래서	Adverb	so; therefore	A word used when the preceding statement is the basis for the following statement.
+그램	Bound Noun	gram	A bound noun that serves as a unit of weight measurement.
+그러나	Adverb	but; however	A word used to indicate that a statement is the opposite of the following statement.
+그러니까	Adverb	so	"For that reason, or therefore."
+그런데	Adverb	by the way	A word used to change the direction of a story while relating it to the preceding statement.
+그럼	Adverb	if so; in that case	A word used when the following statement is conditional upon the preceding one.
+그렇게	Adverb	so	a conjugated form of 'be so'.
+그렇다	Adverb	so; as such; like that	"A state, appearance, characteristic, etc. being as such."
+그렇지만	Adverb	but; however; nevertheless	A word used to say something opposed to the preceding statement; although it is true.
+그릇	Noun	bowl; dish; container	A utensil that holds food.
+그리고	Adverb	and	A word used to connect the preceding statement with the following one.
+그리다	Verb	draw; paint	"To express an object in lines or colors by using a pencil, brush, etc."
+그림	Noun	drawing; painting; sketch	"Shapes, images, etc., that are expressed on a flat surface with lines or colors."
+그립다	Adjective	miss	Wanting to see and meet someone very much.
+그만	Adverb 	no more	To just that much and no more.
+그만두다	Verb	stop	To stop and to not do what one has been doing.
+그저께	Noun	the day before yesterday	"The day before yesterday; that is, two days before today."
+극장	Noun	theater; cinema	"A place equipped with a stage or screen, for performing plays, music, dance, etc., or showing movies."
+근무하다	Verb	work	To do responsible duties at the workplace.
+근처	Noun 	vicinity; neighborhood	"A spot close to a certain place, object, or a person."
+글	Noun	writing; text	A state of expressing one's thoughts or affairs in words.
+글쎄	Interjection	well; hm	An exclamation used when showing an uncertain attitude toward someone's question or demand.
+글씨	Noun	form of letters	The form in which characters are written.
+글자	Noun	letter; character	A sign used to write down a spoken word.
+금방	Adverb	moment ago	A short time ago.
+금연	Noun	nonsmoking	The act of prohibiting smoking.
+금요일	Noun	Friday	The fifth day from Monday in a week.
+금지	Noun	ban	A ban on a certain activity by law or rule.
+기간	Noun	period; term	The gap from a certain time to another time.
+기다리다	Verb	wait	To spend time until a person or time comes or a certain event is realized.
+기대	Noun	expectation	Waiting and hoping for something to happen.
+기대하다	Verb	expect; anticipate	To wait while hoping for something to come true.
+기르다	Verb	breed; grow; cultivate	To give food or nutrients and protect animals and plants to make them grow.
+기분	Noun	mood; feelings	"The state of one's emotion such as displeasure, pleasure, gloom, anger, etc."
+기쁘다	Adjective	happy; glad	Feeling very good and in a good mood.
+기사(job)	Noun	driver	A person who drives vehicles or operates machines as a profession.
+기사(paper)	Noun	article	A piece of writing in a newspaper or magazine to report certain facts.
+기숙사	Noun	dormitory	A facility provided by a school or company for students or employees to sleep in and have meals.
+기억	Noun	memory	"The act of not forgetting or recalling past figures, facts, knowledge or experiences."
+기억하다	Verb	remember; recall	"Not to forget or recall past figures, facts, knowledge or experiences."
+기온	Noun	air temperature	Atmospheric temperature.
+기자	Noun	reporter; journalist	"A person whose job it is to do research, write or edit articles for newspapers, magazines, broadcasts, etc."
+기차	Noun	train	A lengthy series of vehicles that carry people or goods and run on a railroad.
+기침하다	Verb	cough	For the air to be suddenly expelled through the throat from the lungs accompanied by a rough sound.
+기타	Noun	guitar  	A musical instument that has six strings fastened to a long body.
+기회	Noun	chance; opportunity	Perfect timing or appropriate occasion in which one can do something.
+긴장되다	Verb	be nervous; be strained	"To be alerted, not being relaxed."
+길	Noun	road; street; way	A long stretch of ground space with a fixed width meant for people or cars to travel along.
+길다	Adjective	long; lengthy; extensive	Two ends of an object being far apart.
+길이	Noun	length; distance	The distance from one end of something to the other end.
+김	Noun	gim	dried laver seaweed: A black food made by taking seaweed from the warm.
+김밥	Noun	gimbap	A dish made by rolling rice and various other ingredients.

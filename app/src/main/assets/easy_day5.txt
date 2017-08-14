@@ -1,0 +1,60 @@
+김치	Noun	gimchi; kimchi	"A staple of the Korean diet made by salting vegetables such as napa cabbages, white radishes, etc."
+김치찌개	Noun	gimchijjigae; kimchijjigae	"Gimchi/Kimchi stew, boiled gimchi/kimchi and other ingredients such as meat, etc."
+깊다	Adjective	deep	Having a very long distance from top to bottom or from outside to inside.
+깊이	Adverb	deeply; deep	"In the state of the length from top to bottom, or from outside to inside being long."
+까맣다	Adjective	pitch-dark	Deep-black like the night sky devoid of light.
+깎다	Verb	peel	"To remove the surface of something or the skin of a fruit, etc., with a tool such as a knife."
+깜짝	Adverb 	with a startle	In the manner of being surprised suddenly.
+깨끗이	Adverb	clean	Not dirtily.
+깨끗하다	Adjective	clean	Not dirty.
+깨다	Verb	sober up	"To wake up from a drunk state and come to one's original, clear senses."
+껌	Noun	chewing gum	Food one chews for a long time to enjoy its sweet flavor and then spit out.
+꼭	Adverb	without fail; at any cost; certainly	By all means under any circumstances.
+꽃	Noun	flower	"That part at the end of a plant stem that has a unique shape, color and fragrance or a plant that produces such a thing."
+꽃다발	Noun	bouquet; bunch of flowers	Flowers tied up in a bundle.
+꽃병	Noun	vase	A bottle used to hold flowers.
+꽃집	Noun	flower shop	A shop selling flowers and other plants.
+꽤	Adverb	quitely; fairly	Considerably well more than expected.
+꾸다	Verb	dream	"To see, hear, and feel in a dream as if it were real."
+꿈	Noun	dream	"A mental phenomenon during one's sleep, in which one sees, hears, and feels just as if one is awake."
+끄다	Verb	put out; extinguish	To stop a fire from burning.
+끊다	Verb 	cut	"To cut a connected object such as a string, thread, cord, etc., and separate it."
+끌다	Verb	pull	To pull and move something with its one side touching the ground.
+끓다	Verb	boil	For liquid to become very hot and bubble.
+끝	Noun	end; final	The end of a lapse of time.
+끝나다	Verb	end; finish	For something to be completed until the end.
+나	Pronoun	I	A pronoun used to indicate oneself to a friend or a younger person.
+나가다	Verb	go out; leave	To move from the inside to the outside of an area or space.
+나누다	Verb	divide; split	To divide something that was one into two or more parts or pieces.
+나라	Noun	country; nation; state	A social organization of people with a territory and sovereign rights.
+나무	Noun	tree	"A plant with a hard stem, branches and leaves."
+나비	Noun	butterfly	"A slender-bodied insect with broad, beautiful wings that sucks nectar through its long tube-shaped mouth."
+나쁘다	Adjective	bad	Not good.
+나이	Noun	age	"The number of years a person, animal, or plant has lived since birth."
+나중	Noun	next time; later	The moment after a certain time passes.
+나타나다	Verb 	appear; come into sight	"For a certain, invisible object to show up."
+나흘	Noun	four days	The four days.
+낚시	Noun	fishing; angling	"The act of catching fish, using the tools for this purpose."
+날	Noun	day	"The period of twenty-four hours, from midnight to the midnight the next day."
+날마다	Adjective	everyday	"You use everyday to describe something which happens or is used every day, so it is not especially interesting or unusual."
+날씨	Noun	weather	"The daily temperature or the conditions of rain, clouds, wind, fog, etc., in the atmosphere."
+날씬하다	Adjective	slender; svelte	A person's body being attractively slim and tall.
+날짜	Noun	days	The number of days.
+남녀	Noun	man and woman	A man and a woman.
+남다	Verb 	remain; be left	For part of something to remain without being used up.
+남동생	Noun	younger brother	A brother who is younger.
+남자	Noun	man; male	A person who was born as a male.
+남쪽	Noun	south; southern area	"One of the four points of the compass, the direction which S points to."
+남편	Noun	husband	The man of a married couple.
+남학생	Noun	male student	A student who is male.
+낫다	Verb	recover; get well	To get back to normal after one's illness or injury has healed.
+낮	Noun	day; daytime	The time from sunrise to sunset.
+낮다	Adjective	low	The length from top to bottom being short.
+낮잠	Noun	nap; napping	A sleep in the daytime.
+낳다	Verb	give birth; deliver	To deliver a baby or egg out of one's womb.
+내	Bound Noun	nae	A bound noun used to indicate that something is within a certain range or scope.
+내과	Noun	internal department	A field of medical science that treats diseases of internal organs usually with medicine.
+내년	Noun	next year	The year coming after this year.
+내다	Verb	make; build	"To make a road, passage, window, etc."
+내려가다	Verb	go down; step down; descend	To move from up to down.
+내려오다	Verb	step down	"To come from a high place to a lower place, or from up to down."

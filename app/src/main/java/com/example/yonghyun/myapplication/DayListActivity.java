@@ -58,6 +58,7 @@ public class DayListActivity extends Fragment {
                     tr.replace(R.id.contentPanel, WordListActivityFragment);
                 }
                 else{
+                    State_Field.setDate(position+1);
                     Intent intent = new Intent(getActivity(), QuizActivity.class);
                     startActivity(intent);
                 }

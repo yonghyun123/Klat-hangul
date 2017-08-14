@@ -1,0 +1,60 @@
+소식	Noun	news	Words or a piece of writing that describes the state or circumstances of a person who is far away or not frequently available.
+소아과	Noun	pediatrics	"A field of medical science that treats diseases of children, or the department of the hospital that is in charge of the field."
+소주	Noun	soju	"A Korean liquor distilled with grains, sweet potatoes, etc."
+소파	Noun	sofa; couch	"A long, soft chair that one can sit on and rest one's back against."
+소포	Noun	package; parcel	"A small, wrapped packet sent by mail."
+소풍	Noun	trip; picnic; outing	"The act of going outside to admire the scenery or to relax, play, etc."
+소화제	Noun	digestive medicine	Medicine taken to help digestion.
+속	Noun	inside stuff; interior; flesh	The inside part of an object that is covered with a coat or skin.
+속도	Noun	speed	The speed of either an object's movement or the process of things.
+속옷	Noun	underwear	Clothes worn directly on top of the body inside the outer clothing.
+손	Noun	hand	A body part connected at the end of the wrist that is used to touch or grab something.
+손가락	Noun	finger	The end of the human hand that is divided into five parts.
+손님	Noun	visitor; caller; guest	(honorific) A person who comes to visit someone.
+손수건	Noun	handkerchief	"A small, thin towel that one carries to use."
+손자	Noun	grandson	The son of one's son or daughter.
+송이	Noun	bunch; cluster	"A number of things such as flowers or fruits, etc., grouped together."
+쇠고기	Noun	beef	"Meat from cow, bull or ox."
+쇼핑하다	Verb	do the shopping	"To go around a department store or shop, look at things, and buy them."
+수건	Noun	towel	"A cloth used to wipe the water off the body, face and hand."
+수고하다	Verb 	take the trouble	To use much of one's energy and make an effort to do a certain thing.
+수도	Noun	capital	The city where a country's central government is located.
+수돗물	Noun	tap water	Water from water supply.
+수리하다	Verb	accept	To process a matter or document officially.
+수박	Noun	watermelon	"A big, green, round fruit with blackish blue stripes on it which contains red, watery flesh."
+수수료	Noun	commission; fee; charge	A fee received for doing something on behalf of someone.
+수술하다	Verb	operate	"To slit, cut, attach, and stitch a body part or organ in order to treat an illness."
+수업	Noun	class; lesson; course	A teacher teaching a student certain studies or skills.
+수영	Noun	swimming	Swimming in the water.
+수영복	Noun	swimsuit; bathing suit	Clothes worn when swimming.
+수영장	Noun	swimming pool	A place equipped with facilities so that people can enjoy swimming or participate in swimming competitions.
+수영하다	Verb	swim	To swim in the water.
+수요일	Noun	Wednesday	The third day of a week that starts from Monday.
+수입	Noun	earning; income	"The act of obtaining money or goods, etc., for one's work; or the money or goods thus obtained."
+수저	Noun	spoon and chopsticks	A compound noun meaning a spoon and chopsticks
+수첩	Noun	pocket notebook	A small notebook carried around to write things down in a simple manner when necessary.
+수표	Noun	check	A certificate used like money with which the bank gives the amount of money written on it.
+숙소	Noun	lodging; accommodations	A place that is not one's house where one stays temporarily.
+숙제	Noun	homework	An assignment given to students to do after class for a review or preview.
+순서	Noun	procedure; process	An order by which one does a certain task or a sequence in which work is done.
+숟가락	Noun	spoon	"A tool with a round, concave part and a long handle used to scoop up rice, soup, etc."
+술	Noun	alcohol; liquor	"A beverage that contains alcoholic ingredients so that one gets drunk if one drinks it, such as beer, soju, Korean distilled liquor, etc."
+술집	Noun	bar	A place that sells alcohol.
+숨다	Verb	hide	To hide one's body so that others cannot see it.
+숫자	Noun	number; figure	A word indicating numbers.
+숲	Noun	forest	A place that is full of trees and grasses.
+쉬다(state)	Verb	rest; repose; take a rest	To relax oneself to relieve one's fatigue.
+쉬다(breath)	Verb 	breathe	To breathe in and out air through the nose or mouth.
+쉽다	Adjective	easy	Not hard or difficult to do.
+슈퍼마켓	Noun	supermarket; grocery store	"A big store that is equipped with food, daily necessities, etc., and sells them."
+스스로	Adverb 	by oneself; for oneself 	On one's own without others' help.
+스웨터	Noun	sweater	A thick upper garment knit with yarn.
+스카프	Noun	scarf	"A long, thin piece of fabric put on the head or wrapped around the neck for warmth or fashion."
+스케이트	Noun	skate	"An exercise apparatus for ice skating, made by attaching a metal blade to the soles of shoes."
+스키	Noun	ski	"A long, narrow apparatus made of wood or plastic, allowing a rider to glide on snow."
+스키장	Noun	ski resort	A place equipped with facilities where people can ski.
+스트레스	Noun	stress	"A state in which one feels pressure and tension mentally and physically in work, relationships, environment, etc."
+스포츠	Noun	sports	The act of moving the body according to certain rules or competing using athletic equipment.
+슬퍼하다	Verb	be sad	To consider as sad and sorrowful enough to cry.
+슬프다	Adjective 	sad	Sad and sorrowful enough to make one cry.
+습관	Noun	habit	A mode of behavior naturally learned through repetition.

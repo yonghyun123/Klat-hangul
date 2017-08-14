@@ -1,0 +1,60 @@
+줄	Noun	rope; string	"A thin, long item that is used to tie or knot things together."
+줄무늬	Noun	stripe	A pattern composed of multiple stripes.
+중	Bound Noun	medium	A bound noun used to refer to something out of many.
+중간	Noun	middle	A bound noun used to refer to something out of many.
+중국	Noun	China	China
+중국어	Noun	Chinese	The language spoken by the Chinese people.
+중심	Noun	center	The very middle of something.
+중요하다	Adjective 	important	Valuable and indispensable.
+중학교	Noun	middle school	A school one goes to for secondary education after graduating from elementary school.
+중학생	Noun	middle school student	A student who goes to middle school.
+즐거워하다	Verb 	be pleased; be delighted	To be pleased and satisfied with something.
+즐겁다	Adjective 	joyful; pleasant	Pleased and satisfied with something.
+증상	Noun	symptom	Various conditions that indicate a disorder or disease.
+증세	Noun	symptom	Various conditions that indicate a disorder or disease.
+지각	Noun	tardiness	An act of going to work or school later than the regular time.
+지각하다	Verb	perceive	To understand a fact or thing.
+지갑	Noun	wallet; purse	"An object made of leather, cloth, etc., for carrying money, credit cards, business cards, etc."
+지구	Noun	Earth	"The third planet from the sun, on which humans live."
+지금	Noun	now	The present moment as one speaks.
+지나가다	Verb	pass; go by	For a certain period to end as time passes by.
+지나다	Verb	pass; elapse	To get out of a period as time passes.
+지내다	Verb	live	To live in a certain state or condition.
+지다	Verb	lose	"To fail to defeat one's opponent in a match, fight, etc."
+지도	Noun	map	A picture of all or part of the earth's surface that is drawn on a flat surface.
+지붕	Noun	roof	A structure that covers the top of a house.
+지역	Noun	area; region	A piece of land which is divided according to certain characteristics or criteria.
+지우개	Noun	eraser	"An object made of rubber, used to erase something written with a pencil."
+지키다	Verb	guard; defend	"To prevent something from the loss of wealth, profit, safety, etc., or protecting against external aggression."
+지하	Noun	basement	A story of a building that is made under the ground by digging.
+지하도	Noun	underground tunnel	A passage made by digging underground.
+지하철	Noun	subway	An electric vehicle operating on an underground railway.
+지하철역	Noun	subway station	A place where passengers get on and off the subway.
+직업	Noun	occupation; job	A regular activity done in exchange for payment.
+직원	Noun	employee	A person who works at a certain workplace.
+직장	Noun	workplace	A place where someone works for money.
+직접	Adverb 	in person	"In the manner of doing something personally, without any intermediary such as other persons, goods, etc., in between."
+직진하다	Verb	move straight	To go directly in a straight line.
+진지	Noun	fort; outpost; camp	"A place with facilities and equipment necessary for a battle, where troops are stationed."
+진짜	Noun	authentic	Something that is neither an imitation nor fake.
+질문하다	Verb	ask a question	To ask about something one does not know or wants to know.
+짐	Noun	baggage	Things that are packed to move to somewhere else.
+집	Noun	house	"A structure built by a human or animal to serve as protection from cold, heat, etc., and as a place to live in."
+집안일	Noun	housework; household chores	"Work done in a household, such as the laundry, cleaning, cooking, etc."
+짓다	Verb	make	"To make food, clothes, buildings, etc., with necessary ingredients or components."
+짜다	Adjective	salty	Tasting like salt.
+짜리	Affix	-jjari	"A suffix used to mean ""something of such a number or amount"" or ""something of such a value."""
+짧다	Adjective 	short	The distance between the two ends of a space or object being close.
+쪽	Bound Noun	direction; way	A bound noun used to refer to the direction something goes toward or faces.
+쭉	Adverb	straight	In the manner of drawing a line or marking a boundary straight.
+쯤	Affix	-jjeum	A suffix used to mean an amount.
+찌개	Noun	jjigae	"Korean stew made by putting tofu, vegetables, etc."
+찌다	Verb	steam	To cook or heat up food with hot steam.
+찍다	Verb	stamp	To make an impression by pressing on a flat surface.
+찜질방	Noun	jjimjilbang	A place complete with a traditional sauna and other recreational facilities so as to allow visitors to sweat and relax.
+차(drink)	Noun	tea	"A beverage made by infusing or brewing leaves, roots, fruits, etc., of a plant with a good smell or flavor."
+차(vehicle)	Noun	car; automobile; vehicle	An apparatus with wheels that is designed to carry people or cargo.
+차갑다	Adjective 	cold	The touch of something on one's skin being cold.
+차다	Verb	kick	To kick or raise something powerfully with one's foot.
+차례	Noun	procedure; process	An order by which one does a certain task or a sequence in which work is done.
+차표	Noun	bus ticket; train ticket	A ticket bought to board public transportations.

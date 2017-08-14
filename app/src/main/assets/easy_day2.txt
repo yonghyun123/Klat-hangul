@@ -1,0 +1,60 @@
+건강하다	Adjective	healthy; strong	"Physically or mentally strong, without catching a disease."
+건너가다	Verb	cross; go across	"To move from one place to another across a river, bridge, road, etc."
+건너다	Verb	cross; go across	To cross or pass through something to move over to the opposite side of it.
+건너편	Noun 	opposite side	"The side on the opposite side, across something."
+건물	Noun 	building; structure; edifice	A structure with walls and a roof for people to live in or store objects.
+걷다	Verb	walk	"To lift one's feet, one foot at a time, from the ground and change their positions."
+걸다	Verb	hang	To hang a certain object somewhere so as to prevent it from falling.
+걸리다	Verb	hang	For a certain object to be hung somewhere so as not to fall.
+걸어가다	Verb	walk; tread; stride	To take a step forward in the direction of a destination.
+걸어오다	Verb	walk; come on foot	To take a step forward in the direction of a destination.
+검사	Noun	examination; inspection	"Reviewing a certain incident or object to decide whether it is right or wrong, or good or bad."
+검은색	Noun	black	A very dark color like a night sky with no light.
+것	Bound Noun	something	A bound noun used to refer to a thing or fact that is not specified or determind by someone.
+겉	Noun 	outside; surface; exterior	The outer part of an object that has an inside and an outside.
+게으르다	Adjective	lazy	Acting slowly and hating to move or work.
+게임	Noun	game	A play for deciding the winner and loser according to a certain rule.
+겨울	Noun 	winter	"One of four seasons which is the coldest, and comes between fall and spring."
+결과	Noun 	result; outcome	The state or status after a project or process is completed.
+결국	Noun 	conclusion; end; finale	The stage where an incident or situation is completed.
+결석하다	Verb	be absent from; stay away from	"To miss official gatherings, such as school or meetings."
+결심	Noun	decision; resolution; determination	Making up one's mind about something or this mindset.
+결정하다	Verb	decide	To clearly make a decision about what and how to do it.
+결혼	Noun	marriage; wedding; union; matrimony	A man and woman become legally a married couple.
+결혼식	Noun	wedding	A ceremony announcing the legal matrimony of a man and woman of legal age.
+결혼하다	Verb	marry 	For a man and a woman to become a legally married couple.
+경기	Noun	game; match	Sports or skill-based competitions.
+경기장	Noun	stadium; sports ground	A place with sports games facilities and audience seats.
+경찰관	Noun	police officer; cop	A government employee whose job it is to keep order in society and protect people and property from crimes.
+경찰서	Noun	police station	A government office responsible for the police administration of a region.
+경치	Noun	scenery; scene; view	A beautiful scene of nature or an area.
+경험	Noun	experience	"Doing or going through something, or the knowledge or skills obtained in doing so."
+계단	Noun	stairs; staircase	"A structure consisting of a series of parallel rungs arranged diagonally, used for climbing up or down."
+계란	Noun	egg	A chicken egg.
+계산하다	Verb 	calculate	"To count numbers or make calculations, including addition, subtraction, multiplication, division, etc."
+계속	Adverb	continuously; successively	Continually without interruption.
+계시다	Verb	live	(honorific) For one's senior or superior to live somewhere.
+계절	Noun	season	"One of four divisions of a year distinguished by natural phenomena, which are spring, summer, fall, and winter."
+계획하다	Verb	plan; scheme	To consider carefully about future events and make arrangements for them.
+고구마	Noun	sweet potato; yam	"The root of a plant with a brown or red skin, with yellow insides which taste sweet and savory."
+고기	Noun	meat	The flesh of animals that is eaten as food.
+고등학교	Noun	high school	A school which a middle school graduate or a person with equivalent qualifications goes to.
+고르다	Verb	choose; select	To pick out or single out something among several things.
+고맙다	Adjective	thankful; grateful	Pleased and wanting to return a favor to someone.
+고모	Noun	paternal aunt	A word used to refer to or address the sister of one's father.
+고모부	Noun	uncle by marriage	A word used to refer to or address the husband of a paternal aunt.
+고민하다	Verb	agonize; writhe	To be in agony and distressed due to a worry on one's mind.
+고생하다	Verb 	go through a hardship; have difficulty	"To suffer a painful, difficult, and hard problem."
+고속도로	Noun	expressway; freeway	A driveway set by the law for vehicles to drive fast.
+고속버스	Noun	express bus	A bus that usually uses the freeway and travels a long distance at high speed.
+고양이	Noun	cat	A small animal which can see well in the dark and catches mice well and which is also raised as a pet.
+고장나다	Verb 	break	"When an object breaks or when you break it, it suddenly separates into two or more pieces."
+고추	Noun	red pepper; hot pepper	"A finger-sized, spicy fruit, whose initial green color changes to red when ripe."
+고치다	Verb 	repair; mend	To fix something broken so that it can be used again.
+고프다	Adjective	hungry	Wanting to eat food due to an empty stomach.
+고향	Noun	home; hometown	A place where one was born and grew up.
+곡	Noun	music; musical piece	A piece of music.
+곧	Adverb	immediately	Quickly without delay.
+골고루	Adverb	equally; evenly	In equal amounts without any difference in quantity.
+곱다	Adjective	beautiful	An appearance or shape looking beautiful.
+곳	Noun	place; spot; location	A certain spot or location.

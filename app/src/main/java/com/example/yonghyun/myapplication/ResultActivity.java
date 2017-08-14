@@ -19,10 +19,9 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 public class ResultActivity extends AppCompatActivity {
-    private ArrayList<String> wronglist;
+    private ArrayList<WordPackageItem> wronglist;
 
     private ArrayList<WordPackageItem> wrongItemList;
-    private WordPackageItem wrongItem;
     private ArrayAdapter<WordPackageItem> wrongWordAdapter;
     private ListView wrongListView;
 
@@ -32,7 +31,7 @@ public class ResultActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_result);
-
+        wrongItemList = new ArrayList<>();
         SpannableString s = new SpannableString("App Name");
         s.setSpan(new ForegroundColorSpan(Color.parseColor("#ff9d00")), 0, "App Name".length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
         getSupportActionBar().setTitle(s);
@@ -41,14 +40,14 @@ public class ResultActivity extends AppCompatActivity {
         TextView score = (TextView) findViewById(R.id.scoreText);
         Button btn = (Button) findViewById(R.id.ok_btn);
         wrongListView = (ListView) findViewById(R.id.wrongItem);
+        wronglist = new ArrayList<>();
         int pos = 0;
 
         Intent intent = getIntent();
         pos = intent.getExtras().getInt("positive");
         score.setText(pos+ " / " + 20);
-        wronglist = intent.getStringArrayListExtra("list");
+        wronglist = (ArrayList<WordPackageItem>)intent.getSerializableExtra("list");
 
-        wrongItemList = new ArrayList<>();
         setWrongWords();
 
 
@@ -70,31 +69,15 @@ public class ResultActivity extends AppCompatActivity {
         });
     }
     private void setWrongWords(){
-        int cnt = 0;
-        wrongItem = new WordPackageItem();
         db = new DBWordHelper(this);
-        for(int i = 0; i<wronglist.size();i++){
-            cnt++;
-            if(i%2 == 0){
-                wrongItem.setKoreanWord(wronglist.get(i));
-            }
-            else{
-                wrongItem.setEnglishWord(wronglist.get(i));
-            }
-            wrongItem.setSeletedWord(db.selectedWord(wrongItem));
-            if(cnt != 0 && cnt%2 == 0){
-                wrongItem.setPartOfWord(wronglist.get(i));
-                wrongItem.setTranslateWord(wronglist.get(i));
-                wrongItemList.add(wrongItem);
-                wrongItem = new WordPackageItem();
-            }
-        }
+        wrongItemList.addAll(wronglist);
     }
 
     private void setListViewAdapter(boolean[] checkedStatus){
-        wrongWordAdapter = new WrongListViewAdapter(this, R.layout.word_list_item, wrongItemList,checkedStatus);
+        wrongWordAdapter = new WrongListViewAdapter(this, R.layout.word_list_item, wrongItemList, checkedStatus);
         wrongListView.setAdapter(wrongWordAdapter);
     }
+
     public void updateAdapter(){
         wrongWordAdapter.notifyDataSetChanged();
 

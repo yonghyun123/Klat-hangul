@@ -1,0 +1,61 @@
+통장	Noun	bank book; deposit passbook	"In a financial institution, a book given to a person who deposits money, in which deposits and withdrawals are recorded."
+통화	Noun	talking over the telephone	An act of talking with someone using a telephone.
+통화하다	Verb	talk over the telephone	To talk with someone using a telephone.
+퇴근	Noun	leaving work; arriving home from work	An act of leaving one's workplace or returning home after work.
+퇴근하다	Verb	leaving work; arriving home from work	An act of leaving one's workplace or returning home after work.
+퇴원하다	Verb	leave the hospital; be discharged from the hospital	To leave the hospital after one stayed there for a certain period of time to have one's disease treated.
+특별하다	Adjective	special	"Being different from what is normal, with a noticeable gap."
+특별히	Adverb	specially; particularly; especially	With a noticeable difference compared with others.
+특징	Noun	distinct characteristic; peculiarity; feature	A trait of something which is noticeable because it is especially different.
+튼튼하다	Adjective 	strong	Very hard and firm.
+틀다	Verb	twist	To twist and turn one’s body or part of one’s body in another direction.
+틀리다	Verb	be wrong; be incorrect	"For a calculation, answer, fact, etc., to not be correct."
+티셔츠	Noun	T-shirt	A short-sleeved shirt that looks like the letter 'T'.
+팀	Noun	team	A group of people who do the same kind of work.
+파	Noun	green onion; scallion	"A vegetable whose long, pointy, cylindrical leaves are empty in the center."
+파란색	Noun	blue	"The color of light and clear blue, like that of a clear sky or ocean."
+파랗다	Adjective	blue	A color being brightly and vividly blue like that of a clear fall sky or deep sea.
+파티	Noun	party	A feast or gathering to make friends or to celebrate an occasion.
+팔(body)	Noun	arm	The body part from the shoulder to the wrist.
+팔다	Verb	sell	"To give an object or a right to someone or provide one’s effort, etc., to someone after receiving money for it."
+패션	Noun	fashion	A field related with the ways of coordinating clothes or enhancing the looks of people.
+펴다	Verb	open; spread out	To bend back and spread a folded or rolled object.
+편지	Noun	letter	The act of saying what one has to say in writing and sending it to another person.
+편하다	Adjective	comfortable; easy; peaceful	"The state of one's body or mind being good, neither sick, nor troubled."
+평일	Noun	weekday	"A day which is not Saturday, Sunday, or a holiday."
+포도	Noun	grape	"Purple, small fruits forming a bundle, tasting sweet and a little sour."
+포장	Noun	wrapping; gift-wrapping; package; packaging material	An act of wrapping or packing an object; or the material used for such a purpose.
+표	Noun	ticket	A note that certifies that the holder of the note has a certain right.
+표현	Noun	expression; representation	"An act of turning one's feelings, thoughts, etc., into a speech, a piece of writing, a gesture, etc., and showing it."
+푹	Adverb	soundly	A word describing an act of falling asleep or taking a good rest to recover from fatigue.
+풀	Noun	grass; herb; weed	A plant with a tender stem that usually dies after one year.
+프로그램	Noun	program; list of shows	"The list of operation plans or orders of a certain event, or the details of such an event."
+피곤하다	Adjective 	tired; exhausted; fatigued	Being tired and worn-out physically or mentally.
+피다	Verb	bloom; blossom	"For a flower bud, leaf, etc., to open."
+피아노	Noun	piano	A musical instrument that produces sound when its black and white keys are tapped or pressed with fingers.
+피우다	Verb	make bloom; open up	"To open up the buds or petals of a flower, etc."
+피자	Noun	pizza	"Food originating in Italy, made by baking a round, flat piece of dough topped with tomato, meat, cheese, etc."
+필요하다	Adjective 	necessary; needed	Being necessary.
+필통	Noun	pencil case	"A pouch or box carried to hold pencils, erasers, etc."
+하늘	Noun	sky	"The vast, limitless space that unfolds above the ground."
+하늘색	Noun	sky blue	A pale blue color like that of a clear sky.
+하다	Verb	do; perform	"To perform a certain move, action, activity, etc."
+하루	Noun	day	The 24 hours from midnight to the following midnight.
+하숙	Noun	boarding house; lodging 	"The act of staying in another's house, paying for a room and meals; or a house operated in such a manner."
+하숙집	Noun	boarding house; lodging house; rooming house	"A house where a lodger stays, paying for a room and meals."
+하얗다	Adjective	white	"Clearly bright, white like the color of snow or milk."
+하지만	Adverb 	but; however	A word used to connect two statements that are opposite in meaning to each other.
+학교	Noun	school	"An institution where teachers teach students in accordance with a certain purpose, curriculum, or policy, etc."
+학기	Noun	semester; term	One of the divisions of an academic year.
+학년	Noun	year; grade	"The stages of school education, each spanning one year, divided according to level of learning."
+학생	Noun	student; learner	A person who studies in a school.
+학생증	Noun	student identification	A document proving that one is a student at a certain school.
+학원	Noun	school	"An institution where teachers teach students in accordance with a certain purpose, curriculum, or policy, etc."
+한국	Noun	Korea	Korea
+한국어	Noun	Korean; Korean language	The language used by Korean people.
+한글	Noun	Han-geul	The name for the Korean alphabet.
+한글날	Noun	Hangeullal	Hangeul Day: A national holiday on October 9th.
+한복	Noun	hanbok	Traditional Korean clothes.
+한식	Noun	hansik	Korean dishes.
+할머니	Noun	grandmother; granny	A word used to refer to or address the mother of one's father or mother.
+할아버지	Noun	grandfather; grandpa	A word used to refer to or address the father of one's father or mother.

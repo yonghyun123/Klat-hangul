@@ -20,6 +20,7 @@ import android.widget.Toast;
 
 import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -28,7 +29,9 @@ import java.util.Random;
 public class QuizActivity extends AppCompatActivity {
     private ArrayList<WordPackageItem> packageItemsList;
     private WordPackageItem packageItems;
-    private ArrayList<String> wrongItemsList;
+    private ArrayList<WordPackageItem> wrongItemsList;
+    private InputStream inputData;
+
     InputMethodManager imm;
 
     int index = 0;
@@ -52,6 +55,13 @@ public class QuizActivity extends AppCompatActivity {
         final EditText edit = (EditText) findViewById(R.id.editText);
         final ProgressBar progressBar = (ProgressBar) findViewById(R.id.progressBar);
         final LinearLayout layout = (LinearLayout) findViewById(R.id.quizscreen);
+
+        try {
+            inputData = getAssets().open("easy_day"+State_Field.getDate()+".txt");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
 
         long seed = System.nanoTime();
         imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
@@ -78,8 +88,7 @@ public class QuizActivity extends AppCompatActivity {
                     positive++;
                 } else {
                     Toast.makeText(view.getContext(), "Incorrect!", Toast.LENGTH_SHORT).show();
-                    wrongItemsList.add(packageItemsList.get(index).getKoreanWord().toString());
-                    wrongItemsList.add(packageItemsList.get(index).getEnglishWord().toString());
+                    wrongItemsList.add(packageItemsList.get(index));
                 }
                 if (progress <= 20) {
                     progressBar.setProgress(progress);
@@ -89,7 +98,7 @@ public class QuizActivity extends AppCompatActivity {
                 } else {
                     Intent intent = new Intent(QuizActivity.this, ResultActivity.class);
                     intent.putExtra("positive", positive);
-                    intent.putStringArrayListExtra("list", wrongItemsList);
+                    intent.putExtra("list", wrongItemsList);
                     startActivity(intent);
                 }
             }
@@ -135,7 +144,7 @@ public class QuizActivity extends AppCompatActivity {
         BufferedReader reader = null;
         String[] splitstr = null;
         try{
-            reader = new BufferedReader(new InputStreamReader(getResources().openRawResource(R.raw.easy_day1),"UTF-8"));
+            reader = new BufferedReader(new InputStreamReader(inputData,"UTF-8"));
             String line = null;
 
             while((line = reader.readLine())!=null && !line.equals(" ")){

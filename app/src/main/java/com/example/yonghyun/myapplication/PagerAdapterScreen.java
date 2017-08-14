@@ -34,7 +34,6 @@ public class PagerAdapterScreen extends Fragment {
         return v;
     }
 
-
     private class pagerAdapter extends FragmentStatePagerAdapter {
 
         public pagerAdapter(FragmentManager fm) {
@@ -50,7 +49,6 @@ public class PagerAdapterScreen extends Fragment {
                 default: return null;
             }
         }
-
         @Override
         public int getCount() {
             return 2;

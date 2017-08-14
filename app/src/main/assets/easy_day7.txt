@@ -1,0 +1,60 @@
+다양하다	Adjective	various; diverse	"Being varied in colors, shapes, types or content."
+다음	Noun	next; following	"Something that comes right after another in a sequence of time, place, turn, etc."
+다이어트	Noun	diet	An act of eating while controlling the kinds and amount of food for health or beauty.
+다치다	Verb	be injured	"To be hit or bumped into by something or someone, so that one's body or body part is injured; to make an injury."
+닦다	Verb	wipe; scrub 	To rub to eliminate dirty things.
+단	Determiner	just; merely; simply	A word that indicates there is only the amount of something.
+단어	Noun	word	"The smallest independent unit of language, which has a certain meaning or function."
+단점	Noun	weakness; shortcoming; demerit	A trait of one's personality that is defective or not admirable.
+단체	Noun	group; society; association	An organization of people who gather for a common goal.
+닫다	Verb	shut	"To close something that is opened, such as the door, lid, drawer, etc., by moving it back to its original position."
+달(date)	Noun	month	A period in a year divided by twelve.
+달다(taste)	Adjective	sweet	Tasting like honey or sugar.
+달라지다	Verb	become different	To become different from before.
+달력	Noun	calendar	"Paper or a booklet with months, days, days of week, seasonal divisions, dates of events, etc."
+달리다	Verb 	run	To come or go quickly by running.
+닭	Noun	chicken	A big bird unable to fly that is raised on a farm since it lays eggs frequently.
+닭고기	Noun	chicken	The flesh of a chicken used for food.
+닮다	Verb 	resemble	For two or more people or objects to have similar appearances or qualities.
+담다	Verb 	dish up	"To put something into a dish, etc."
+담배	Noun	cigarette	"A roll of fine slices of dried tobacco leaves, which is made for smoking."
+답장	Noun	reply; answer	The letter sent in response to a former letter or a question.
+닷새	Noun	five days	A duration of five days.
+당근	Noun	carrot	An orange-colored root vegetable that has a sweet taste and the shape of a horn.
+당신	Pronoun 	you	"(formal, slightly addressee-raising) A pronoun used to indicate the listener."
+당장	Noun	right now	The very place or time where an incident occurs.
+대	Bound Noun	dae	"A bound noun that serves as a unit for counting the number of cars, planes, musical instruments, machines, etc."
+대다	Verb	make something touch something else	To make something touch a place.
+대단하다	Adjective	great; excellent	So remarkable.
+대단히	Adverb 	very much; greatly	Much more than an average degree.
+대답하다	Verb	answer; reply	To reply to a call.
+대문	Noun	gate	"A large door for one's entrance and exit, which is usually located at the front of a house."
+대부분	Noun	most; bulk; majority	The number or quantity exceeding the half and nearing almost a total.
+대사관	Noun	embassy	"The institution representing a country in a foreign land, with an ambassador as its head."
+대중교통	Noun	public transportation	Transportation modes used by the general public such as the bus or subway.
+대출	Noun	loan; lending; borrowing	An act of lending or borrowing money or goods.
+대통령	Noun	president	"In a republican system, a person who represents a country and holds the highest position in the administration."
+대표	Noun	representative	"The quality of representing well the state or characteristic of the whole by one thing, or such a thing."
+대학교	Noun	university; college	An institution offering the last stage of school education attended by high school graduates.
+대학생	Noun	college student	A student attending college.
+대학원	Noun	graduate school	An institution where college graduates can learn and study further.
+대학원생	Noun	graduate student	A student attending graduate school.
+대한민국	Noun	Republic of Korea	Republic of Korea
+대화	Noun	dialogue; conversation; talk	"Talking with and facing another person, or this kind of talk."
+대회	Noun	competition; contest	An event where many people compete with each other over their abilities or skills.
+댁	Noun	one's family	(polite form) Another person's home or family.
+더럽다	Adjective	dirty	Dirty or filthy due to dirt or residue.
+덥다	Adjective	hot	(temperature) Feeling high.
+덮다	Verb 	cover	To put an object over something in order for it not to be revealed or visible.
+데이트	Noun	date	A meeting of a man and woman to go out.
+도둑	Noun	theft; steal; thief	"The act of stealing someone else's belongings or taking them without permission, or someone who commits such act."
+도로	Noun	road	A path built for cars and people to travel.
+도망가다	Verb	escape; make off; flee	To run away from something or someone because one is either chased or wants to avoid it or him/her.
+도서관	Noun	library	A facility with lots of books and materials for people to borrow and read or study.
+도시	Noun	city	"An area where many people live and which is the center of politics, economics, and culture."
+도시락	Noun	lunch box	"A portable, simple container for holding food."
+도와주다	Verb	help; assist	"To help someone with something, or give support."
+도장	Noun	seal; stamp	An item made by cutting a material such as wood or crystal and engraving a name on it.
+도착하다	Verb	arrive; reach	To reach a destination.
+독감	Noun	flu; influenza	"An epidemic disease, similar to a severe cold."
+독서	Noun	reading	The act of a person who reads a book.

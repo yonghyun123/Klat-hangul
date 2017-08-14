@@ -1,0 +1,60 @@
+시(time)	Bound Noun	o'clock	A bound noun indicating one of 24 hours of a day.
+시각	Noun	time; hour	A certain single point in the continuous flow of time.
+시간	Noun	time	The amount of time from one point to another.
+시간표	Noun	schedule	"A table that lists things to be done, etc.by time division."
+시계	Noun	clock	A machine that shows the time.
+시골	Noun	rural area; countryside	"An underdeveloped, thinly populated area far from a city."
+시끄럽다	Adjective	loud	Unpleasantly loud and noisy.
+시내	Noun	downtown	The inside of a city.
+시다	Adjective	sour	Tasting vinegary.
+시민	Noun	urbanite; city dweller; citizen 	A resident living in a city.
+시설	Noun	facility; installation	"for a certain purpose, or such a building or objects like a tool, machine, device, etc."
+시아버지	Noun	father-in-law	The father of one's husband.
+시어머니	Noun	mother-in-law	The mother of one's husband.
+시외	Noun	suburbs	The outside of the city.
+시원하다	Adjective	cool	"Moderately cool, neither hot nor cold."
+시작	Noun	start; beginning	"The act of constituting or causing to constitute the initial phase of an affair or action, or such a phase."
+시작하다	Verb 	start; begin; initiate	To constitute or cause to constitute the initial phase of an affair or action.
+시장	Noun	market	A place for selling and buying a variety of products.
+시집가다	Verb 	get married	For a woman to get married and become the wife of a man.
+시청	Noun	city hall	An institution responsible for taking care of the city's administrative affairs.
+시키다	Verb 	order	To make a person do something.
+시합	Noun	game; contest	"The act of competing with others by showing one's ability to the fullest in games such as sports, etc."
+시험	Noun	test; exam	The act of testing and evaluating knowledge or capabilities.
+식구	Noun	family member	A group of people who mainly live together in the same house.
+식다	Verb 	cool; cool down; get cold	For warmth to disappear.
+식당	Noun	restaurant; eating place	A store where food is made and served.
+식료품	Noun	food	Food used as ingredients for cuisines.
+식사	Noun	meal	"The act of eating food daily at a certain time such as breakfast, lunch and dinner, or such food."
+식탁	Noun	dining table	A table on which food is set to be eaten.
+식후	Noun	after a meal	After eating a meal.
+신나다	Verb 	become happy; become delighted; become elated	To get excited and come to feel very good.
+신다	Verb 	put on; wear	"To put one's feet into a pair of shoes, socks, etc., and cover the whole or a part of the feet with them."
+신문	Noun	newspaper; paper	A publication that delivers to its readership information about new events occurring around the world on a regular basis.
+신문사	Noun	newspaper publishing company	A company that makes and publishes newspaper.
+신발	Noun	shoes; footwear	An object worn in order to protect one's feet when standing or walking.
+신발장	Noun	shoe rack; shoe closet	A piece of furniture for storing shoes.
+신분증	Noun	identification card	A document or card that proves one's identity or affiliation.
+신선하다	Adjective	novel; original	New and fresh.
+신용카드	Noun	credit card 	A card with which one can pay for the goods or services one purchased after a certain period.
+신청서	Noun	application form	"A document to fill out when requesting something from a group or institution, etc."
+신청하다	Verb 	apply	"To make an official request to an organization, institution, etc., asking for it to do something."
+신호등	Noun	traffic light; traffic signal	"The device directing the passage of cars or passengers on a road, with colored lights."
+신혼	Noun	new marriage; being newly-married	Being newly married or marrying someone newly.
+신혼여행	Noun	honeymoon	"A trip of a newly-married couple, after their wedding ceremony."
+실내	Noun	interior of a room; indoor	"The inside of a room, building, etc."
+실력	Noun	ability; capability	One's ability to achieve something.
+실례하다	Verb 	commit a breach of etiquette; commit a discourtesy	For one's remark or behavior to be impolite
+실수	Noun	mistake; blunder	A fault committed because one does not know something well or is not careful.
+실수하다	Verb 	make a mistake; make a slip	To commit a fault because one does not know something well or is not careful.
+싫다	Adjective	disgusting; distasteful; having no taste for	Being not to one's taste
+싫어하다	Verb 	hate; dislike	To not like or want something.
+심다	Verb 	plant	"To put the root or seed of grass, a tree, etc., into the ground."
+심심하다	Adjective 	bored	Feeling weary and having a dull time because one has nothing to do.
+심하다	Adjective 	severe; harsh	The degree of something being excessive.
+싱겁다	Adjective 	not salty; flat	Not tasting salty enough.
+싱싱하다	Adjective 	fresh	"Full of life, not wilted or rotten."
+싸다(price )	Adjective	cheap	Lower than usual in price.
+싸다(packing)	Verb 	wrap	"To wrap an object or person with paper, fabric, etc."
+싸우다	Verb 	fight; quarrel; dispute	To try to win by argument or force.
+싸움	Noun	fight; struggle	A dispute where the opposing parties try to win by argument or force.
