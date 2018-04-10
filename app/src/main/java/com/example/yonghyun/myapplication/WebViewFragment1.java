@@ -45,7 +45,7 @@ public class WebViewFragment1 extends Fragment {
         // Inflate the layout for this fragment
         final View v = inflater.inflate(R.layout.fragment_web_view1, container, false);
         imageView = (ImageView)v.findViewById(R.id.imageWebView1);
-        imageView.setImageResource(R.drawable.klat_logo);
+        imageView.setImageResource(R.drawable.logo1);
 
         imageView.setOnClickListener(new View.OnClickListener() {
             @Override
